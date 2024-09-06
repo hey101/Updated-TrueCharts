@@ -1,0 +1,36 @@
+# Fake external service image
+image:
+  repository: "alpine"
+  pullPolicy: "IfNotPresent"
+  tag: "3.20.2@sha256:0a4eaa0eecf5f8c050e5bba433f58c052be7587ee8af3e8b3910ef9ab5fbe9f5"
+
+global:
+  # Ignore isStopped
+  ignoreIsStopped: true
+
+service:
+  main:
+    type: ExternalIP
+    externalIP: "1.1.1.1"
+    useSlice: false
+    ports:
+      main:
+        protocol: https
+        port: 10003
+        # Target port is the port of the "external service"
+        # Defaults to "port" if not set
+workload:
+  main:
+    enabled: false
+    podSpec:
+      containers:
+        main:
+          env: {}
+portal:
+  open:
+    enabled: true
+
+ingress:
+  main:
+    annotations:
+      traefik.frontend.passHostHeader: "false"

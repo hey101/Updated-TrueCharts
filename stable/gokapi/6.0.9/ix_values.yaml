@@ -1,0 +1,32 @@
+image:
+  pullPolicy: "IfNotPresent"
+  repository: "f0rc3/gokapi"
+  tag: "v1.9.1@sha256:e61cc36c159a2e8c4f871eb9b51311ac1c095ff2e433cc9549f3a038bb964675"
+persistence:
+  config:
+    enabled: true
+    mountPath: /app/config
+  data:
+    enabled: true
+    mountPath: /app/data
+portal:
+  open:
+    enabled: true
+service:
+  main:
+    ports:
+      main:
+        port: 53842
+        protocol: http
+        targetPort: 53842
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            GOKAPI_LENGTH_ID: "15"
+            GOKAPI_MAX_FILESIZE: "102400"
+            GOKAPI_MAX_MEMORY_UPLOAD: "20"
+            GOKAPI_PASSWORD: changme
+            GOKAPI_USERNAME: admin
