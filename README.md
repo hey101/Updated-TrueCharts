@@ -31,3 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+- ### Changelog:
+	- 2024.09.07 @ 05:58 PM EST:
+		- authentik: v2024.8.0 --> v2024.8.1
+		- game-server-watcher: v3.1.17 --> v3.1.18
+		- tinymediamanager: v5.0.10 --> v5.0.11
+		- watchyourlan: v2.0.1 --> v2.0.2
+		- zigbee2mqtt: v1.40.0 --> v1.40.1
