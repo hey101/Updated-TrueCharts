@@ -31,24 +31,3 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
-- ### Changelog:
-	- 2024.09.09 @ 05:44 PM EST:
-		- alist: v3.36.0 --> v3.37.1
-		- authentik: v2024.8.0 --> v2024.8.1
-		- game-server-watcher: v3.1.17 --> v3.1.18
-		- ghostfolio: v2.105.0 --> v2.106.0
-		- healthchecks: v3.6.20240904 --> v3.6.20240909
-		- ispy-agent-dvr: v5.7.4.0 --> v5.7.5.0
-		- jellyfin: v10.9.10 --> v10.9.11
-		- maintainerr: v2.1.0 --> v2.1.1
-		- memcached: v1.6.30 --> v1.6.31
-		- meshcentral: v1.1.27 --> v1.1.29
-		- ollama: v0.3.9 --> v0.3.10
-		- paperless-ngx: v2.11.6 --> v2.12.0
-		- plextraktsync: v0.31.12 --> v0.31.13
-		- prowlarr: v1.23.1.4708 --> v1.24.0.4721
-		- scrypted: v0.117.3 --> v0.118.0
-		- tinymediamanager: v5.0.10 --> v5.0.11
-		- watchyourlan: v2.0.1 --> v2.0.2
-		- whisparr: v3.0.0.607 --> v3.0.0.610
-		- zigbee2mqtt: v1.40.0 --> v1.40.1
