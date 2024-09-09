@@ -31,7 +31,6 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
-- ### Changelog:
 	- 2024.09.09 @ 05:53 PM EST:
 		- alist: v3.36.0 --> v3.37.1
 		- authentik: v2024.8.0 --> v2024.8.1
