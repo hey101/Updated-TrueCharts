@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.10 @ 07:17 PM EST:
+		- audiobookshelf: v2.13.3 --> v2.13.4
+		- cloudflared: v2024.8.3 --> v2024.9.1
+		- cops: v2.8.1 --> v3.1.2
+		- docker: v27.2.0 --> v27.2.1
+		- homepage: v0.9.6 --> v0.9.9
+		- jenkins: v2.475.0 --> v2.476.0
+		- minio: v2024.08.29 --> v2024.09.09
+		- netdata: v1.47.0 --> v1.47.1
+		- portainer: v2.21.0 --> v2.21.1
+		- redisinsight: v2.54.0 --> v2.56.0
+		- satisfactory: v1.6.2 --> v1.7.1
+		- solr: v9.6.1 --> v9.7.0
 	- 2024.09.09 @ 05:53 PM EST:
 		- alist: v3.36.0 --> v3.37.1
 		- authentik: v2024.8.0 --> v2024.8.1
