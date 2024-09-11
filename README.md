@@ -31,12 +31,6 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
-	- 2024.09.11 @ 12:46 AM EST:
-		- ghostfolio: v2.106.0 --> v2.107.0
-		- linkding: v1.31.1 --> v1.32.0
-		- metabase: v0.50.24 --> v0.50.25
-		- satisfactory: v1.7.1 --> v1.7.3
-		- scrypted: v0.118.0 --> v0.119.0
 	- 2024.09.10 @ 07:17 PM EST:
 		- audiobookshelf: v2.13.3 --> v2.13.4
 		- cloudflared: v2024.8.3 --> v2024.9.1
