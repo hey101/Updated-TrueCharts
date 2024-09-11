@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.11 @ 01:42 AM EST:
+		- docuseal: v1.5.6 --> v1.7.1
+		- grafana: v11.0.0 --> v11.2.0
+		- pingvin-share: v0.24.1 --> v1.0.4
+		- prometheus: v2.52.0 --> v2.54.1
+		- semaphore: v2.9.75 --> v2.19.10
+		- slskd: v0.20.1 --> v0.21.3
+		- snapshot-controller: v7.0.1 --> v8.0.1
+		- teslamate: v1.29.1 --> v1.30.1
+		- vaultwarden: v1.30.5 --> v1.32.0
+		- victoriametrics: v1.99.0 --> v1.103.0
 	- 2024.09.11 @ 01:03 AM EST:
 		- ghostfolio: v2.106.0 --> v2.107.0
 		- linkding: v1.31.1 --> v1.32.0
