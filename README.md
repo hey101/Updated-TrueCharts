@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.11 @ 04:18 PM EST:
+		- ipfs: v0.29.0 --> v0.30.0
+		- ispy-agent-dvr: v5.7.5.0 --> v5.7.6.0
+		- komga: v1.12.1 --> v1.13.0
+		- metube: v2024.8.22 --> v2024.9.11
+		- n8n: v1.58.1 --> v1.59.0
+		- satisfactory: v1.7.3 --> v1.7.4
+		- wordpress: v6.6.1 --> v6.6.2
 	- 2024.09.11 @ 01:57 AM EST:
 		- docuseal: v1.5.6 --> v1.7.1
 		- ghostfolio: v2.106.0 --> v2.107.0
