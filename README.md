@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.12 @ 10:08 AM EST:
+		- autobrr: v1.45.0 --> v1.46.0
+		- fluidd: v1.30.3 --> v1.30.4
+		- plex: v1.40.5.8921 --> v1.41.0.8992
+		- qbitrr: v4.9.2 --> v4.9.3
+		- satisfactory: v1.7.4 --> v1.8.1
 	- 2024.09.11 @ 09:23 PM EST:
 		- unifi: v8.4.59 --> v8.4.62
 	- 2024.09.11 @ 04:18 PM EST:
