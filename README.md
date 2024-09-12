@@ -31,6 +31,8 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.11 @ 09:23 PM EST:
+		- unifi: v8.4.59 --> v8.4.62
 	- 2024.09.11 @ 04:18 PM EST:
 		- ipfs: v0.29.0 --> v0.30.0
 		- ispy-agent-dvr: v5.7.5.0 --> v5.7.6.0
