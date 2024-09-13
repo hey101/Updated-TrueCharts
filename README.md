@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.12 @ 08:19 PM EST:
+		- autobrr: v1.46.0 --> v1.46.1
+		- cops: v3.1.2 --> v3.1.3
+		- emulatorjs: v1.9.0 --> v1.9.2
+		- immich: v1.114.0 --> v1.115.0
+		- satisfactory: v1.8.1 --> v1.8.3
 	- 2024.09.12 @ 10:08 AM EST:
 		- autobrr: v1.45.0 --> v1.46.0
 		- fluidd: v1.30.3 --> v1.30.4
