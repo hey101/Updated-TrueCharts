@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.13 @ 03:39 AM EST:
+		- automatic-ripping-machine: v2.8.0 --> v2.8.1
+		- calibre: v7.17.0 --> v7.18.0
+		- ghostfolio: v2.107.0 --> v2.107.1
+		- synclounge: v5.2.31 --> v5.2.33
 	- 2024.09.12 @ 08:19 PM EST:
 		- autobrr: v1.46.0 --> v1.46.1
 		- cops: v3.1.2 --> v3.1.3
