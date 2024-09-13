@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.13 @ 11:18 AM EST:
+		- maintainerr: v2.1.1 --> v2.1.2
+		- satisfactory: v1.8.3 --> v1.8.4
 	- 2024.09.13 @ 03:39 AM EST:
 		- automatic-ripping-machine: v2.8.0 --> v2.8.1
 		- calibre: v7.17.0 --> v7.18.0
