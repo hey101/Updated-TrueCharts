@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.14 @ 11:07 AM EST:
+		- alist: v3.37.1 --> v3.37.2
+		- collabora: v24.04.7.1.2 --> v24.04.7.2.1
+		- flexget: v3.11.43 --> v3.11.45
+		- impostor-server: v1.9.3 --> v1.10.0
+		- linkding: v1.32.0 --> v1.33.0
+		- mkvtoolnix: v24.07.2 --> v24.09.1
+		- qinglong: v2.17.10 --> v2.17.11
+		- scrypted: v0.119.0 --> v0.119.1
+		- xen-orchestra: v5.153.1 --> v5.154.0
 	- 2024.09.13 @ 11:18 AM EST:
 		- maintainerr: v2.1.1 --> v2.1.2
 		- satisfactory: v1.8.3 --> v1.8.4
