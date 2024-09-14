@@ -31,6 +31,8 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.13 @ 10:26 PM EST:
+		- flexget: v3.11.43 --> v3.11.45
 	- 2024.09.13 @ 06:20 PM EST:
 		- alist: v3.37.1 --> v3.37.2
 		- collabora: v24.04.7.1.2 --> v24.04.7.2.1
