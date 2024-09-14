@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.14 @ 11:09 AM EST:
+		- impostor-server: v1.9.3 --> v1.10.0
+		- linkding: v1.32.0 --> v1.33.0
+		- xen-orchestra: v5.153.1 --> v5.154.0
 	- 2024.09.13 @ 10:26 PM EST:
 		- flexget: v3.11.43 --> v3.11.45
 	- 2024.09.13 @ 06:20 PM EST:
