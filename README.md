@@ -31,6 +31,8 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.15 @ 07:29 PM EST:
+		- meshcentral: v1.1.29 --> v1.1.30
 	- 2024.09.15 @ 12:42 PM EST:
 		- cops: v3.1.3 --> v3.2.2
 		- handbrake: v24.06.1 --> v24.09.1
