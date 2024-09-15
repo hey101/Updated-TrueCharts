@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.15 @ 12:42 PM EST:
+		- cops: v3.1.3 --> v3.2.2
+		- handbrake: v24.06.1 --> v24.09.1
+		- homebox: v0.14.1 --> v0.14.2
+		- minio: v2024.09.09 --> v2024.09.13
+		- pingvin-share: v1.0.4 --> v1.1.0
+		- recyclarr: v7.2.3 --> v7.2.4
+		- satisfactory: v1.8.4 --> v1.8.5
+		- slskd: v0.21.3 --> v0.21.4
+		- tdarr: v2.24.05 --> v2.25.01
+		- tdarr-node: v2.24.05 --> v2.25.01
 	- 2024.09.14 @ 11:09 AM EST:
 		- impostor-server: v1.9.3 --> v1.10.0
 		- linkding: v1.32.0 --> v1.33.0
