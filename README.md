@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.15 @ 10:41 PM EST:
+		- bazarr: v1.4.3 --> v1.4.4
+		- minetest: v5.9.0 --> v5.9.1
+		- requestrr: v2.1.6 --> v2.1.7
+		- ubooquity: v2.1.2 --> v2.1.4
 	- 2024.09.15 @ 07:29 PM EST:
 		- meshcentral: v1.1.29 --> v1.1.30
 	- 2024.09.15 @ 12:42 PM EST:
