@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.16 @ 06:41 PM EST:
+		- alist: v3.37.2 --> v3.37.3
+		- authentik: v2024.8.1 --> v2024.8.2
+		- docuseal: v1.7.1 --> v1.7.2
+		- healthchecks: v3.6.20240909 --> v3.6.20240916
+		- home-assistant: v2024.9.1 --> v2024.9.2
+		- linkding: v1.33.0 --> v1.34.0
+		- metube: v2024.9.11 --> v2024.9.16
+		- n8n: v1.59.0 --> v1.59.1
+		- paperless-ngx: v2.12.0 --> v2.12.1
+		- photoprism: v240711.0.0 --> v240915.0.0
+		- splunk: v9.3.0 --> v9.3.1
+		- theme-park: v1.17.0 --> v1.18.0
 	- 2024.09.15 @ 10:40 PM EST:
 		- bazarr: v1.4.3 --> v1.4.4
 		- minetest: v5.9.0 --> v5.9.1
