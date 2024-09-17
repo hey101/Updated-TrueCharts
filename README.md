@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.17 @ 07:12 PM EST:
+		- ddns-updater: v2.7.0 --> v2.7.1
+		- game-server-watcher: v3.1.18 --> v3.1.20
+		- navidrome: v0.52.5 --> v0.53.0
+		- openvscode-server: v1.93.0 --> v1.93.1
+		- qbittorrent: v4.6.6 --> v4.6.7
+		- traefik: v3.1.2 --> v3.1.3
+		- zwavejs2mqtt: v9.18.1 --> v9.19.0
 	- 2024.09.16 @ 06:41 PM EST:
 		- alist: v3.37.2 --> v3.37.3
 		- authentik: v2024.8.1 --> v2024.8.2
