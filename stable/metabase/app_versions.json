@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/metabase/4.1.2",
-        "last_update": "2024-09-17 23:56:37",
+        "last_update": "2024-09-17 23:55:54",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

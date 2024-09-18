@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/static-web-server/5.2.6",
-        "last_update": "2024-09-17 23:56:38",
+        "last_update": "2024-09-17 23:55:55",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

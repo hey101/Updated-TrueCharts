@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/watchyourlan/9.1.1",
-        "last_update": "2024-09-17 23:56:38",
+        "last_update": "2024-09-17 23:55:56",
         "required_features": [
             "definitions/timezone",
             "definitions/interface",

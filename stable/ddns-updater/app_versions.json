@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/ddns-updater/10.1.7",
-        "last_update": "2024-09-17 23:56:36",
+        "last_update": "2024-09-17 23:55:53",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",
