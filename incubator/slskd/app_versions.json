@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/incubator/slskd/1.0.6",
-        "last_update": "2024-09-15 12:42:48",
+        "last_update": "2024-09-15 12:42:20",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

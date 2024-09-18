@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/ubooquity/11.1.0",
-        "last_update": "2024-09-15 22:41:18",
+        "last_update": "2024-09-15 22:40:52",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

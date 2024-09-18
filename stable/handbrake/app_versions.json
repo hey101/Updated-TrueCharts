@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/handbrake/22.1.0",
-        "last_update": "2024-09-15 12:42:47",
+        "last_update": "2024-09-15 12:42:19",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

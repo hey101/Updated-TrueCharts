@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/collabora/6.1.1",
-        "last_update": "2024-09-14 11:06:58",
+        "last_update": "2024-09-13 18:20:35",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",

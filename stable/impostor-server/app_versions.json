@@ -4,7 +4,7 @@
         "supported": true,
         "healthy_error": null,
         "location": "/home/runner/_work/catalog/catalog/stable/impostor-server/9.1.1",
-        "last_update": "2024-09-14 11:06:59",
+        "last_update": "2024-09-14 11:09:21",
         "required_features": [
             "definitions/timezone",
             "normalize/interfaceConfiguration",
