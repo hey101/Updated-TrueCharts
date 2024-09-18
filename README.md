@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.17 @ 11:56 PM EST:
+		- Stable:
+			- ddns-updater: v2.7.1 --> v2.8.0
+			- flowise: v2.0.7 --> v2.1.0
+			- ghostfolio: v2.107.1 --> v2.108.0
+			- jenkins: v2.476.0 --> v2.477.0
+			- metabase: v0.50.25 --> v0.50.26
+			- n8n: v1.59.1 --> v1.59.2
+			- navidrome: v0.53.0 --> v0.53.1
+			- node-red: v4.0.2 --> v4.0.3
+			- static-web-server: v2.32.2 --> v2.33.0
+			- watchyourlan: v2.0.2 --> v2.0.3
 	- 2024.09.17 @ 08:03 PM EST:
 		- Stable:
 			- ddns-updater: v2.7.0 --> v2.7.1
