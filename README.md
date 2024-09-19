@@ -31,6 +31,22 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.19 @ 12:02 AM EST:
+		- Stable:
+			- alist: v3.37.3 --> v3.37.4
+			- chroma: v0.5.5 --> v0.5.7
+			- esphome: v2024.8.3 --> v2024.9.0
+			- flowise: v2.1.0 --> v2.1.1
+			- kavita: v0.8.2 --> v0.8.3
+			- n8n: v1.59.2 --> v1.60.0
+			- ollama: v0.3.10 --> v0.3.11
+			- radicale: v3.2.3.0 --> v3.2.3.1
+			- sourcegraph: v5.7.0 --> v5.7.2474
+			- tailscale: v1.72.1 --> v1.74.1
+			- traccar: v6.4.0 --> v6.5.0
+			- wikijs: v2.5.303 --> v2.5.304
+		- Incubator:
+			- pingvin-share: v1.1.0 --> v1.1.1
 	- 2024.09.17 @ 11:56 PM EST:
 		- Stable:
 			- ddns-updater: v2.7.1 --> v2.8.0
