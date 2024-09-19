@@ -1,0 +1,31 @@
+image:
+  repository: "stonith404/pingvin-share"
+  pullPolicy: "IfNotPresent"
+  tag: "v1.1.1@sha256:222a4fd3e5159d1b25dcb80737da2d85475784aea48676221b85ac09a198b6ba"
+
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 3333
+        port: 3333
+
+persistence:
+  data:
+    enabled: true
+    mountPath: "/opt/app/backend/data"
+  image:
+    enabled: true
+    mountPath: "/opt/app/frontend/public/img"
+
+portal:
+  open:
+    enabled: true
