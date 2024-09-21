@@ -31,6 +31,20 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.21 @ 07:27 AM EST:
+		- Stable:
+			- ddns-updater: v2.8.0 --> v2.8.1
+			- docker: v27.2.1 --> v27.3.1
+			- ersatztv: v0.8.7 --> v0.8.8
+			- flexget: v3.11.45 --> v3.11.46
+			- ispy-agent-dvr: v5.7.6.0 --> v5.7.8.0
+			- n8n: v1.60.0 --> v1.60.1
+			- satisfactory: v1.8.5 --> v1.8.6
+			- tauticord: v5.7.1 --> v5.7.2
+			- vikunja: v0.24.2 --> v0.24.3
+		- Premium:
+			- authelia: v4.38.10 --> v4.38.11
+			- nextcloud: v29.0.6 --> v29.0.7
 	- 2024.09.19 @ 12:02 AM EST:
 		- Stable:
 			- alist: v3.37.3 --> v3.37.4
