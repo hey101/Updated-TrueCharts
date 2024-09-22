@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.21 @ 08:18 PM EST:
+		- Premium:
+			- nextcloud: v29.0.7 --> v30.0.0
 	- 2024.09.21 @ 07:26 AM EST:
 		- Stable:
 			- ddns-updater: v2.8.0 --> v2.8.1
