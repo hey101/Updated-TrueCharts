@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.27 @ 01:19 PM EST:
+		- Stable:
+			- calibre: v7.18.0 --> v7.19.0
+			- chroma: v0.5.9 --> v0.5.11
+			- komga: v1.13.0 --> v1.14.0
+			- meshcentral: v1.1.30 --> v1.1.31
+			- prowlarr: v1.24.1.4740 --> v1.24.3.4754
+			- qbitrr: v4.9.4 --> v4.9.6
 	- 2024.09.26 @ 09:36 PM EST:
 		- Stable:
 			- borg-server: v2.6.3 --> v2.6.4
