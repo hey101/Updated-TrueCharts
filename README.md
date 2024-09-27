@@ -31,6 +31,55 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.26 @ 09:36 PM EST:
+		- Stable:
+			- borg-server: v2.6.3 --> v2.6.4
+			- chroma: v0.5.7 --> v0.5.9
+			- clickhouse: v24.8.4.13 --> v24.9.1.3278
+			- code-server: v4.92.2 --> v4.93.1
+			- esphome: v2024.9.0 --> v2024.9.1
+			- firefox: v128.0.3 --> v130.0.1
+			- ghostfolio: v2.108.0 --> v2.110.0
+			- gravity: v0.9.0 --> v0.9.1
+			- home-assistant: v2024.9.2 --> v2024.9.3
+			- homepage: v0.9.9 --> v0.9.10
+			- immich: v1.115.0 --> v1.116.0
+			- ispy-agent-dvr: v5.7.8.0 --> v5.7.9.0
+			- jenkins: v2.477.0 --> v2.478.0
+			- kanboard: v1.2.39 --> v1.2.40
+			- linkding: v1.34.0 --> v1.35.0
+			- local-ai: v2.20.1 --> v2.21.1
+			- matomo: v5.1.1 --> v5.1.2
+			- metabase: v0.50.26 --> v0.50.27
+			- metube: v2024.9.16 --> v2024.9.26
+			- minio: v2024.09.13 --> v2024.09.22
+			- n8n: v1.60.1 --> v1.61.0
+			- navidrome: v0.53.1 --> v0.53.2
+			- netdata: v1.47.1 --> v1.47.2
+			- notifiarr: v0.8.1 --> v0.8.2
+			- ollama: v0.3.11 --> v0.3.12
+			- outline: v0.79.1 --> v0.80.2
+			- pgadmin: v8.11.0 --> v8.12.0
+			- plex: v1.41.0.8992 --> v1.41.0.8994
+			- pocketmine-mp: v5.18.1 --> v5.19.0
+			- portainer: v2.21.1 --> v2.21.2
+			- prowlarr: v1.24.0.4721 --> v1.24.1.4740
+			- qbitrr: v4.9.3 --> v4.9.4
+			- radarr: v5.9.1.9070 --> v5.11.0.9244
+			- stash: v0.26.2 --> v0.27.0
+			- tautulli: v2.14.4 --> v2.14.5
+			- tdarr: v2.25.01 --> v2.26.01
+			- tdarr-node: v2.25.01 --> v2.26.01
+			- vocechat-server: v0.3.50 --> v0.3.54
+			- wekan: v7.59.0 --> v7.60.0
+			- zwavejs2mqtt: v9.19.0 --> v9.20.0
+		- Incubator:
+			- docuseal: v1.7.2 --> v1.7.3
+			- pingvin-share: v1.1.1 --> v1.1.2
+		- Premium:
+			- authelia: v4.38.11 --> v4.38.12
+			- grafana: v11.2.0 --> v11.2.1
+			- traefik: v3.1.3 --> v3.1.4
 	- 2024.09.21 @ 08:18 PM EST:
 		- Premium:
 			- nextcloud: v29.0.7 --> v30.0.0
