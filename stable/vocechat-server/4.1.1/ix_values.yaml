@@ -1,0 +1,34 @@
+image:
+  repository: "privoce/vocechat-server"
+  pullPolicy: "IfNotPresent"
+  tag: "v0.3.54@sha256:01b5edc94dd0c85541e0bb3d602212f3f6d76ba69f5edbae3ad1084dd5480c34"
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        port: 3009
+
+vocechat:
+  frontend_url: localhost:3009
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          args:
+          - --network.bind
+          - 0.0.0.0:{{ .Values.service.main.ports.main.port }}
+          - --network.frontend_url
+          - "{{ .Values.vocechat.frontend_url }}"
+
+persistence:
+  data:
+    enabled: true
+    mountPath: "/home/vocechat-server/data"
+
+portal:
+  open:
+    enabled: true
