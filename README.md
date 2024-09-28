@@ -31,6 +31,20 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.28 @ 09:48 AM EST:
+		- Stable:
+			- adguardhome-sync: v0.6.12 --> v0.6.13
+			- authentik: v2024.8.2 --> v2024.8.3
+			- fireflyiii: v6.1.19 --> v6.1.20
+			- immich: v1.116.0 --> v1.116.2
+			- metube: v2024.9.26 --> v2024.9.28
+			- miniflux: v2.2.0 --> v2.2.1
+			- navidrome: v0.53.2 --> v0.53.3
+			- twofauth: v5.2.0 --> v5.3.0
+			- xen-orchestra: v5.154.0 --> v5.156.0
+			- zwavejs2mqtt: v9.20.0 --> v9.21.0
+		- Incubator:
+			- pingvin-share: v1.1.2 --> v1.1.3
 	- 2024.09.27 @ 01:19 PM EST:
 		- Stable:
 			- calibre: v7.18.0 --> v7.19.0

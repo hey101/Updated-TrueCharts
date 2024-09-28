@@ -1,0 +1,48 @@
+image:
+  pullPolicy: "IfNotPresent"
+  repository: "miniflux/miniflux"
+  tag: "2.2.1@sha256:5950f5395ba02125c0d04b4287e6ab0467715112b9dcdc435ce89a52f595d473"
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
+cnpg:
+  main:
+    enabled: true
+    database: miniflux
+    user: miniflux
+service:
+  main:
+    ports:
+      main:
+        port: 10091
+        targetPort: 8080
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            CREATE_ADMIN: 1
+            DATABASE_URL:
+              secretKeyRef:
+                name: cnpg-main-urls
+                key: std
+            RUN_MIGRATIONS: 1
+            ADMIN_PASSWORD: changeme
+            ADMIN_USERNAME: admin
+          probes:
+            liveness:
+              custom: true
+              enabled: true
+              spec:
+                failureThreshold: 3
+                httpGet:
+                  path: /healthcheck
+                  port: 8080
+                initialDelaySeconds: 30
+                periodSeconds: 10
+                timeoutSeconds: 1

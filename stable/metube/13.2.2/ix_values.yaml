@@ -1,0 +1,30 @@
+image:
+  repository: "alexta69/metube"
+  tag: "2024-09-28@sha256:c1a411e2243bf0c741e7e7e4c740e1054ade5640686257f8f29792ffe46216f6"
+  pullPolicy: "IfNotPresent"
+service:
+  main:
+    ports:
+      main:
+        port: 10216
+        targetPort: 8081
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  downloads:
+    enabled: true
+    mountPath: /downloads
+portal:
+  open:
+    enabled: true
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            STATE_DIR: /config
+            DOWNLOAD_DIR: /downloads
+            OUTPUT_TEMPLATE: "%(title)s.%(ext)s"
+            YTDL_OPTIONS: "{}"
