@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.29 @ 02:40 PM EST:
+		- Stable:
+			- fireflyiii: v6.1.20 --> v6.1.21
+			- ghostfolio: v2.110.0 --> v2.111.0
+			- misskey: v2024.8.0 --> v2024.9.0
+			- plextraktsync: v0.31.13 --> v0.31.14
+			- satisfactory: v1.8.6 --> v1.8.7
+			- smtp-relay: v0.5.4 --> v0.5.5
+			- uptime-kuma: v1.23.13 --> v1.23.14
+			- vikunja: v0.24.3 --> v0.24.4
+		- Premium:
+			- authelia: v4.38.12 --> v4.38.13
 	- 2024.09.28 @ 09:48 AM EST:
 		- Stable:
 			- adguardhome-sync: v0.6.12 --> v0.6.13
