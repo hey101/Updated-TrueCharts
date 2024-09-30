@@ -31,6 +31,27 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.09.30 @ 11:13 AM EST:
+		- Stable:
+			- avidemux: v24.07.1 --> v24.09.1
+			- czkawka: v24.07.1 --> v24.09.1
+			- filebot: v24.07.1 --> v24.09.1
+			- healthchecks: v3.6.20240916 --> v3.6.20240930
+			- jdownloader2: v24.08.1 --> v24.09.1
+			- mediainfo: v24.08.1 --> v24.09.1
+			- mkvcleaver: v24.07.1 --> v24.09.1
+			- mkvtoolnix: v24.09.1 --> v24.09.2
+			- openhab: v4.2.1 --> v4.2.2
+			- plexripper: v0.21.0 --> v0.22.0
+			- putty: v24.08.1 --> v24.09.1
+			- qbittorrent: v4.6.7 --> v5.0.0
+			- qdirstat: v24.07.2 --> v24.09.1
+			- tsmuxer: v24.07.1 --> v24.09.1
+			- uptime-kuma: v1.23.14 --> v1.23.15
+		- Incubator:
+			- docuseal: v1.7.3 --> v1.7.4
+		- Premium:
+			- authelia: v4.38.13 --> v4.38.15
 	- 2024.09.29 @ 02:40 PM EST:
 		- Stable:
 			- fireflyiii: v6.1.20 --> v6.1.21
