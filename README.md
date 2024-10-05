@@ -31,6 +31,64 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.05 @ 07:15 AM EST:
+		- Stable:
+			- actualserver: v24.9.0 --> v24.10.0
+			- adguard-home: v0.107.52 --> v0.107.53
+			- bazarr: v1.4.4 --> v1.4.5
+			- clickhouse: v24.9.1.3278 --> v24.9.2.42
+			- collabora: v24.04.7.2.1 --> v24.04.8.1.1
+			- crafty-4: v4.4.3 --> v4.4.4
+			- dashdot: v5.8.6 --> v5.9.0
+			- drawio: v24.7.8 --> v24.7.17
+			- emby: v4.8.7.0 --> v4.9.0.30
+			- esphome: v2024.9.1 --> v2024.9.2
+			- filebrowser: v2.31.1 --> v2.31.2
+			- fileflows: v24.09.0 --> v24.10.0
+			- ghostfolio: v2.111.0 --> v2.112.0
+			- gokapi: v1.9.1 --> v1.9.2
+			- home-assistant: v2024.9.3 --> v2024.10.1
+			- homebox: v0.14.2 --> v0.15.0
+			- immich: v1.116.2 --> v1.117.0
+			- jackett: v0.21.2831 --> v0.22.707
+			- jenkins: v2.478.0 --> v2.479.0
+			- kometa: v2.0.2 --> v2.1.0
+			- lidarr: v2.5.2.4316 --> v2.5.3.4341
+			- linkding: v1.35.0 --> v1.36.0
+			- meshcentral: v1.1.31 --> v1.1.32
+			- metabase: v0.50.27 --> v0.50.28
+			- metube: v2024.9.28 --> v2024.10.4
+			- minio: v2024.09.22 --> v2024.10.02
+			- mosquitto: v2.0.18 --> v2.0.19
+			- n8n: v1.61.0 --> v1.62.1
+			- netdata: v1.47.2 --> v1.47.3
+			- notifiarr: v0.8.2 --> v0.8.3
+			- nzbget: v24.1.0 --> v24.3.0
+			- nzbhydra: v7.1.0 --> v7.2.3
+			- pinry: v2.1.12 --> v2.1.13
+			- plexripper: v0.22.0 --> v0.23.2
+			- portainer: v2.21.2 --> v2.22.0
+			- qbitmanage: v4.1.9 --> v4.1.10
+			- readarr: v0.3.32.2587 --> v0.4.0.2634
+			- redis: v7.4.0 --> v7.4.1
+			- redisinsight: v2.56.0 --> v2.58.0
+			- shlink: v4.2.0 --> v4.2.1
+			- tagspaces: v5.5.2 --> v6.0.1
+			- tinymediamanager: v5.0.11 --> v5.0.12
+			- traggo: v0.4.5 --> v0.5.0
+			- whoogle: v0.8.4 --> v0.9.0
+			- xen-orchestra: v5.156.0 --> v5.157.1
+			- xwiki: v16.7.1 --> v16.8.0
+			- youtubedl-material: v4.3.2 --> v2024.10.01
+			- zerotier: v1.14.0 --> v1.14.1
+			- zigbee2mqtt: v1.40.1 --> v1.40.2
+			- zwavejs2mqtt: v9.21.0 --> v9.21.1
+		- Incubator:
+			- victoriametrics: v1.103.0 --> v1.104.0
+		- Premium:
+			- grafana: v11.2.1 --> v11.2.2
+			- traefik: v3.1.4 --> v3.1.5
+			- vaultwarden: v1.32.0 --> v1.32.1
 	- 2024.09.30 @ 11:13 AM EST:
 		- Stable:
 			- avidemux: v24.07.1 --> v24.09.1
