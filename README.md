@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.06 @ 12:18 AM EST:
+		- Stable:
+			- audiobookshelf: v2.13.4 --> v2.14.0
+			- baserow: v1.23.0 --> v1.28.0
+			- homebox: v0.15.0 --> v0.15.2
+			- jackett: v0.22.707 --> v0.22.714
+			- shiori: v1.7.0 --> v1.7.1
+			- slink: v1.1.0 --> v1.2.1
 	- 2024.10.05 @ 07:15 AM EST:
 		- Stable:
 			- actualserver: v24.9.0 --> v24.10.0
