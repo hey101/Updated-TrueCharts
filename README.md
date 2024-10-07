@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.07 @ 02:26 AM EST:
+		- Stable:
+			- prowlarr: v1.24.3.4754 --> v1.25.0.4759
 	- 2024.10.06 @ 12:19 AM EST:
 		- Stable:
 			- audiobookshelf: v2.13.4 --> v2.14.0
