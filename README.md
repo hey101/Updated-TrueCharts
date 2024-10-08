@@ -31,6 +31,31 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.08 @ 04:23 PM EST:
+		- Stable:
+			- actualserver: v24.10.0 --> v24.10.1
+			- autobrr: v1.46.1 --> v1.47.1
+			- flood: v4.8.2 --> v4.8.3
+			- ghostfolio: v2.112.0 --> v2.113.0
+			- healthchecks: v3.6.20240930 --> v3.6.20241007
+			- ispy-agent-dvr: v5.7.9.0 --> v5.8.0.0
+			- jackett: v0.22.714 --> v0.22.735
+			- jenkins: v2.479.0 --> v2.480.0
+			- metube: v2024.10.4 --> v2024.10.8
+			- n8n: v1.62.1 --> v1.62.3
+			- prowlarr: v1.25.0.4759 --> v1.25.1.4770
+			- qbitmanage: v4.1.10 --> v4.1.11
+			- shlink-web-client: v4.1.2 --> v4.2.0
+			- sourcegraph: v5.7.2474 --> v5.8.0
+			- tagspaces: v6.0.1 --> v6.0.2
+			- tandoor-recipes: v1.5.19 --> v1.5.20
+			- tasmobackup: v1.06.06 --> v1.06.09
+			- watcharr: v1.43.0 --> v1.44.0
+			- webgrabplus: v5.2.2 --> v5.3.0
+		- Incubator:
+			- docuseal: v1.7.4 --> v1.7.5
+		- Premium:
+			- authelia: v4.38.15 --> v4.38.16
 	- 2024.10.07 @ 02:26 AM EST:
 		- Stable:
 			- prowlarr: v1.24.3.4754 --> v1.25.0.4759
