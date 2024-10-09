@@ -31,6 +31,20 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.09 @ 01:02 PM EST:
+		- Stable:
+			- bookstack: v24.05.20240520 --> v24.10.20241009
+			- chroma: v0.5.11 --> v0.5.12
+			- ctfd: v3.7.3 --> v3.7.4
+			- gitea: v1.22.2 --> v1.22.3
+			- jackett: v0.22.735 --> v0.22.749
+			- lidarr: v2.5.3.4341 --> v2.6.4.4402
+			- misskey: v2024.9.0 --> v2024.10.0
+			- nocodb: v0.255.2 --> v0.256.0
+			- node-red: v4.0.3 --> v4.0.4
+			- odoo: v17.0.0 --> v18.0.0
+			- qbitrr: v4.9.6 --> v4.9.7
+			- whisparr: v3.0.0.610 --> v3.0.0.614
 	- 2024.10.08 @ 08:33 PM EST:
 		- Stable:
 			- mongodb: v7.0.14 --> v8.0.0
