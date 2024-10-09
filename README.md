@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.08 @ 08:34 PM EST:
+		- Stable:
+			- chroma: v0.5.11 --> v0.5.12
+			- mongodb: v7.0.14 --> v8.0.0
+		- System:
+			- snapshot-controller: v8.0.1 --> v8.1.0
 	- 2024.10.08 @ 04:23 PM EST:
 		- Stable:
 			- actualserver: v24.10.0 --> v24.10.1
