@@ -31,6 +31,28 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.11 @ 03:39 AM EST:
+		- Stable:
+			- chroma: v0.5.12 --> v0.5.13
+			- cloudflared: v2024.9.1 --> v2024.10.0
+			- flood: v4.8.3 --> v4.8.4
+			- flowise: v2.1.1 --> v2.1.2
+			- ghostfolio: v2.113.0 --> v2.114.0
+			- jackett: v0.22.749 --> v0.22.756
+			- metabase: v0.50.28 --> v0.50.29
+			- mongodb: v8.0.0 --> v8.0.1
+			- n8n: v1.62.3 --> v1.63.1
+			- netdata: v1.47.3 --> v1.47.4
+			- nexus-oss: v3.72.0 --> v3.73.0
+			- nocodb: v0.256.0 --> v0.257.0
+			- node-red: v4.0.4 --> v4.0.5
+			- ollama: v0.3.12 --> v0.3.13
+			- qbitrr: v4.9.7 --> v4.9.10
+			- shlink-web-client: v4.2.0 --> v4.2.1
+			- smtp-relay: v0.5.5 --> v0.5.6
+			- speedtest-tracker: v0.21.2 --> v0.21.4
+			- stash: v0.27.0 --> v0.27.1
+			- whisparr: v3.0.0.614 --> v3.0.0.617
 	- 2024.10.09 @ 01:02 PM EST:
 		- Stable:
 			- bookstack: v24.05.20240520 --> v24.10.20241009
