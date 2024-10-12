@@ -31,6 +31,22 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.12 @ 07:14 AM EST:
+		- Stable:
+			- alist: v3.37.4 --> v3.38.0
+			- changedetection-io: v0.46.04 --> v0.47.03
+			- collabora: v24.04.8.1.1 --> v24.04.8.2.1
+			- ddns-go: v6.7.0 --> v6.7.1
+			- deconz: v2.28.1 --> v2.29.0
+			- firefox: v130.0.1 --> v131.0.2
+			- flexget: v3.11.46 --> v3.11.48
+			- home-assistant: v2024.10.1 --> v2024.10.2
+			- jackett: v0.22.756 --> v0.22.763
+			- n8n: v1.63.1 --> v1.63.2
+			- scrypted: v0.119.1 --> v0.119.2
+			- unifi: v8.4.62 --> v8.5.6
+			- vocechat-server: v0.3.54 --> v0.3.57
+			- zwavejs2mqtt: v9.21.1 --> v9.22.0
 	- 2024.10.11 @ 03:40 AM EST:
 		- Stable:
 			- chroma: v0.5.12 --> v0.5.13
