@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.13 @ 05:51 AM EST:
+		- Stable:
+			- audiobookshelf: v2.14.0 --> v2.15.0
+			- jackett: v0.22.763 --> v0.22.779
+			- local-ai: v2.21.1 --> v2.22.0
+			- prowlarr: v1.25.1.4770 --> v1.25.2.4794
+			- radarr: v5.11.0.9244 --> v5.12.2.9335
+			- shoko-server: v4.2.2 --> v5.0.0
+			- tautulli: v2.14.5 --> v2.14.6
+			- twofauth: v5.3.0 --> v5.3.1
+			- whisparr: v3.0.0.617 --> v3.0.0.621
+			- wikijs: v2.5.304 --> v2.5.305
 	- 2024.10.12 @ 07:14 AM EST:
 		- Stable:
 			- alist: v3.37.4 --> v3.38.0
