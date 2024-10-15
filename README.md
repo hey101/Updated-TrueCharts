@@ -31,6 +31,21 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.15 @ 03:39 PM EST:
+		- Stable:
+			- healthchecks: v3.6.20241007 --> v3.6.20241014
+			- jackett: v0.22.779 --> v0.22.800
+			- komga: v1.14.0 --> v1.14.1
+			- misskey: v2024.10.0 --> v2024.10.1
+			- mysql-workbench: v8.0.38 --> v8.0.40
+			- n8n: v1.63.2 --> v1.63.4
+			- shlink: v4.2.1 --> v4.2.2
+			- ubooquity: v2.1.4 --> v2.1.5
+			- watcharr: v1.44.0 --> v1.44.1
+		- Incubator:
+			- docuseal: v1.7.5 --> v1.7.6
+		- Premium:
+			- vaultwarden: v1.32.1 --> v1.32.2
 	- 2024.10.13 @ 05:51 AM EST:
 		- Stable:
 			- audiobookshelf: v2.14.0 --> v2.15.0
