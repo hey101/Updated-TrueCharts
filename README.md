@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.15 @ 03:49 PM EST:
+		- Stable:
+			- ghostfolio: v2.114.0 --> v2.115.0
+			- jenkins: v2.480.0 --> v2.481.0
+			- minecraft-java: v2024.5.0 --> v2024.10.1
+			- portainer: v2.22.0 --> v2.23.0
+			- radicale: v3.2.3.1 --> v3.3.0.0
+			- wyoming-whisper: v2.1.0 --> v2.2.0
+			- zwavejs2mqtt: v9.22.0 --> v9.23.0
+		- Incubator:
+			- pingvin-share: v1.1.3 --> v1.2.0
+		- System:
+			- volsync: v0.9.1 --> v0.10.0
 	- 2024.10.15 @ 03:39 PM EST:
 		- Stable:
 			- healthchecks: v3.6.20241007 --> v3.6.20241014
