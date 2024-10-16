@@ -31,6 +31,26 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.16 @ 03:50 PM EST:
+		- Stable:
+			- bookstack: v24.10.20241009 --> v24.10.20241014
+			- chroma: v0.5.13 --> v0.5.15
+			- esphome: v2024.9.2 --> v2024.10.0
+			- fluidd: v1.30.4 --> v1.30.5
+			- homepage: v0.9.10 --> v0.9.11
+			- immich: v1.117.0 --> v1.118.1
+			- jackett: v0.22.800 --> v0.22.806
+			- metabase: v0.50.29 --> v0.50.30
+			- n8n: v1.63.4 --> v1.64.0
+			- nginx-proxy-manager: v2.11.3 --> v2.12.0
+			- qbitrr: v4.9.10 --> v4.9.11
+			- satisfactory: v1.8.7 --> v1.8.8
+			- stash: v0.27.1 --> v0.27.2
+			- syncthing: v1.27.12 --> v1.28.0
+			- tauticord: v5.7.2 --> v5.7.3
+			- watcharr: v1.44.1 --> v1.44.2
+		- Incubator:
+			- pingvin-share: v1.2.0 --> v1.2.1
 	- 2024.10.15 @ 03:49 PM EST:
 		- Stable:
 			- ghostfolio: v2.114.0 --> v2.115.0
