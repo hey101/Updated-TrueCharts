@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.17 @ 01:06 PM EST:
+		- Stable:
+			- ddns-go: v6.7.1 --> v6.7.2
+			- homer: v24.05.1 --> v24.10.1
+			- jackett: v0.22.806 --> v0.22.809
+			- onlyoffice-document-server: v8.1.3 --> v8.2.0
+			- shlink: v4.2.2 --> v4.2.3
+			- smtp-relay: v0.5.6 --> v0.5.7
+			- zwavejs2mqtt: v9.23.0 --> v9.24.0
 	- 2024.10.17 @ 04:08 AM EST:
 		- Stable:
 			- automatic-ripping-machine: v2.8.1 --> v2.9.0
