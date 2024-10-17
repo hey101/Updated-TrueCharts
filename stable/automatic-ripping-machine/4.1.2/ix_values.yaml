@@ -1,0 +1,42 @@
+image:
+  repository: "automaticrippingmachine/automatic-ripping-machine"
+  pullPolicy: "IfNotPresent"
+  tag: "2.9.0@sha256:59db3e4c737690abf809f4482c7bbc7012f5cf5d55211521d86a0adce41a1bee"
+
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+    allowPrivilegeEscalation: true
+
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 8080
+        port: 10683
+
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            # default media perms
+            ARM_UID: "{{ .Values.securityContext.container.PUID }}"
+            ARM_GID: "{{ .Values.securityContext.pod.fsGroup }}"
+
+persistence:
+  config:
+    enabled: true
+    mountPath: "/etc/arm/config"
+  arm:
+    enabled: true
+    mountPath: "/home/arm"
+
+portal:
+  open:
+    enabled: true

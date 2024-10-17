@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.17 @ 04:08 AM EST:
+		- Stable:
+			- automatic-ripping-machine: v2.8.1 --> v2.9.0
+			- immich: v1.118.1 --> v1.118.2
+			- ipfs: v0.30.0 --> v0.31.0
+			- minio: v2024.10.02 --> v2024.10.13
+			- mosquitto: v2.0.19 --> v2.0.20
+			- nginx-proxy-manager: v2.12.0 --> v2.12.1
+			- nocodb: v0.257.0 --> v0.257.2
+			- sourcegraph: v5.8.0 --> v5.8.1579
+			- tailscale: v1.74.1 --> v1.76.1
 	- 2024.10.16 @ 03:50 PM EST:
 		- Stable:
 			- bookstack: v24.10.20241009 --> v24.10.20241014
