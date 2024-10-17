@@ -1,0 +1,30 @@
+image:
+  repository: "ghcr.io/elfhosted/jackett"
+  pullPolicy: "IfNotPresent"
+  tag: "0.22.809@sha256:bdeb0a5071efb24b368b6ddcd5f12d824061af436c9091c89cb68498135501aa"
+service:
+  main:
+    ports:
+      main:
+        protocol: http
+        targetPort: 9117
+        port: 9117
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              path: "/health"
+            readiness:
+              path: "/health"
+            startup:
+              path: "/health"
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
