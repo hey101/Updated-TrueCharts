@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.18 @ 03:11 AM EST:
+		- Stable:
+			- gravity: v0.9.1 --> v0.9.3
+			- scrypted: v0.119.2 --> v0.119.3
+			- sourcegraph: v5.8.1579 --> v5.8.1757
+			- unmanic: v0.2.7 --> v0.2.8
 	- 2024.10.17 @ 01:11 PM EST:
 		- Stable:
 			- ddns-go: v6.7.1 --> v6.7.2
