@@ -1,0 +1,31 @@
+image:
+  pullPolicy: "IfNotPresent"
+  repository: "vstavrinov/acestream-service"
+  tag: "2.1.1.1@sha256:17025a090892c7d8d85defd383777615cdd2a2a2bf2a974c5cb272b7128b49f4"
+persistence:
+  acestreamcache:
+    enabled: true
+    mountPath: /srv/acestream/.ACEStream
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  main:
+    ports:
+      main:
+        port: 8008
+        protocol: tcp
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            ENTRY: "{{ .Values.service.main.ports.main.port }}"
+            PORT: "{{ .Values.service.main.ports.main.port }}"
+            SCHEME: http

@@ -31,6 +31,21 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.18 @ 12:33 PM EST:
+		- Stable:
+			- acestream: v2.0.2.8 --> v2.1.1.1
+			- anki-sync-server: v1.1.14 --> v1.1.4
+			- calibre: v7.19.0 --> v7.20.0
+			- convos: vstable --> v8.07
+			- ghostfolio: v2.115.0 --> v2.116.0
+			- home-assistant: v2024.10.2 --> v2024.10.3
+			- jackett: v0.22.809 --> v0.22.812
+			- scrypted: v0.119.3 --> v0.121.0
+			- strapi: v4.16.2 --> v4.25.11
+		- Incubator:
+			- pingvin-share: v1.2.1 --> v1.2.2
+			- semaphore: v2.19.10 --> v2.10.30
+			- victoriametrics: v1.104.0 --> v1.105.0
 	- 2024.10.18 @ 03:12 AM EST:
 		- Stable:
 			- gravity: v0.9.1 --> v0.9.3
