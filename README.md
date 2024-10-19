@@ -31,6 +31,24 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.19 @ 12:35 PM EST:
+		- Stable:
+			- audiobookshelf: v2.15.0 --> v2.15.1
+			- czkawka: v24.09.1 --> v24.10.1
+			- filebot: v24.09.1 --> v24.10.1
+			- firefox: v131.0.2 --> v131.0.3
+			- flexget: v3.11.48 --> v3.11.49
+			- gravity: v0.9.3 --> v0.10.0
+			- homarr: v0.15.4 --> v0.15.6
+			- jackett: v0.22.812 --> v0.22.813
+			- minecraft-java: v2024.10.1 --> v2024.10.2
+			- ombi: v4.43.11 --> v4.44.1
+			- qbitmanage: v4.1.11 --> v4.1.12
+			- shlink-web-client: v4.2.1 --> v4.2.2
+			- tdarr: v2.26.01 --> v2.27.02
+			- tdarr-node: v2.26.01 --> v2.27.02
+		- Premium:
+			- traefik: v3.1.5 --> v3.1.6
 	- 2024.10.18 @ 12:33 PM EST:
 		- Stable:
 			- acestream: v2.0.2.8 --> v2.1.1.1
