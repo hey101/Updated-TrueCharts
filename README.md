@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.19 @ 12:35 PM EST:
+		- Stable:
+			- firefox: v131.0.2 --> v131.0.3
+			- ombi: v4.43.11 --> v4.44.1
+			- qbitmanage: v4.1.11 --> v4.1.12
+			- shlink-web-client: v4.2.1 --> v4.2.2
+		- Premium:
+			- traefik: v3.1.5 --> v3.1.6
 	- 2024.10.19 @ 03:15 AM EST:
 		- Stable:
 			- audiobookshelf: v2.15.0 --> v2.15.1
