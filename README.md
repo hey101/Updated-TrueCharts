@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.19 @ 03:40 PM EST:
+		- Stable:
+			- ghostfolio: v2.116.0 --> v2.117.0
 	- 2024.10.19 @ 12:35 PM EST:
 		- Stable:
 			- firefox: v131.0.2 --> v131.0.3
