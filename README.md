@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.20 @ 02:48 PM EST:
+		- Stable:
+			- gravity: v0.10.0 --> v0.11.0
+			- jackett: v0.22.813 --> v0.22.817
+			- openvscode-server: v1.93.1 --> v1.94.2
+			- plextraktsync: v0.31.14 --> v0.32.0
+			- prowlarr: v1.25.2.4794 --> v1.25.3.4815
+			- readarr: v0.4.0.2634 --> v0.4.1.2648
+		- Incubator:
+			- semaphore: v2.10.30 --> v2.10.31
 	- 2024.10.19 @ 03:40 PM EST:
 		- Stable:
 			- ghostfolio: v2.116.0 --> v2.117.0
