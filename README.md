@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.21 @ 12:43 AM EST:
+		- Stable:
+			- autobrr: v1.47.1 --> v1.48.0
+			- cops: v3.2.2 --> v3.3.1
+			- filebot: v24.10.1 --> v24.10.2
+			- gravity: v0.11.0 --> v0.13.1
+			- memcached: v1.6.31 --> v1.6.32
 	- 2024.10.20 @ 02:48 PM EST:
 		- Stable:
 			- gravity: v0.10.0 --> v0.11.0
