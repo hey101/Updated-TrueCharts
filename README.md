@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.21 @ 01:21 PM EST:
+		- Stable:
+			- dizquetv: v1.5.3 --> v1.5.5
+			- healthchecks: v3.6.20241014 --> v3.7.20241021
+			- jackett: v0.22.817 --> v0.22.820
+			- mkvtoolnix: v24.09.2 --> v24.10.1
+			- ollama: v0.3.13 --> v0.3.14
+			- watchyourlan: v2.0.3 --> v2.0.4
+		- Incubator:
+			- semaphore: v2.10.31 --> v2.10.32
 	- 2024.10.21 @ 12:43 AM EST:
 		- Stable:
 			- autobrr: v1.47.1 --> v1.48.0
