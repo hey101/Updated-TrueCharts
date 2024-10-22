@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.22 @ 12:43 PM EST:
+		- Stable:
+			- bookstack: v24.10.20241014 --> v24.10.20241021
+			- esphome: v2024.10.0 --> v2024.10.1
+			- jackett: v0.22.820 --> v0.22.825
+			- local-ai: v2.22.0 --> v2.22.1
+			- metabase: v0.50.30 --> v0.50.31
+			- n8n: v1.64.0 --> v1.64.1
+			- prowlarr: v1.25.3.4815 --> v1.25.4.4818
 	- 2024.10.21 @ 01:21 PM EST:
 		- Stable:
 			- dizquetv: v1.5.3 --> v1.5.5
