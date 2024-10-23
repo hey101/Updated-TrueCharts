@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.23 @ 03:32 AM EST:
+		- Stable:
+			- jenkins: v2.481.0 --> v2.482.0
+			- mc-router: v1.22.0 --> v1.23.0
+			- wekan: v7.60.0 --> v7.61.0
+		- Premium:
+			- grafana: v11.2.2 --> v11.3.0
+			- prometheus: v2.54.1 --> v2.55.0
 	- 2024.10.22 @ 12:50 PM EST:
 		- Stable:
 			- bookstack: v24.10.20241014 --> v24.10.20241021
