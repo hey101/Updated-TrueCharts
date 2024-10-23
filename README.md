@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.23 @ 02:34 PM EST:
+		- Stable:
+			- grav: v1.7.46 --> v1.7.47
+			- jackett: v0.22.825 --> v0.22.832
+		- Incubator:
+			- pingvin-share: v1.2.2 --> v1.2.3
 	- 2024.10.23 @ 03:32 AM EST:
 		- Stable:
 			- jenkins: v2.481.0 --> v2.482.0
