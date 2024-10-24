@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.23 @ 11:09 PM EST:
+		- Stable:
+			- esphome: v2024.10.1 --> v2024.10.2
+			- flowise: v2.1.2 --> v2.1.3
+			- ghostfolio: v2.117.0 --> v2.118.0
+			- metabase: v0.50.31 --> v0.51.1
+			- sourcegraph: v5.8.1757 --> v5.8.2660
+			- synclounge: v5.2.33 --> v5.2.34
 	- 2024.10.23 @ 02:34 PM EST:
 		- Stable:
 			- grav: v1.7.46 --> v1.7.47
