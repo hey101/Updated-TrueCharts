@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.24 @ 09:13 AM EST:
+		- Stable:
+			- cloudflared: v2024.10.0 --> v2024.10.1
+			- cyberchef: v10.19.2 --> v10.19.4
+			- jackett: v0.22.832 --> v0.22.834
+			- n8n: v1.64.1 --> v1.64.2
 	- 2024.10.23 @ 11:08 PM EST:
 		- Stable:
 			- esphome: v2024.10.1 --> v2024.10.2
