@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.24 @ 06:43 PM EST:
+		- Stable:
+			- n8n: v1.64.2 --> v1.65.0
+			- netbootxyz: v0.7.1 --> v0.7.3
+			- netdata: v1.47.4 --> v1.47.5
+			- plex: v1.41.0.8994 --> v1.41.1.9057
+			- smtp-relay: v0.5.7 --> v0.5.8
+		- Incubator:
+			- pingvin-share: v1.2.3 --> v1.2.4
 	- 2024.10.24 @ 09:13 AM EST:
 		- Stable:
 			- cloudflared: v2024.10.0 --> v2024.10.1
