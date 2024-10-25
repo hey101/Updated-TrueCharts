@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.24 @ 09:55 PM EST:
+		- Stable:
+			- game-server-watcher: v3.1.20 --> v3.1.21
+			- impostor-server: v1.10.0 --> v1.10.1
 	- 2024.10.24 @ 06:35 PM EST:
 		- Stable:
 			- n8n: v1.64.2 --> v1.65.0
