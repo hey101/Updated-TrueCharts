@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.25 @ 10:30 PM EST:
+		- Stable:
+			- ddns-go: v6.7.2 --> v6.7.3
+			- home-assistant: v2024.10.3 --> v2024.10.4
+			- jackett: v0.22.834 --> v0.22.841
+			- mongodb: v8.0.1 --> v8.0.3
+			- n8n: v1.65.0 --> v1.65.1
+			- paperless-ngx: v2.12.1 --> v2.13.0
+			- radicale: v3.3.0.0 --> v3.3.0.1
+			- zwavejs2mqtt: v9.24.0 --> v9.25.0
+		- Incubator:
+			- semaphore: v2.10.32 --> v2.10.33
 	- 2024.10.24 @ 09:55 PM EST:
 		- Stable:
 			- game-server-watcher: v3.1.20 --> v3.1.21
