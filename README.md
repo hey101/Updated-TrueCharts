@@ -31,6 +31,26 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.10.27 @ 02:56 PM EST:
+		- Stable:
+			- ghostfolio: v2.118.0 --> v2.119.0
+			- homer: v24.10.1 --> v24.10.2
+			- jackett: v0.22.841 --> v0.22.850
+			- jellyfin: v10.9.11 --> v10.10.0
+			- kanboard: v1.2.40 --> v1.2.41
+			- lidarr: v2.6.4.4402 --> v2.7.1.4417
+			- pocketmine-mp: v5.19.0 --> v5.20.0
+			- qbitrr: v4.9.11 --> v4.9.13
+			- qinglong: v2.17.11 --> v2.17.12
+			- radarr: v5.12.2.9335 --> v5.14.0.9383
+			- readarr: v0.4.1.2648 --> v0.4.2.2653
+			- satisfactory: v1.8.8 --> v1.8.9
+			- shlink: v4.2.3 --> v4.2.4
+			- sonarr: v4.0.9.2244 --> v4.0.10.2544
+			- traggo: v0.5.0 --> v0.5.1
+		- Incubator:
+			- semaphore: v2.10.33 --> v2.10.34
+			- teslamate: v1.30.1 --> v1.31.0
 	- 2024.10.25 @ 10:30 PM EST:
 		- Stable:
 			- ddns-go: v6.7.2 --> v6.7.3
