@@ -31,6 +31,27 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.03 @ 05:10 PM EST:
+		- Stable:
+			- actualserver: v24.10.1 --> v24.11.0
+			- alist: v3.39.0 --> v3.39.1
+			- babybuddy: v2.6.0 --> v2.6.1
+			- ddns-go: v6.7.3 --> v6.7.5
+			- ghostfolio: v2.120.0 --> v2.121.1
+			- gravity: v0.13.3 --> v0.13.4
+			- jackett: v0.22.869 --> v0.22.878
+			- jellyfin: v10.10.0 --> v10.10.1
+			- mealie: v1.12.0 --> v2.1.0
+			- meshcentral: v1.1.32 --> v1.1.33
+			- paperless-ngx: v2.13.2 --> v2.13.4
+			- peanut: v2.6.1 --> v3.3.0
+			- pocketmine-mp: v5.20.1 --> v5.21.0
+			- prowlarr: v1.25.4.4818 --> v1.26.0.4833
+			- readarr: v0.4.2.2653 --> v0.4.3.2665
+			- ring-mqtt: v5.7.1 --> v5.7.2
+			- shlink: v4.2.4 --> v4.2.5
+			- static-web-server: v2.33.0 --> v2.33.1
+			- traggo: v0.5.1 --> v0.6.0
 	- 2024.11.02 @ 12:36 AM EST:
 		- Stable:
 			- alist: v3.38.0 --> v3.39.0
