@@ -27,7 +27,7 @@ Therefore I decided to fork their archived chart repository and manually push so
 
 Now you should be able to update your applications again.
 
-- ### I made a script that automatically updates all applications based on the manual update method that v3DJG6GL used on his chart. I can't guarantee that something will not break, but it at least works for the apps I use and saves the manual update time. This does not account for using other images instead of the ones truechart uses. I need to add a method for working around this if there are issues. If you have any problems, just create a new issue and I will see what I can do. 
+- ### I made a script that automatically updates all applications based on the manual update method that v3DJG6GL used on his chart. [Located Here](https://github.com/hey101/TrueCharts-Update-Script) I can't guarantee that something will not break, but it at least works for the apps I use and saves the manual update time. This does not account for using other images instead of the ones truechart uses. I need to add a method for working around this if there are issues. If you have any problems, just create a new issue and I will see what I can do. 
 
 
 - ### Changelog:
