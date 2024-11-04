@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.03 @ 07:10 PM EST:
+		- Stable:
+			- amule: v2.3.3-18 --> v2.3.3
 	- 2024.11.03 @ 05:10 PM EST:
 		- Stable:
 			- actualserver: v24.10.1 --> v24.11.0
