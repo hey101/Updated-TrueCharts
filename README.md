@@ -31,6 +31,56 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.08 @ 02:34 PM EST:
+		- Stable:
+			- acestream: v2.1.1.1 --> v2.0.2.8
+			- adguard-home: v0.107.53 --> v0.107.54
+			- amule: v2.3.3-18 --> v2.3.3
+			- anonaddy: v1.2.3 --> v1.3.0
+			- autobrr: v1.48.0 --> v1.49.0
+			- babybuddy: v2.6.1 --> v2.6.3
+			- bookstack: v24.10.20241028 --> v24.10.20241104
+			- calibre: v7.20.0 --> v7.21.0
+			- changedetection-io: v0.47.05 --> v0.47.06
+			- chroma: v0.5.17 --> v0.5.18
+			- cloudflared: v2024.10.1 --> v2024.11.0
+			- code-server: v4.93.1 --> v4.95.1
+			- cops: v3.3.1 --> v3.4.5
+			- ddns-go: v6.7.5 --> v6.7.6
+			- emby: v4.9.0.30 --> v4.9.0.31
+			- esphome: v2024.10.2 --> v2024.10.3
+			- fluidd: v1.30.5 --> v1.30.6
+			- ghostfolio: v2.121.1 --> v2.122.0
+			- gravity: v0.13.4 --> v0.14.0
+			- healthchecks: v3.7.20241028 --> v3.7.20241104
+			- heimdall: v2.6.1 --> v2.6.3
+			- homarr: v0.15.6 --> v0.15.7
+			- home-assistant: v2024.10.4 --> v2024.11.0
+			- homer: v24.10.2 --> v24.11.1
+			- immich: v1.119.1 --> v1.120.1
+			- jackett: v0.22.878 --> v0.22.893
+			- jenkins: v2.483.0 --> v2.484.0
+			- maintainerr: v2.1.2 --> v2.2.1
+			- metabase: v0.51.1 --> v0.51.2
+			- muse: v2.9.5 --> v2.10.0
+			- n8n: v1.66.0 --> v1.67.1
+			- nexus-oss: v3.73.0 --> v3.74.0
+			- octoprint: v1.10.2 --> v1.10.3
+			- ollama: v0.3.14 --> v0.4.0
+			- redmine: v5.1.3 --> v5.1.4
+			- sourcegraph: v5.8.2660 --> v5.9.347
+			- speedtest-tracker: v0.21.4 --> v0.21.5
+			- tailscale: v1.76.1 --> v1.76.6
+			- unmanic: v0.2.8 --> v0.2.7
+			- vocechat-server: v0.3.57 --> v0.4.0
+			- zerotier: v1.14.1 --> v1.14.2
+		- Incubator:
+			- docuseal: v1.7.7 --> v1.7.8
+			- victoriametrics: v1.105.0 --> v1.106.0
+		- System:
+			- volsync: v0.10.0 --> v0.11.0
+		- Premium:
+			- prometheus: v2.55.0 --> v2.55.1
 	- 2024.11.03 @ 05:11 PM EST:
 		- Stable:
 			- actualserver: v24.10.1 --> v24.11.0

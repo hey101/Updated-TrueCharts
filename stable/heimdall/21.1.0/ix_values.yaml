@@ -1,0 +1,31 @@
+image:
+  repository: "docker.io/linuxserver/heimdall"
+  tag: "2.6.3@sha256:5b24c9e4fe507feb367dd357f02dc40a94c92e8be04642ab201bb3c4af2d4a62"
+  pullPolicy: "IfNotPresent"
+service:
+  main:
+    ports:
+      main:
+        port: 10014
+        targetPort: 80
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            startup:
+              enabled: true
