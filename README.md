@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.09 @ 12:00 PM EST:
+		- Stable:
+			- autobrr: v1.49.0 --> v1.50.0
 	- 2024.11.09 @ 09:28 AM EST:
 		- Stable:
 			- flexget: v3.11.52 --> v3.11.56
