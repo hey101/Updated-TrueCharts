@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.09 @ 09:29 AM EST:
+		- Stable:
+			- flexget: v3.11.52 --> v3.11.56
+			- jackett: v0.22.893 --> v0.22.898
+			- ollama: v0.4.0 --> v0.4.1
+			- xen-orchestra: v5.159.1 --> v5.160.0
 	- 2024.11.08 @ 07:39 PM EST:
 		- Stable:
 			- home-assistant: v2024.11.0 --> v2024.11.1
