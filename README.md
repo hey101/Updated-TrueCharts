@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.08 @ 07:38 PM EST:
+		- Stable:
+			- home-assistant: v2024.11.0 --> v2024.11.1
+			- plextraktsync: v0.32.0 --> v0.32.1
+			- unifi: v8.5.6 --> v8.6.9
 	- 2024.11.08 @ 02:33 PM EST:
 		- Stable:
 			- acestream: v2.1.1.1 --> v2.0.2.8
