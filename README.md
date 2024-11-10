@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.10 @ 12:00 PM EST:
+		- Stable:
+			- jackett: v0.22.898 --> v0.22.902
+			- lldap: v0.5.0 --> v0.6.0
+			- qbitmanage: v4.1.12 --> v4.1.13
+			- tasmoadmin: v4.1.3 --> v4.2.0
 	- 2024.11.09 @ 12:00 PM EST:
 		- Stable:
 			- autobrr: v1.49.0 --> v1.50.0
