@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.11 @ 12:00 PM EST:
+		- Stable:
+			- outline: v0.80.2 --> v0.81.0
+			- piwigo: v15.0.0 --> v15.1.0
+			- recyclarr: v7.3.0 --> v7.4.0
 	- 2024.11.11 @ 08:41 AM EST:
 		- Stable:
 			- healthchecks: v3.7.20241104 --> v3.7.20241111
