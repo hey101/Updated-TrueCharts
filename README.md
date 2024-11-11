@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.11 @ 08:42 AM EST:
+		- Stable:
+			- healthchecks: v3.7.20241104 --> v3.7.20241111
+			- homepage: v0.9.11 --> v0.9.12
+			- jackett: v0.22.902 --> v0.22.903
+			- kanboard: v1.2.41 --> v1.2.42
+			- local-ai: v2.22.1 --> v2.23.0
+			- mealie: v2.1.0 --> v2.2.0
+			- miniflux: v2.2.2 --> v2.2.3
+			- paperless-ngx: v2.13.4 --> v2.13.5
 	- 2024.11.10 @ 12:01 PM EST:
 		- Stable:
 			- jackett: v0.22.898 --> v0.22.902
