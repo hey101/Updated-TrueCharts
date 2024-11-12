@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.12 @ 12:50 AM EST:
+		- Stable:
+			- homer: v24.11.1 --> v24.11.3
+			- makemkv: v24.07.1 --> v24.11.1
+			- metabase: v0.51.2 --> v0.51.3
+		- Incubator:
+			- docuseal: v1.7.8 --> v1.7.9
 	- 2024.11.11 @ 12:01 PM EST:
 		- Stable:
 			- outline: v0.80.2 --> v0.81.0
