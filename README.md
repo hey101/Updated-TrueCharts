@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.12 @ 08:57 AM EST:
+		- Stable:
+			- jackett: v0.22.903 --> v0.22.907
+			- minetest: v5.9.1 --> v5.10.0
+			- nocodb: v0.257.2 --> v0.258.0
 	- 2024.11.12 @ 12:50 AM EST:
 		- Stable:
 			- homer: v24.11.1 --> v24.11.3
