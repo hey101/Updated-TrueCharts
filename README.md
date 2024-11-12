@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.12 @ 12:00 PM EST:
+		- Stable:
+			- jenkins: v2.484.0 --> v2.485.0
+			- onlyoffice-document-server: v8.2.0 --> v8.2.1
+			- pocketmine-mp: v5.21.0 --> v5.21.1
+			- qbitrr: v4.9.14 --> v4.9.16
+			- zwavejs2mqtt: v9.26.0 --> v9.27.0
 	- 2024.11.12 @ 08:57 AM EST:
 		- Stable:
 			- jackett: v0.22.903 --> v0.22.907
