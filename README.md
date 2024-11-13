@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.13 @ 12:01 PM EST:
+		- Stable:
+			- baserow: v1.28.0 --> v1.29.0
+			- openvscode-server: v1.95.0 --> v1.95.2
+			- zwavejs2mqtt: v9.27.1 --> v9.27.2
 	- 2024.11.13 @ 11:06 AM EST:
 		- Stable:
 			- automatic-ripping-machine: v2.9.0 --> v2.9.1
