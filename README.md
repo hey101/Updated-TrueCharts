@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.13 @ 11:06 AM EST:
+		- Stable:
+			- automatic-ripping-machine: v2.9.0 --> v2.9.1
+			- jackett: v0.22.907 --> v0.22.910
+			- qbitrr: v4.9.16 --> v4.9.17
 	- 2024.11.13 @ 02:06 AM EST:
 		- Stable:
 			- code-server: v4.95.1 --> v4.95.2
