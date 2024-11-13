@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.13 @ 04:26 PM EST:
+		- Stable:
+			- flowise: v2.1.3 --> v2.1.4
+			- n8n: v1.67.1 --> v1.68.0
+			- sourcegraph: v5.9.347 --> v5.9.1590
 	- 2024.11.13 @ 12:00 PM EST:
 		- Stable:
 			- baserow: v1.28.0 --> v1.29.0
