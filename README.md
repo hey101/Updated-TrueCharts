@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.13 @ 02:06 AM EST:
+		- Stable:
+			- code-server: v4.95.1 --> v4.95.2
+			- immich: v1.120.1 --> v1.120.2
+			- jellyseerr: v2.0.1 --> v2.1.0
+			- openvscode-server: v1.94.2 --> v1.95.0
+			- portainer: v2.23.0 --> v2.24.0
+			- smtp-relay: v0.5.8 --> v0.6.0
+			- splunk: v9.3.1 --> v9.3.2
+			- tandoor-recipes: v1.5.20 --> v1.5.21
+			- wordpress: v6.6.2 --> v6.7.0
+			- zwavejs2mqtt: v9.27.0 --> v9.27.1
 	- 2024.11.12 @ 12:00 PM EST:
 		- Stable:
 			- jenkins: v2.484.0 --> v2.485.0
