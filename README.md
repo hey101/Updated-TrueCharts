@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.14 @ 03:39 PM EST:
+		- Stable:
+			- baserow: v1.29.0 --> v1.29.1
+			- homer: v24.11.3 --> v24.11.4
+			- ipfs: v0.31.0 --> v0.32.0
+			- jackett: v0.22.910 --> v0.22.932
+			- linkwarden: v2.7.1 --> v2.8.2
+			- pgadmin: v8.12.0 --> v8.13.0
+			- qbitrr: v4.9.17 --> v4.9.18
+			- speedtest-tracker: v0.21.5 --> v0.21.6
+			- tandoor-recipes: v1.5.21 --> v1.5.22
 	- 2024.11.13 @ 04:26 PM EST:
 		- Stable:
 			- flowise: v2.1.3 --> v2.1.4
