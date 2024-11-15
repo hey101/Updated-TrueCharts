@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.15 @ 11:14 AM EST:
+		- Stable:
+			- fileflows: v24.10.0 --> v24.11.0
+			- humhub: v1.16.1 --> v1.16.2
+			- jackett: v0.22.932 --> v0.22.937
+			- linkwarden: v2.8.2 --> v2.8.3
+			- plex: v1.41.1.9057 --> v1.41.2.9200
+		- Incubator:
+			- pingvin-share: v1.2.4 --> v1.3.0
 	- 2024.11.14 @ 03:40 PM EST:
 		- Stable:
 			- baserow: v1.29.0 --> v1.29.1

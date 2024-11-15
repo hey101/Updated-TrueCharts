@@ -1,0 +1,50 @@
+image:
+  repository: "docker.io/revenz/fileflows"
+  tag: "24.11@sha256:a501f4227c8b85ae7e517f48b8438fcd1f5428058856b3afc8da9244fd87074c"
+  pullPolicy: "IfNotPresent"
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+    allowPrivilegeEscalation: true
+    privileged: true
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+service:
+  main:
+    ports:
+      main:
+        port: 10242
+        targetPort: 5000
+persistence:
+  data:
+    enabled: true
+    mountPath: /app/Data
+  logs:
+    enabled: true
+    mountPath: /app/Logs
+  temp:
+    enabled: true
+    mountPath: /temp
+  media:
+    enabled: true
+    mountPath: /media
+portal:
+  open:
+    enabled: true
