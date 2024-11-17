@@ -31,6 +31,21 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.17 @ 12:55 PM EST:
+		- Stable:
+			- flexget: v3.11.56 --> v3.11.57
+			- ghostfolio: v2.122.0 --> v2.123.0
+			- home-assistant: v2024.11.1 --> v2024.11.2
+			- ipfs: v0.32.0 --> v0.32.1
+			- jackett: v0.22.937 --> v0.22.946
+			- jellyfin: v10.10.1 --> v10.10.2
+			- kopia: v0.17.0 --> v0.18.0
+			- ollama: v0.4.1 --> v0.4.2
+			- sftpgo: v2.6.2 --> v2.6.3
+			- shaarli: v0.13.0 --> v0.14.0
+			- xen-orchestra: v5.160.0 --> v5.161.0
+		- Incubator:
+			- victoriametrics: v1.106.0 --> v1.107.0
 	- 2024.11.15 @ 11:13 AM EST:
 		- Stable:
 			- fileflows: v24.10.0 --> v24.11.0
