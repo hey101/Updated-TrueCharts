@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.18 @ 07:28 AM EST:
+		- Stable:
+			- alist: v3.39.1 --> v3.39.4
+			- audiobookshelf: v2.16.2 --> v2.17.0
+			- baikal: v0.9.5 --> v0.10.1
+			- jackett: v0.22.946 --> v0.22.950
+			- kopia: v0.18.0 --> v0.18.1
+			- wallos: vlatest --> v2.38.1
+		- Incubator:
+			- pingvin-share: v1.3.0 --> v1.4.0
 	- 2024.11.17 @ 12:55 PM EST:
 		- Stable:
 			- flexget: v3.11.56 --> v3.11.57
