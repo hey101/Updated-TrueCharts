@@ -31,6 +31,59 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.22 @ 09:48 PM EST:
+		- Stable:
+			- alist: v3.39.4 --> v3.40.0
+			- audiobookshelf: v2.17.0 --> v2.17.2
+			- baserow: v1.29.1 --> v1.29.2
+			- chroma: v0.5.18 --> v0.5.20
+			- clickhouse: v24.10.1.2812 --> v24.10.3.21
+			- cloudflared: v2024.11.0 --> v2024.11.1
+			- code-server: v4.95.2 --> v4.95.3
+			- ddns-updater: v2.8.1 --> v2.8.2
+			- emby: v4.9.0.31 --> v4.9.0.32
+			- esphome: v2024.10.3 --> v2024.11.1
+			- filebot: v24.10.2 --> v24.11.1
+			- flexget: v3.11.57 --> v3.11.58
+			- flowise: v2.1.4 --> v2.1.5
+			- gravity: v0.14.0 --> v0.14.1
+			- healthchecks: v3.7.20241111 --> v3.7.20241118
+			- home-assistant: v2024.11.2 --> v2024.11.3
+			- immich: v1.120.2 --> v1.121.0
+			- jackett: v0.22.950 --> v0.22.994
+			- jdownloader2: v24.09.1 --> v24.11.1
+			- jellyfin: v10.10.2 --> v10.10.3
+			- jenkins: v2.485.0 --> v2.486.0
+			- kasm: v1.15.1 --> v1.16.1
+			- kavita: v0.8.3 --> v0.8.4
+			- kopia: v0.18.1 --> v0.18.2
+			- lldap: v0.6.0 --> v0.6.1
+			- mediainfo: v24.09.1 --> v24.11.1
+			- metabase: v0.51.3 --> v0.51.4
+			- misskey: v2024.10.1 --> v2024.11.0
+			- n8n: v1.68.0 --> v1.69.0
+			- nocodb: v0.258.0 --> v0.258.2
+			- nzbget: v24.3.0 --> v24.4.0
+			- ollama: v0.4.2 --> v0.4.3
+			- outline: v0.81.0 --> v0.81.1
+			- plextraktsync: v0.32.1 --> v0.32.2
+			- prowlarr: v1.26.0.4833 --> v1.26.1.4844
+			- putty: v24.09.1 --> v24.11.1
+			- qbittorrent: v5.0.1 --> v5.0.2
+			- radarr: v5.14.0.9383 --> v5.15.1.9463
+			- rdtclient: v2.0.86 --> v2.0.87
+			- servas: v0.3.0 --> v0.4.0
+			- speedtest-tracker: v0.21.6 --> v0.23.1
+			- vikunja: v0.24.4 --> v0.24.5
+			- wallos: v2.38.1 --> v2.38.2
+			- wordpress: v6.7.0 --> v6.7.1
+			- zwavejs2mqtt: v9.27.2 --> v9.27.7
+		- Incubator:
+			- semaphore: v2.10.35 --> v2.10.43
+		- Premium:
+			- grafana: v11.3.0 --> v11.3.1
+			- traefik: v3.2.0 --> v3.2.1
+			- vaultwarden: v1.32.2 --> v1.32.5
 	- 2024.11.18 @ 07:29 AM EST:
 		- Stable:
 			- alist: v3.39.1 --> v3.39.4
