@@ -1,0 +1,47 @@
+image:
+  repository: "docker.io/codercom/code-server"
+  pullPolicy: "IfNotPresent"
+  tag: "4.95.3@sha256:6d74583d68179cbb6ddadc2518b450d2ac3eaec2d342474fe1941e03371cd2cf"
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    allowPrivilegeEscalation: true
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10063
+        protocol: http
+        targetPort: 8080
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env:
+            PROXY_DOMAIN: ""
+          args:
+          - --user-data-dir
+          - "/config/.vscode"
+          - --auth
+          - none
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
