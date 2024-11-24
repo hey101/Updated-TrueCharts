@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.23 @ 11:03 PM EST:
+		- Stable:
+			- automatic-ripping-machine: v2.9.1 --> v2.10.0
+			- gravity: v0.14.1 --> v0.15.1
+			- homer: v24.11.4 --> v24.11.5
+			- jackett: v0.22.994 --> v0.22.995
+			- mediainfo: v24.11.1 --> v24.11.2
+			- ollama: v0.4.3 --> v0.4.4
+			- readarr: v0.4.3.2665 --> v0.4.4.2686
+			- tandoor-recipes: v1.5.22 --> v1.5.23
+		- Incubator:
+			- teslamate: v1.31.1 --> v1.32.0
 	- 2024.11.22 @ 09:47 PM EST:
 		- Stable:
 			- alist: v3.39.4 --> v3.40.0
