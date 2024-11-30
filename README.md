@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.30 @ 01:33 PM EST:
+		- Stable:
+			- oscam: v11719.0.0 --> v11856-ls125
 	- 2024.11.23 @ 11:03 PM EST:
 		- Stable:
 			- automatic-ripping-machine: v2.9.1 --> v2.10.0
