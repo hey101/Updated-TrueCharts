@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.11.30 @ 10:28 PM EST:
+		- Stable:
+			- oscam: v11856-ls125 --> v11856.0.0
 	- 2024.11.30 @ 01:33 PM EST:
 		- Stable:
 			- oscam: v11719.0.0 --> v11856-ls125
