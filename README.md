@@ -31,6 +31,23 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.09 @ 11:50 AM EST:
+		- Stable:
+			- audiobookshelf: v2.17.5 --> v2.17.2
+			- autobrr: v1.53.0 --> v1.50.0
+			- changedetection-io: v0.48.01 --> v0.47.06
+			- immich: v1.122.2 --> v1.121.0
+			- jellystat: v1.1.1 --> vlatest
+			- local-ai: v2.24.1 --> v2.23.0
+			- meshcentral: v1.1.35 --> v1.1.33
+			- nzbget: v24.5.0 --> v24.4.0
+			- ollama: v0.5.1 --> v0.4.4
+			- prowlarr: v1.28.0.4862 --> v1.26.1.4844
+			- readarr: v0.4.5.2699 --> v0.4.4.2686
+			- sftpgo: v2.6.4 --> v2.6.3
+			- sonarr: v4.0.11.2680 --> v4.0.10.2544
+			- syncthing: v1.28.1 --> v1.28.0
+			- tautulli: v2.15.0 --> v2.14.6
 	- 2024.12.09 @ 03:42 AM EST:
 		- Stable:
 			- audiobookshelf: v2.17.2 --> v2.17.5
