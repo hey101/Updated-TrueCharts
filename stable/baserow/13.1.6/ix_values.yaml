@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/baserow/baserow"
-  tag: "1.29.0@sha256:4fa2754edce957a9d5c20d7b6c590faeb05796a9d18dcaf1062be03289d20fa6"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/baserow/baserow
+  tag: 1.29.0@sha256:4fa2754edce957a9d5c20d7b6c590faeb05796a9d18dcaf1062be03289d20fa6
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

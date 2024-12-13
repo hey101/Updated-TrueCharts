@@ -1,7 +1,7 @@
 image:
-  repository: "jlesage/handbrake"
-  tag: "v24.06.1@sha256:90bf16ad0c7744340f1f46bc106ad3bc601c875a0614ad74b746739555e83d83"
-  pullPolicy: "IfNotPresent"
+  repository: jlesage/handbrake
+  tag: v24.06.1@sha256:90bf16ad0c7744340f1f46bc106ad3bc601c875a0614ad74b746739555e83d83
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

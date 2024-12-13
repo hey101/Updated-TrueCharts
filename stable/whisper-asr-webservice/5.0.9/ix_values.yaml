@@ -1,6 +1,6 @@
 image:
-  repository: "onerahmet/openai-whisper-asr-webservice"
-  pullPolicy: "IfNotPresent"
+  repository: onerahmet/openai-whisper-asr-webservice
+  pullPolicy: IfNotPresent
   tag: "v1.4.1@sha256:0105a8e87df7420989f1aa23970e0dee5a0d1557d03ea79d15297c36b2601464\r"
 gpuImage:
   repository: onerahmet/openai-whisper-asr-webservice

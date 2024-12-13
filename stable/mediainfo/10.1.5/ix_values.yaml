@@ -1,7 +1,7 @@
 image:
-  repository: "jlesage/mediainfo"
-  tag: "v24.08.1@sha256:7719cd7c72507888c95f0544e1b09c48072954e75cb5ea7c7da991566372488b"
-  pullPolicy: "IfNotPresent"
+  repository: jlesage/mediainfo
+  tag: v24.08.1@sha256:7719cd7c72507888c95f0544e1b09c48072954e75cb5ea7c7da991566372488b
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

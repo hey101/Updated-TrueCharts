@@ -1,7 +1,7 @@
 image:
-  repository: "xhofe/alist-aria2"
-  pullPolicy: "IfNotPresent"
-  tag: "v3.37.2@sha256:907e6085e4d9a75d76cc376327f0a8a836daa105f88e155d264b4ae6bef5e8e7"
+  repository: xhofe/alist-aria2
+  pullPolicy: IfNotPresent
+  tag: v3.37.2@sha256:907e6085e4d9a75d76cc376327f0a8a836daa105f88e155d264b4ae6bef5e8e7
 securityContext:
   container:
     readOnlyRootFilesystem: false

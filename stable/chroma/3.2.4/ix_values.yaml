@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/chroma-core/chroma"
-  pullPolicy: "IfNotPresent"
-  tag: "0.5.20@sha256:791bc2a7c3d086b514be4027c3173f4b3445bad673962cfa4337bffd3952fba7"
+  repository: ghcr.io/chroma-core/chroma
+  pullPolicy: IfNotPresent
+  tag: 0.5.20@sha256:791bc2a7c3d086b514be4027c3173f4b3445bad673962cfa4337bffd3952fba7
 
 securityContext:
   container:

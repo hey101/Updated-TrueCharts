@@ -1,7 +1,7 @@
 image:
-  repository: "jesec/flood"
-  pullPolicy: "IfNotPresent"
-  tag: "4.8.3@sha256:04c3707ab71952b26e29d52486f0643fdd02258114abd9a8119adb2e9220ed05"
+  repository: jesec/flood
+  pullPolicy: IfNotPresent
+  tag: 4.8.3@sha256:04c3707ab71952b26e29d52486f0643fdd02258114abd9a8119adb2e9220ed05
 workload:
   main:
     podSpec:

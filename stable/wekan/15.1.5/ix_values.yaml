@@ -1,7 +1,7 @@
 image:
-  repository: "wekanteam/wekan"
-  tag: "v7.59@sha256:65021de80fc585961be2818b76a252661431b6f40066de883e8e37169c9a9b0b"
-  pullPolicy: "IfNotPresent"
+  repository: wekanteam/wekan
+  tag: v7.59@sha256:65021de80fc585961be2818b76a252661431b6f40066de883e8e37169c9a9b0b
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

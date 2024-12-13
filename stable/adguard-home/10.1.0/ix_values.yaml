@@ -1,7 +1,7 @@
 image:
-  repository: "adguard/adguardhome"
-  tag: "v0.107.52@sha256:d16cc7517ab96f843e7f8bf8826402dba98f5e6b175858920296243332391589"
-  pullPolicy: "IfNotPresent"
+  repository: adguard/adguardhome
+  tag: v0.107.52@sha256:d16cc7517ab96f843e7f8bf8826402dba98f5e6b175858920296243332391589
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

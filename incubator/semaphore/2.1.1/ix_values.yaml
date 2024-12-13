@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/semaphoreui/semaphore"
-  tag: "v2.10.34@sha256:feea12e682db519e508ecb21b35caf3ddff19cf7aad621e0e7ddca0fa4f8eda8"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/semaphoreui/semaphore
+  tag: v2.10.34@sha256:feea12e682db519e508ecb21b35caf3ddff19cf7aad621e0e7ddca0fa4f8eda8
+  pullPolicy: IfNotPresent
 
 securityContext:
   container:

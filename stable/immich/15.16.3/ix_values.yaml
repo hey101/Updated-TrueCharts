@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/immich-app/immich-server"
-  tag: "v1.122.2@sha256:27ceb1867f5501818c86188c62924bbfd3024d8f74395cd66d6a302b01d1b2cd"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/immich-app/immich-server
+  tag: v1.122.2@sha256:27ceb1867f5501818c86188c62924bbfd3024d8f74395cd66d6a302b01d1b2cd
+  pullPolicy: IfNotPresent
 
 mlImage:
   repository: ghcr.io/immich-app/immich-machine-learning

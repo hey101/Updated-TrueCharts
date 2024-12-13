@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/taxel/plextraktsync"
-  tag: "0.32.2@sha256:26532d8d8e68d4d272cd83676e03ae2b2b6204c7415e827b25320513dedb2e9a"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/taxel/plextraktsync
+  tag: 0.32.2@sha256:26532d8d8e68d4d272cd83676e03ae2b2b6204c7415e827b25320513dedb2e9a
+  pullPolicy: IfNotPresent
 
 securityContext:
   container:

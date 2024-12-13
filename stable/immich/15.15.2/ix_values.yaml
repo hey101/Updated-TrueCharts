@@ -1,7 +1,7 @@
 image:
-  repository: "altran1502/immich-server"
-  tag: "v1.114.0@sha256:df4ae6d2bf8aa3ebd6370b42a667a007c5e7452a1cd2ab4c22fbaff9a69ffcbc"
-  pullPolicy: "IfNotPresent"
+  repository: altran1502/immich-server
+  tag: v1.114.0@sha256:df4ae6d2bf8aa3ebd6370b42a667a007c5e7452a1cd2ab4c22fbaff9a69ffcbc
+  pullPolicy: IfNotPresent
 
 mlImage:
   repository: altran1502/immich-machine-learning

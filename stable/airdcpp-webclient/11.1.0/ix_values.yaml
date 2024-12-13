@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/gangefors/airdcpp-webclient"
-  pullPolicy: "IfNotPresent"
-  tag: "2.12.2@sha256:4818da986ca406a13e3451109eef8e9c128f3067595d33bcd930aa2fa51c09a6"
+  repository: docker.io/gangefors/airdcpp-webclient
+  pullPolicy: IfNotPresent
+  tag: 2.12.2@sha256:4818da986ca406a13e3451109eef8e9c128f3067595d33bcd930aa2fa51c09a6
 workload:
   main:
     podSpec:

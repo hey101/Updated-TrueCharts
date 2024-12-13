@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/portainer/portainer-ce"
-  tag: "2.24.0@sha256:58c91d6f30d15204534745d72c453452a3dc258cae32d47ab72ea4d1fb9d3ebb"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/portainer/portainer-ce
+  tag: 2.24.0@sha256:58c91d6f30d15204534745d72c453452a3dc258cae32d47ab72ea4d1fb9d3ebb
+  pullPolicy: IfNotPresent
 beImage:
   repository: portainer/portainer-ee
   tag: 2.20.3@sha256:afadde3ae572f2346d0e04965171f6f1d2f1d06023796053c327e183c75d6cc6

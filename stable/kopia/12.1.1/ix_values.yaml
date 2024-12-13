@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/kopia/kopia"
-  tag: "0.18.1@sha256:8f9cd30c19f4683397262ff89d62ee0446fe67c952c8e106388717fdd0e922b0"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/kopia/kopia
+  tag: 0.18.1@sha256:8f9cd30c19f4683397262ff89d62ee0446fe67c952c8e106388717fdd0e922b0
+  pullPolicy: IfNotPresent
 
 service:
   main:

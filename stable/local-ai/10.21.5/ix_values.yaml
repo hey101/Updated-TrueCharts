@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/localai/localai"
-  pullPolicy: "IfNotPresent"
-  tag: "v2.24.1@sha256:6a83b8be47681e9bac6afed46687c0e866f29a6b3be20cac71c8d0ae96eb26c1"
+  repository: docker.io/localai/localai
+  pullPolicy: IfNotPresent
+  tag: v2.24.1@sha256:6a83b8be47681e9bac6afed46687c0e866f29a6b3be20cac71c8d0ae96eb26c1
 ffmpegImage:
   repository: docker.io/localai/localai
   pullPolicy: IfNotPresent

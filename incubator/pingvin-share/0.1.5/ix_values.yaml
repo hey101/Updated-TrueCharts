@@ -1,7 +1,7 @@
 image:
-  repository: "stonith404/pingvin-share"
-  pullPolicy: "IfNotPresent"
-  tag: "v1.2.0@sha256:a016d8fb674e59cb6ef17036113cb3f1b64c4614d79e42f68490fc18768ff3aa"
+  repository: stonith404/pingvin-share
+  pullPolicy: IfNotPresent
+  tag: v1.2.0@sha256:a016d8fb674e59cb6ef17036113cb3f1b64c4614d79e42f68490fc18768ff3aa
 
 securityContext:
   container:

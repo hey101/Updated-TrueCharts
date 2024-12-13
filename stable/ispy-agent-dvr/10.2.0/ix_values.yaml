@@ -1,7 +1,7 @@
 image:
-  repository: "doitandbedone/ispyagentdvr"
-  tag: "5.7.6.0@sha256:f5388b8e4d8b5b3cb26310c55e4efb8a237f6f07b14d3afe0b69aaba51417ea1"
-  pullPolicy: "IfNotPresent"
+  repository: doitandbedone/ispyagentdvr
+  tag: 5.7.6.0@sha256:f5388b8e4d8b5b3cb26310c55e4efb8a237f6f07b14d3afe0b69aaba51417ea1
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

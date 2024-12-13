@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/museofficial/muse"
-  pullPolicy: "IfNotPresent"
-  tag: "2.10.0@sha256:28e58e69df8613285cd2922c6c0ecdaa3c5a9992753bccfc678f031a5d2867b1"
+  repository: ghcr.io/museofficial/muse
+  pullPolicy: IfNotPresent
+  tag: 2.10.0@sha256:28e58e69df8613285cd2922c6c0ecdaa3c5a9992753bccfc678f031a5d2867b1
 securityContext:
   container:
     runAsNonRoot: false

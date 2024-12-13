@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "ghcr.io/mriedmann/humhub-phponly"
-  tag: "1.16.2@sha256:0b4595f535b7e4a9cbeeefdfb247a16d209ca245ad6418cb27d4bfc25852114d"
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/mriedmann/humhub-phponly
+  tag: 1.16.2@sha256:0b4595f535b7e4a9cbeeefdfb247a16d209ca245ad6418cb27d4bfc25852114d
 nginxImage:
   pullPolicy: IfNotPresent
   repository: ghcr.io/mriedmann/humhub-nginx

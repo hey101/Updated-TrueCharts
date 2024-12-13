@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/n8nio/n8n"
-  tag: "1.68.0@sha256:d468689474fdea94304047da35e59e9e591c98110106a2f302dc5509f7ce2f4b"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/n8nio/n8n
+  tag: 1.68.0@sha256:d468689474fdea94304047da35e59e9e591c98110106a2f302dc5509f7ce2f4b
+  pullPolicy: IfNotPresent
 timezoneandlocale: {}
 # N8N_DEFAULT_LOCALE: "en"
 credentials: {}

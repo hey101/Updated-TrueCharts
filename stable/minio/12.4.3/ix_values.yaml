@@ -1,7 +1,7 @@
 image:
-  repository: "minio/minio"
-  tag: "RELEASE.2024-09-22T00-33-43Z@sha256:7d80fd232a2f7108aa6f133fcfe5fade3f1626d92d31ae1318076e7aa61928a2"
-  pullPolicy: "IfNotPresent"
+  repository: minio/minio
+  tag: RELEASE.2024-09-22T00-33-43Z@sha256:7d80fd232a2f7108aa6f133fcfe5fade3f1626d92d31ae1318076e7aa61928a2
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

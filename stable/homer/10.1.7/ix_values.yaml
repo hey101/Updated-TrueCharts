@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/b4bz/homer"
-  tag: "v24.11.4@sha256:690929b4dfe30a92b42ba6442190aff94ca5c3086e54dfea6784805140aef5a2"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/b4bz/homer
+  tag: v24.11.4@sha256:690929b4dfe30a92b42ba6442190aff94ca5c3086e54dfea6784805140aef5a2
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

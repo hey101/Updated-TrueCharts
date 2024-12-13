@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/ollama/ollama"
-  pullPolicy: "IfNotPresent"
-  tag: "0.5.1@sha256:722ce8caba5f8b8bd2ee654b2e29466415be3071a704e3f4db1702b83c885f76"
+  repository: docker.io/ollama/ollama
+  pullPolicy: IfNotPresent
+  tag: 0.5.1@sha256:722ce8caba5f8b8bd2ee654b2e29466415be3071a704e3f4db1702b83c885f76
 rocmImage:
   repository: docker.io/ollama/ollama
   pullPolicy: IfNotPresent

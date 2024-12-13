@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/kanboard/kanboard"
-  tag: "v1.2.42@sha256:1bc1ed4520ae9c50d62f58a64983a62298185376aafc84ca3472f76bce9835eb"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/kanboard/kanboard
+  tag: v1.2.42@sha256:1bc1ed4520ae9c50d62f58a64983a62298185376aafc84ca3472f76bce9835eb
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

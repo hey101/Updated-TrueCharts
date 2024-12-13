@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/onerahmet/openai-whisper-asr-webservice"
-  pullPolicy: "IfNotPresent"
-  tag: "v1.6.0"
+  repository: docker.io/onerahmet/openai-whisper-asr-webservice
+  pullPolicy: IfNotPresent
+  tag: v1.6.0
 gpuImage:
   repository: onerahmet/openai-whisper-asr-webservice
   pullPolicy: IfNotPresent

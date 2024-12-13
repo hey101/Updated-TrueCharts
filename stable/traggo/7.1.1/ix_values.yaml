@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/traggo/server"
-  pullPolicy: "IfNotPresent"
-  tag: "0.5.1@sha256:494c6be66ac02cbb0d1200e92e3adc47f15649c445f0813aeb05e0c35c254bee"
+  repository: docker.io/traggo/server
+  pullPolicy: IfNotPresent
+  tag: 0.5.1@sha256:494c6be66ac02cbb0d1200e92e3adc47f15649c445f0813aeb05e0c35c254bee
 traggo:
   username: admin
   password: admin

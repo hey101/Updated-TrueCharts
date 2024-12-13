@@ -1,7 +1,7 @@
 image:
-  repository: "jlesage/mkvcleaver"
-  tag: "v24.07.1@sha256:88c2569ec61a97a74b06a31c22967555fea32594040bdb2bc7c5eb08420d6c4a"
-  pullPolicy: "IfNotPresent"
+  repository: jlesage/mkvcleaver
+  tag: v24.07.1@sha256:88c2569ec61a97a74b06a31c22967555fea32594040bdb2bc7c5eb08420d6c4a
+  pullPolicy: IfNotPresent
 mkvcleaver:
   KEEP_APP_RUNNING: false
   DISPLAY_WIDTH: 1280

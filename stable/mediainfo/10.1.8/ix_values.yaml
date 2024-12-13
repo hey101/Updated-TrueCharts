@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/jlesage/mediainfo"
-  tag: "v24.11.2@sha256:b058c125dc669d28be0d92f76c53b16c181e399be31ad787f4f89a3f7bffad02"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/jlesage/mediainfo
+  tag: v24.11.2@sha256:b058c125dc669d28be0d92f76c53b16c181e399be31ad787f4f89a3f7bffad02
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

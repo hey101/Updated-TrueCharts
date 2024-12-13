@@ -1,7 +1,7 @@
 image:
-  repository: "photoprism/photoprism"
-  tag: "240711@sha256:b8dc65e14808021dff7fdb60723fe7e7cd224db1fd356c4e3f1892fa4912e4e4"
-  pullPolicy: "IfNotPresent"
+  repository: photoprism/photoprism
+  tag: 240711@sha256:b8dc65e14808021dff7fdb60723fe7e7cd224db1fd356c4e3f1892fa4912e4e4
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

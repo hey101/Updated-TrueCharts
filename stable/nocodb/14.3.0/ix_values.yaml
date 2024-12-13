@@ -1,7 +1,7 @@
 image:
-  repository: "nocodb/nocodb"
-  tag: "0.257.0@sha256:216d9cab11aa4a4cd4b44d5bd803934bbb219bfef4c483983d3d98acbfabae7f"
-  pullPolicy: "IfNotPresent"
+  repository: nocodb/nocodb
+  tag: 0.257.0@sha256:216d9cab11aa4a4cd4b44d5bd803934bbb219bfef4c483983d3d98acbfabae7f
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

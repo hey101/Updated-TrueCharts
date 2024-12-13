@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/elfhosted/readarr-develop"
-  pullPolicy: "IfNotPresent"
-  tag: "0.4.5.2699@sha256:947ec6ae98f5a0c51695c8401fc67729a76d5ae160e57f7049e65a258215edb6"
+  repository: ghcr.io/elfhosted/readarr-develop
+  pullPolicy: IfNotPresent
+  tag: 0.4.5.2699@sha256:947ec6ae98f5a0c51695c8401fc67729a76d5ae160e57f7049e65a258215edb6
 exportarrImage:
   repository: ghcr.io/onedr0p/exportarr
   pullPolicy: IfNotPresent

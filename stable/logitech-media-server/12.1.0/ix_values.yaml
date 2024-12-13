@@ -1,7 +1,7 @@
 image:
-  repository: "lmscommunity/logitechmediaserver"
-  pullPolicy: "IfNotPresent"
-  tag: "9.0.0"
+  repository: lmscommunity/logitechmediaserver
+  pullPolicy: IfNotPresent
+  tag: 9.0.0
 service:
   main:
     ports:

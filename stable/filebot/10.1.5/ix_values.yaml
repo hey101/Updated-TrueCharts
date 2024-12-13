@@ -1,7 +1,7 @@
 image:
-  repository: "jlesage/filebot"
-  tag: "v24.07.1@sha256:faaf72e4148ad45fbf0d1bddcb11bfbd5bcef1b3caeb98bf131475fd915e818d"
-  pullPolicy: "IfNotPresent"
+  repository: jlesage/filebot
+  tag: v24.07.1@sha256:faaf72e4148ad45fbf0d1bddcb11bfbd5bcef1b3caeb98bf131475fd915e818d
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

@@ -1,7 +1,7 @@
 image:
-  repository: "wolveix/satisfactory-server"
-  pullPolicy: "IfNotPresent"
-  tag: "v1.7.4@sha256:2570735308d6a17876a638dda047a4effc8b02a2bdb01e83c85d4affd60f9b14"
+  repository: wolveix/satisfactory-server
+  pullPolicy: IfNotPresent
+  tag: v1.7.4@sha256:2570735308d6a17876a638dda047a4effc8b02a2bdb01e83c85d4affd60f9b14
 persistence:
   config:
     enabled: true
