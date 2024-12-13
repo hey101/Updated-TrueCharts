@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.13 @ 03:13 AM EST:
+		- Stable:
+			- sabnzbd: v4.3.3 --> v4.4.0
 	- 2024.12.13 @ 03:01 AM EST:
 		- Stable:
 			- audiobookshelf: v2.17.2 --> v2.17.5
