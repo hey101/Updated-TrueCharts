@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/nodered/node-red"
-  pullPolicy: "IfNotPresent"
-  tag: "4.0.5@sha256:7b635f720d9d1aba676925a93fcf20811bbb62b476752b896177faccb28e5ee9"
+  repository: docker.io/nodered/node-red
+  pullPolicy: IfNotPresent
+  tag: 4.0.5@sha256:7b635f720d9d1aba676925a93fcf20811bbb62b476752b896177faccb28e5ee9
 service:
   main:
     ports:

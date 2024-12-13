@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/jlesage/jdownloader-2"
-  pullPolicy: "IfNotPresent"
-  tag: "v24.11.1@sha256:2a1450abdbe75e03e779d01096c65a7cde2e3a85726092900ce134de781adc35"
+  repository: docker.io/jlesage/jdownloader-2
+  pullPolicy: IfNotPresent
+  tag: v24.11.1@sha256:2a1450abdbe75e03e779d01096c65a7cde2e3a85726092900ce134de781adc35
 service:
   main:
     ports:

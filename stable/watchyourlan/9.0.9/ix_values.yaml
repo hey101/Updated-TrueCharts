@@ -1,7 +1,7 @@
 image:
-  repository: "aceberg/watchyourlan"
-  tag: "2.0.1@sha256:26146a0f3dd8811861c413aecaf4faaa156a0bb2cdbeaa268c26a198086beb72"
-  pullPolicy: "IfNotPresent"
+  repository: aceberg/watchyourlan
+  tag: 2.0.1@sha256:26146a0f3dd8811861c413aecaf4faaa156a0bb2cdbeaa268c26a198086beb72
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

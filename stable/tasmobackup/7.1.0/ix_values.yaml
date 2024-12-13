@@ -1,7 +1,7 @@
 image:
-  repository: "danmed/tasmobackupv1"
-  tag: "1.06.09@sha256:0a8cfd5cdb512de2b3ac2fb24efcb7e7d085efa259bb2df39c024df10ad185fd"
-  pullPolicy: "IfNotPresent"
+  repository: danmed/tasmobackupv1
+  tag: 1.06.09@sha256:0a8cfd5cdb512de2b3ac2fb24efcb7e7d085efa259bb2df39c024df10ad185fd
+  pullPolicy: IfNotPresent
 
 env:
   DBNAME: data/tasmobackup

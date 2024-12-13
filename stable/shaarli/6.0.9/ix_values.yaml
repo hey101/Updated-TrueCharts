@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "docker.io/shaarli/shaarli"
-  tag: "v0.13.0"
+  pullPolicy: IfNotPresent
+  repository: docker.io/shaarli/shaarli
+  tag: v0.13.0
 persistence:
   cache:
     enabled: true

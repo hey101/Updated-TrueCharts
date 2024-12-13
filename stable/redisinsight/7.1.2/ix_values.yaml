@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "docker.io/redislabs/redisinsight"
-  tag: "2.60.0@sha256:ef29a4cae9ce79b659734f9e3e77db3a5f89876601c89b1ee8fdf18d2f92bb9d"
+  pullPolicy: IfNotPresent
+  repository: docker.io/redislabs/redisinsight
+  tag: 2.60.0@sha256:ef29a4cae9ce79b659734f9e3e77db3a5f89876601c89b1ee8fdf18d2f92bb9d
 securityContext:
   container:
     readOnlyRootFilesystem: false

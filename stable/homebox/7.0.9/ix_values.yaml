@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/sysadminsmedia/homebox"
-  pullPolicy: "IfNotPresent"
-  tag: "0.14.1@sha256:d5d85afb38e7c2d276cc9bfd4ffb341248aec13d7287817e1907e3a24c95998a"
+  repository: ghcr.io/sysadminsmedia/homebox
+  pullPolicy: IfNotPresent
+  tag: 0.14.1@sha256:d5d85afb38e7c2d276cc9bfd4ffb341248aec13d7287817e1907e3a24c95998a
 homebox:
   allow_registration: true
   auto_increment_asset_id: true

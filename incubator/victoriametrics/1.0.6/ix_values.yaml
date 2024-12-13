@@ -1,7 +1,7 @@
 image:
-  repository: "victoriametrics/victoria-metrics"
-  tag: "v1.104.0@sha256:4a03f2881108571949f83764069f5ecc325de5cbbae676c2742f0a2e7523a682"
-  pullPolicy: "IfNotPresent"
+  repository: victoriametrics/victoria-metrics
+  tag: v1.104.0@sha256:4a03f2881108571949f83764069f5ecc325de5cbbae676c2742f0a2e7523a682
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

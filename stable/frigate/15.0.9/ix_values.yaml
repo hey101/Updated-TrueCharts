@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/blakeblackshear/frigate"
-  pullPolicy: "IfNotPresent"
-  tag: "0.14.1@sha256:22e3d0b486df52c3d669682254c2b1bf4205fa6ad8bd8f8c9f7fe76b1517005d"
+  repository: ghcr.io/blakeblackshear/frigate
+  pullPolicy: IfNotPresent
+  tag: 0.14.1@sha256:22e3d0b486df52c3d669682254c2b1bf4205fa6ad8bd8f8c9f7fe76b1517005d
 tensorrtImage:
   repository: ghcr.io/blakeblackshear/frigate
   pullPolicy: IfNotPresent

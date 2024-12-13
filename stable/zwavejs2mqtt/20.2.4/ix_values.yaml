@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/zwavejs/zwave-js-ui"
-  pullPolicy: "IfNotPresent"
-  tag: "9.26.0@sha256:dd945bf63aca8c31763d90addf36db1f0d809c232b806d193173c329c03a183f"
+  repository: docker.io/zwavejs/zwave-js-ui
+  pullPolicy: IfNotPresent
+  tag: 9.26.0@sha256:dd945bf63aca8c31763d90addf36db1f0d809c232b806d193173c329c03a183f
 service:
   main:
     ports:

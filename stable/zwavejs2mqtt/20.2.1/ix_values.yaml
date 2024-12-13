@@ -1,7 +1,7 @@
 image:
-  repository: "zwavejs/zwave-js-ui"
-  pullPolicy: "IfNotPresent"
-  tag: "9.23.0@sha256:f21a32e2edd11ac5301a4cb5f68b08ee46a18b262c30f6e6b3e56be45a4cdad7"
+  repository: zwavejs/zwave-js-ui
+  pullPolicy: IfNotPresent
+  tag: 9.23.0@sha256:f21a32e2edd11ac5301a4cb5f68b08ee46a18b262c30f6e6b3e56be45a4cdad7
 service:
   main:
     ports:

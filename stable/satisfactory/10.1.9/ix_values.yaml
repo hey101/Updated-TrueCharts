@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/wolveix/satisfactory-server"
-  pullPolicy: "IfNotPresent"
-  tag: "v1.8.9@sha256:2829a00545ba3000ad767ace326cc31bb42de3bfd0b7904f4e65c1159606a14e"
+  repository: docker.io/wolveix/satisfactory-server
+  pullPolicy: IfNotPresent
+  tag: v1.8.9@sha256:2829a00545ba3000ad767ace326cc31bb42de3bfd0b7904f4e65c1159606a14e
 persistence:
   config:
     enabled: true

@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/onedr0p/plex"
-  pullPolicy: "IfNotPresent"
-  tag: "1.41.0.8992-8463ad060@sha256:d4c31adff5f2ed92152de7c2fb73464e71bea72c28fc7b4ebe74eefab2d9d048"
+  repository: ghcr.io/onedr0p/plex
+  pullPolicy: IfNotPresent
+  tag: 1.41.0.8992-8463ad060@sha256:d4c31adff5f2ed92152de7c2fb73464e71bea72c28fc7b4ebe74eefab2d9d048
 service:
   main:
     ports:

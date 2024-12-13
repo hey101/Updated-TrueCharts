@@ -1,7 +1,7 @@
 image:
-  repository: "quay.io/backube/volsync"
-  pullPolicy: "IfNotPresent"
-  tag: "0.10.0@sha256:48ce43289339a144a2eed356d58e77dc22382d46713dec944c439536531699cc"
+  repository: quay.io/backube/volsync
+  pullPolicy: IfNotPresent
+  tag: 0.10.0@sha256:48ce43289339a144a2eed356d58e77dc22382d46713dec944c439536531699cc
 proxyImage:
   repository: quay.io/brancz/kube-rbac-proxy
   pullPolicy: IfNotPresent

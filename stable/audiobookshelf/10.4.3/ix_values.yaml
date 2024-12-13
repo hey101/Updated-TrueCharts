@@ -1,7 +1,7 @@
 image:
-  repository: "advplyr/audiobookshelf"
-  tag: "2.15.0@sha256:91564c31204f09b2a9be63e4d3a4d553087df775ece6c99dcd931b3c4a0ff951"
-  pullPolicy: "IfNotPresent"
+  repository: advplyr/audiobookshelf
+  tag: 2.15.0@sha256:91564c31204f09b2a9be63e4d3a4d553087df775ece6c99dcd931b3c4a0ff951
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

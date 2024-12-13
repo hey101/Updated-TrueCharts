@@ -1,7 +1,7 @@
 image:
-  repository: "aeonlucid/impostor"
-  pullPolicy: "IfNotPresent"
-  tag: "v1.9.3@sha256:12a5e5a1153c1a649ea7d2d9dbdcf4c840f0a5149469404898bc1e58a5de5680"
+  repository: aeonlucid/impostor
+  pullPolicy: IfNotPresent
+  tag: v1.9.3@sha256:12a5e5a1153c1a649ea7d2d9dbdcf4c840f0a5149469404898bc1e58a5de5680
 nightlyImage:
   repository: aeonlucid/impostor
   tag: nightly@sha256:0dc8e95b5ea9a2ff2360c88c2990e58d2dcda9ccfb58715c31a9a4fc0aab9f6a

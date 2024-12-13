@@ -1,7 +1,7 @@
 image:
-  repository: "koush/scrypted"
-  tag: "v0.119.2-jammy-full@sha256:b36989d5cd1a19464f242c03636acc1007f783c54225f35cd18f1335ac650c31"
-  pullPolicy: "Always"
+  repository: koush/scrypted
+  tag: v0.119.2-jammy-full@sha256:b36989d5cd1a19464f242c03636acc1007f783c54225f35cd18f1335ac650c31
+  pullPolicy: Always
 liteImage:
   repository: koush/scrypted
   tag: 

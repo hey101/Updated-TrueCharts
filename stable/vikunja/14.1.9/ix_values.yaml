@@ -1,7 +1,7 @@
 image:
-  repository: "vikunja/vikunja"
-  tag: "0.24.3@sha256:c400bdcb2ae4a78fccb9b463d01f96d1b2cfaef3484a4dd5c2a26e55eadc2d7a"
-  pullPolicy: "IfNotPresent"
+  repository: vikunja/vikunja
+  tag: 0.24.3@sha256:c400bdcb2ae4a78fccb9b463d01f96d1b2cfaef3484a4dd5c2a26e55eadc2d7a
+  pullPolicy: IfNotPresent
 frontendImage:
   repository: vikunja/frontend
   tag: 0.22.1@sha256:f0223d441997fe29c377d0b476dc4bb2fc091b44b9c24d76b1b88c213df520c5

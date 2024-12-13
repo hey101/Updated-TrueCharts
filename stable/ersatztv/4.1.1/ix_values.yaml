@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "jasongdove/ersatztv"
-  tag: "v0.8.8@sha256:a183c6f1ee92a0c348bccbb456d829b754cd642f0b578b90f31bacd9c7b1d325"
+  pullPolicy: IfNotPresent
+  repository: jasongdove/ersatztv
+  tag: v0.8.8@sha256:a183c6f1ee92a0c348bccbb456d829b754cd642f0b578b90f31bacd9c7b1d325
 imageSelector: image
 nvidiaImage:
   pullPolicy: Always

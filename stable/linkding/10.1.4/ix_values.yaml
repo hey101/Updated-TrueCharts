@@ -1,7 +1,7 @@
 image:
-  repository: "sissbruecker/linkding"
-  tag: "1.35.0@sha256:0c5dddf0b37c3070f7d6c87b9fb76b6f7ab469c4ef8cbe5dfad182dae739b2b0"
-  pullPolicy: "IfNotPresent"
+  repository: sissbruecker/linkding
+  tag: 1.35.0@sha256:0c5dddf0b37c3070f7d6c87b9fb76b6f7ab469c4ef8cbe5dfad182dae739b2b0
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

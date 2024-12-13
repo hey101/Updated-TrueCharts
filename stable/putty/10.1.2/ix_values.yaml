@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/jlesage/putty"
-  tag: "v24.11.1@sha256:e7ebd7a5b7bffaad159cb89a01969ee301efeca30a17604e273b761d078a2e99"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/jlesage/putty
+  tag: v24.11.1@sha256:e7ebd7a5b7bffaad159cb89a01969ee301efeca30a17604e273b761d078a2e99
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

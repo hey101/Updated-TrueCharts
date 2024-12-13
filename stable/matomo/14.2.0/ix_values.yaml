@@ -1,7 +1,7 @@
 image:
-  repository: "bitnami/matomo"
-  tag: "5.1.1@sha256:61abb24267f6ea4cd36007c66a1c9be7d4bd3b0c814cd72dc7bfe49c2be1aa29"
-  pullPolicy: "IfNotPresent"
+  repository: bitnami/matomo
+  tag: 5.1.1@sha256:61abb24267f6ea4cd36007c66a1c9be7d4bd3b0c814cd72dc7bfe49c2be1aa29
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     runAsNonRoot: false

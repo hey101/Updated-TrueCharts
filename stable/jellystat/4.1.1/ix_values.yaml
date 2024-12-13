@@ -1,7 +1,7 @@
 image:
-  repository: "cyfershepard/jellystat"
-  pullPolicy: "IfNotPresent"
-  tag: "1.1.1@sha256:912ad92ffa96b08323a59773393461b04713764b5a40ce0af7e73af4177feace"
+  repository: cyfershepard/jellystat
+  pullPolicy: IfNotPresent
+  tag: 1.1.1@sha256:912ad92ffa96b08323a59773393461b04713764b5a40ce0af7e73af4177feace
 securityContext:
   container:
     runAsNonRoot: false

@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/beryju/gravity"
-  tag: "v0.9.1@sha256:731abaf64dfaec352442eff11fd80f82657fdb20df9459a97b8b768ca7aa2c12"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/beryju/gravity
+  tag: v0.9.1@sha256:731abaf64dfaec352442eff11fd80f82657fdb20df9459a97b8b768ca7aa2c12
+  pullPolicy: IfNotPresent
 
 securityContext:
   container:

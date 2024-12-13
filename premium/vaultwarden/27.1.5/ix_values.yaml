@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/vaultwarden/server"
-  pullPolicy: "IfNotPresent"
-  tag: "1.32.2@sha256:c07f5319d20bdbd58a19d7d779a1e97159ce25cb95572baa947c70f58589937c"
+  repository: docker.io/vaultwarden/server
+  pullPolicy: IfNotPresent
+  tag: 1.32.2@sha256:c07f5319d20bdbd58a19d7d779a1e97159ce25cb95572baa947c70f58589937c
 
 betaImage:
   repository: ghcr.io/timshel/vaultwarden

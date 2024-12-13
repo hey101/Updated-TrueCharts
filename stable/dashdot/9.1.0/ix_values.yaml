@@ -1,7 +1,7 @@
 image:
-  repository: "mauricenino/dashdot"
-  tag: "5.8.6@sha256:53f30588c5fe519f75e34fef26bdd365736509780b358cdf582a15d30594baca"
-  pullPolicy: "IfNotPresent"
+  repository: mauricenino/dashdot
+  tag: 5.8.6@sha256:53f30588c5fe519f75e34fef26bdd365736509780b358cdf582a15d30594baca
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     runAsNonRoot: false

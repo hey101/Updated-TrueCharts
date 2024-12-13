@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/linuxserver/calibre"
-  tag: "7.21.0@sha256:759773a89c64ceb77e4ffdbace0bb70c8266b1f58aaaa3937d45b45ac8fab8ae"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/linuxserver/calibre
+  tag: 7.21.0@sha256:759773a89c64ceb77e4ffdbace0bb70c8266b1f58aaaa3937d45b45ac8fab8ae
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

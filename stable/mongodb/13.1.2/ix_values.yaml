@@ -1,7 +1,7 @@
 image:
-  repository: "bitnami/mongodb"
-  pullPolicy: "IfNotPresent"
-  tag: "8.0.1@sha256:bdb889c097378902192b9018624e2215d97747efe009c23a0fb9da93703e5de9"
+  repository: bitnami/mongodb
+  pullPolicy: IfNotPresent
+  tag: 8.0.1@sha256:bdb889c097378902192b9018624e2215d97747efe009c23a0fb9da93703e5de9
 
 includeCommon: true
 workload:

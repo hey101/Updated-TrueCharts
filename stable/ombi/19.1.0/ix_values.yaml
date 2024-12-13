@@ -1,7 +1,7 @@
 image:
-  repository: "linuxserver/ombi"
-  pullPolicy: "IfNotPresent"
-  tag: "4.44.1@sha256:c0542bf1f71cecee33398877b1b23062eabaf0be79a3ff27ebf7e136659ea924"
+  repository: linuxserver/ombi
+  pullPolicy: IfNotPresent
+  tag: 4.44.1@sha256:c0542bf1f71cecee33398877b1b23062eabaf0be79a3ff27ebf7e136659ea924
 service:
   main:
     ports:

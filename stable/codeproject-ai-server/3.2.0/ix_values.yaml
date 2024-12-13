@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "codeproject/ai-server"
-  tag: "cpu-2.6.5@sha256:181c85af30bb464a1ad5db396ba0803ec82d9f912e54ff751f171f3342d27489"
+  pullPolicy: IfNotPresent
+  repository: codeproject/ai-server
+  tag: cpu-2.6.5@sha256:181c85af30bb464a1ad5db396ba0803ec82d9f912e54ff751f171f3342d27489
 gpu12Image:
   pullPolicy: IfNotPresent
   repository: codeproject/ai-server

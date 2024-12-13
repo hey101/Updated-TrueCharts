@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/jlesage/makemkv"
-  tag: "v24.11.1@sha256:d994aeadf67f231b8f310e3a7d7e14b3494440bee325b231fa2e0f408b59e1b1"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/jlesage/makemkv
+  tag: v24.11.1@sha256:d994aeadf67f231b8f310e3a7d7e14b3494440bee325b231fa2e0f408b59e1b1
+  pullPolicy: IfNotPresent
 makemkv:
   # General Settings
   KEEP_APP_RUNNING: false

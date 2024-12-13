@@ -1,7 +1,7 @@
 image:
-  repository: "2fauth/2fauth"
-  pullPolicy: "IfNotPresent"
-  tag: "5.2.0@sha256:b115c5eb999f9924ee509b7f1c271dcaa668ab5d9f70f9e62456ac4137193693"
+  repository: 2fauth/2fauth
+  pullPolicy: IfNotPresent
+  tag: 5.2.0@sha256:b115c5eb999f9924ee509b7f1c271dcaa668ab5d9f70f9e62456ac4137193693
 
 securityContext:
   container:

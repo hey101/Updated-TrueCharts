@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/benbusby/whoogle-search"
-  tag: "0.9.1@sha256:f654c45236f6ed30ac5be47473a4a27757c0b58c173eccfc8fc12555c325e341"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/benbusby/whoogle-search
+  tag: 0.9.1@sha256:f654c45236f6ed30ac5be47473a4a27757c0b58c173eccfc8fc12555c325e341
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

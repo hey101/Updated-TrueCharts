@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/dgtlmoon/changedetection.io"
-  pullPolicy: "IfNotPresent"
-  tag: "0.48.01@sha256:3709fb9b4a2ebe5c4002887b9623c767d6d5e76e37520bf2509a8208147a8ae2"
+  repository: ghcr.io/dgtlmoon/changedetection.io
+  pullPolicy: IfNotPresent
+  tag: 0.48.01@sha256:3709fb9b4a2ebe5c4002887b9623c767d6d5e76e37520bf2509a8208147a8ae2
 
 service:
   main:

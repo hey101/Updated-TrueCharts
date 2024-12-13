@@ -1,7 +1,7 @@
 image:
-  repository: "gotson/komga"
-  tag: "1.13.0@sha256:9d2413e74ddd6158dfb478d8f1997359fcf2b81c89772497b86d58f637165c2c"
-  pullPolicy: "IfNotPresent"
+  repository: gotson/komga
+  tag: 1.13.0@sha256:9d2413e74ddd6158dfb478d8f1997359fcf2b81c89772497b86d58f637165c2c
+  pullPolicy: IfNotPresent
 workload:
   main:
     podSpec:

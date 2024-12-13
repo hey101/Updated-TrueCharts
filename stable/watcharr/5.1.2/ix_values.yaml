@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/sbondco/watcharr"
-  tag: "v1.44.2@sha256:85df9a7f4e7cb73d89edf546c9458a096d40d2641c22e36d6ad41aa15da47625"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/sbondco/watcharr
+  tag: v1.44.2@sha256:85df9a7f4e7cb73d89edf546c9458a096d40d2641c22e36d6ad41aa15da47625
+  pullPolicy: IfNotPresent
 
 securityContext:
   container:

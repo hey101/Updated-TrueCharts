@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/homeassistant/home-assistant"
-  pullPolicy: "IfNotPresent"
-  tag: "2024.10.4@sha256:408a5a63e3e9a89ceb6ecd98345e54c86073314b4d94e217cd54f7208307406d"
+  repository: docker.io/homeassistant/home-assistant
+  pullPolicy: IfNotPresent
+  tag: 2024.10.4@sha256:408a5a63e3e9a89ceb6ecd98345e54c86073314b4d94e217cd54f7208307406d
 service:
   main:
     ports:

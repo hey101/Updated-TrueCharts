@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/docuseal/docuseal"
-  tag: "1.7.7@sha256:df1f824a8fb66e7c2f970f7058ab57f398821ed1ff468e1019cc910a56b07001"
-  pullPolicy: "IfNotPresent"
+  repository: docker.io/docuseal/docuseal
+  tag: 1.7.7@sha256:df1f824a8fb66e7c2f970f7058ab57f398821ed1ff468e1019cc910a56b07001
+  pullPolicy: IfNotPresent
 securityContext:
   container:
     readOnlyRootFilesystem: false

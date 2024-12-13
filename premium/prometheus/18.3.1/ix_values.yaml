@@ -1,7 +1,7 @@
 image:
-  repository: "docker.io/bitnami/prometheus"
-  tag: "2.55.0@sha256:5f7de03c79d4192e09b3674d053c2d25c354c32c485d0895d75e7950745df70f"
-  pullPolicy: "None"
+  repository: docker.io/bitnami/prometheus
+  tag: 2.55.0@sha256:5f7de03c79d4192e09b3674d053c2d25c354c32c485d0895d75e7950745df70f
+  pullPolicy: None
 thanosImage:
   repository: quay.io/thanos/thanos
   tag: v0.35.0@sha256:fa1d28718df00b68d6ad85d7c7d4703bd9f59e5cd8be8da6540ea398cf701a1f

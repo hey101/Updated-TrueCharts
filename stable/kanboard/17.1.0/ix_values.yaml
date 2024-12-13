@@ -1,7 +1,7 @@
 image:
-  repository: "kanboard/kanboard"
-  tag: "v1.2.39@sha256:28d547f55480f3d378f4882796c83a66369061cc4576ed1179d1bb67912d6572"
-  pullPolicy: "IfNotPresent"
+  repository: kanboard/kanboard
+  tag: v1.2.39@sha256:28d547f55480f3d378f4882796c83a66369061cc4576ed1179d1bb67912d6572
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

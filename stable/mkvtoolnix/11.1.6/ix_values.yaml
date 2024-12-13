@@ -1,7 +1,7 @@
 image:
-  repository: "jlesage/mkvtoolnix"
-  tag: "v24.09.1@sha256:008ec7957e123c4685f21121f6dc4a3234963490e7f5b92c7ac6f02c903d98e3"
-  pullPolicy: "IfNotPresent"
+  repository: jlesage/mkvtoolnix
+  tag: v24.09.1@sha256:008ec7957e123c4685f21121f6dc4a3234963490e7f5b92c7ac6f02c903d98e3
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:

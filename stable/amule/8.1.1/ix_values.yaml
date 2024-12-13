@@ -1,7 +1,7 @@
 image:
-  pullPolicy: "IfNotPresent"
-  repository: "ghcr.io/ngosang/amule"
-  tag: "2.3.3-18test@sha256:3ef93d32a37bf73b22330b310112b4db42b78514930e217a3040980c4f36ee80"
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ngosang/amule
+  tag: 2.3.3-18test@sha256:3ef93d32a37bf73b22330b310112b4db42b78514930e217a3040980c4f36ee80
 securityContext:
   container:
     readOnlyRootFilesystem: false

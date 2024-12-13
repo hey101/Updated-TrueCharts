@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/goauthentik/server"
-  tag: "2024.8.2@sha256:71984fdbb7a9414f5172bb446104d3fe4ab1ab412c8b3343bb97b04449dd53eb"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/goauthentik/server
+  tag: 2024.8.2@sha256:71984fdbb7a9414f5172bb446104d3fe4ab1ab412c8b3343bb97b04449dd53eb
+  pullPolicy: IfNotPresent
 geoipImage:
   repository: ghcr.io/maxmind/geoipupdate
   tag: v7.0.1@sha256:80c57598a9ff552953e499cefc589cfe7b563d64262742ea42f2014251b557b0

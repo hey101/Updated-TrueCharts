@@ -1,7 +1,7 @@
 image:
-  repository: "deluan/navidrome"
-  pullPolicy: "IfNotPresent"
-  tag: "0.53.1@sha256:40e53100217d57ec04199fbdd4ca3176aa4e556a73e63862dae4d5bc4763ccca"
+  repository: deluan/navidrome
+  pullPolicy: IfNotPresent
+  tag: 0.53.1@sha256:40e53100217d57ec04199fbdd4ca3176aa4e556a73e63862dae4d5bc4763ccca
 workload:
   main:
     podSpec:

@@ -1,7 +1,7 @@
 image:
-  repository: "ghcr.io/linuxserver/healthchecks"
-  tag: "3.6.20240916@sha256:5678adb4a72f9bd266e97cb6a31d10b216d6e07fe3617d892320780f0d6a8052"
-  pullPolicy: "IfNotPresent"
+  repository: ghcr.io/linuxserver/healthchecks
+  tag: 3.6.20240916@sha256:5678adb4a72f9bd266e97cb6a31d10b216d6e07fe3617d892320780f0d6a8052
+  pullPolicy: IfNotPresent
 service:
   main:
     ports:
