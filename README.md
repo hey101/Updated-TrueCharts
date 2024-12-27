@@ -31,6 +31,48 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.27 @ 11:36 AM EST:
+		- Stable:
+			- adguard-home: v0.107.54 --> v0.107.55
+			- adguardhome-sync: v0.6.13 --> v0.6.17
+			- ariang: v1.3.7 --> v1.3.8
+			- automatic-ripping-machine: v2.10.0 --> v2.10.1
+			- baserow: v1.29.2 --> v1.29.3
+			- ddns-go: v6.7.6 --> v6.7.7
+			- deconz: v2.29.0 --> v2.29.1
+			- esphome: v2024.11.1 --> v2024.11.3
+			- flood: v4.8.4 --> v4.8.5
+			- gokapi: v1.9.2 --> v1.9.6
+			- homarr: v0.15.7 --> v0.15.10
+			- impostor-server: v1.10.1 --> v1.10.2
+			- ispy-agent-dvr: v5.8.0.0 --> v5.8.4.0
+			- kanboard: v1.2.42 --> v1.2.43
+			- memcached: v1.6.32 --> v1.6.34
+			- metabase: v0.51.4 --> v0.51.10
+			- miniflux: v2.2.3 --> v2.2.4
+			- mongodb: v8.0.3 --> v8.0.4
+			- n8n: v1.69.0 --> v1.69.2
+			- nocodb: v0.258.2 --> v0.258.10
+			- node-red: v4.0.5 --> v4.0.8
+			- onlyoffice-document-server: v8.2.1 --> v8.2.2
+			- openhab: v4.2.2 --> v4.2.3
+			- portainer: v2.24.0 --> v2.24.1
+			- putty: v24.11.1 --> v24.11.2
+			- qbitmanage: v4.1.13 --> v4.1.14
+			- qbitrr: v4.9.18 --> v4.9.20
+			- qinglong: v2.17.12 --> v2.17.13
+			- radicale: v3.3.0.1 --> v3.3.2.0
+			- ring-mqtt: v5.7.2 --> v5.7.3
+			- satisfactory: v1.8.9 --> v1.8.10
+			- servas: v0.4.0 --> v0.4.1
+			- tandoor-recipes: v1.5.23 --> v1.5.24
+			- uptime-kuma: v1.23.15 --> v1.23.16
+			- vikunja: v0.24.5 --> v0.24.6
+			- zwavejs2mqtt: v9.27.7 --> v9.27.8
+		- Incubator:
+			- lyrion-music-server: v9.0.0 --> v9.0.1
+		- Premium:
+			- grafana: v11.3.1 --> v11.3.2
 	- 2024.12.13 @ 03:13 AM EST:
 		- Stable:
 			- sabnzbd: v4.3.3 --> v4.4.0
