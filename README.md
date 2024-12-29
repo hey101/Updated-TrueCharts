@@ -31,6 +31,21 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.29 @ 11:59 AM EST:
+		- Stable:
+			- atuin: v18.3.0 --> v18.4.0
+			- authentik: v2024.8.3 --> v2024.8.6
+			- collabora: v24.04.8.2.1 --> v24.04.11.1.1
+			- gitea: v1.22.3 --> v1.22.6
+			- jackett: v0.22.1136 --> v0.22.1141
+			- navidrome: v0.54.2 --> v0.54.3
+			- nginx-proxy-manager: v2.12.1 --> v2.12.2
+			- seafile: v11.0.12 --> v11.0.13
+			- shlink: v4.3.1 --> v4.4.0
+			- twofauth: v5.3.1 --> v5.4.3
+		- Premium:
+			- authelia: v4.38.16 --> v4.38.17
+			- vaultwarden: v1.32.5 --> v1.32.7
 	- 2024.12.28 @ 12:00 PM EST:
 		- Stable:
 			- actualserver: v24.11.0 --> v24.12.0
