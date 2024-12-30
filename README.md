@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.30 @ 12:00 PM EST:
+		- Stable:
+			- authentik: v2024.8.6 --> v2024.12.1
+			- fluidd: v1.31.3 --> v1.31.4
+			- healthchecks: v3.9.20241224 --> v3.9.20251230
+			- jackett: v0.22.1141 --> v0.22.1150
+			- jellyseerr: v2.1.0 --> v2.2.2
+			- mkvtoolnix: v24.12.1 --> v24.12.2
+			- picoshare: v1.4.4 --> v1.4.5
 	- 2024.12.29 @ 11:59 AM EST:
 		- Stable:
 			- atuin: v18.3.0 --> v18.4.0
