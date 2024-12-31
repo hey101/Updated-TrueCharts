@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2024.12.31 @ 12:01 PM EST:
+		- Stable:
+			- chroma: v0.5.23 --> v0.6.0
+			- ghostfolio: v2.131.0 --> v2.132.0
+			- gravity: v0.19.0 --> v0.19.1
+			- jellyseerr: v2.2.2 --> v2.2.3
+			- maintainerr: v2.4.1 --> v2.5.0
+			- plextraktsync: v0.32.4 --> v0.32.5
 	- 2024.12.30 @ 12:01 PM EST:
 		- Stable:
 			- authentik: v2024.8.6 --> v2024.12.1
