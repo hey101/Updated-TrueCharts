@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.01.02 @ 09:25 PM EST:
+		- Stable:
+			- jackett: v0.22.1150 --> v0.22.1162
+			- unpoller: v2.11.2 --> v2.12.0
+		- Incubator:
+			- pingvin-share: v1.7.1 --> v1.7.2
 	- 2024.12.31 @ 12:00 PM EST:
 		- Stable:
 			- chroma: v0.5.23 --> v0.6.0
