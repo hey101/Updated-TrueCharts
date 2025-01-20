@@ -1,0 +1,53 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: ghcr.io/ich777/steamcmd
+  tag: memoriesofmars@sha256:249ded0bb7506f842c9b8f2eff974bee43aa71087f6dd63ea5cdc129089804b8
+persistence:
+  serverfiles:
+    enabled: true
+    mountPath: /serverdata/serverfiles
+  steamcmd:
+    enabled: true
+    mountPath: /serverdata/steamcmd
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsGroup: 0
+    runAsUser: 0
+service:
+  beaconport:
+    enabled: true
+    ports:
+      beaconport:
+        enabled: true
+        port: 15000
+        protocol: udp
+        targetPort: 15000
+  main:
+    ports:
+      main:
+        port: 7777
+        protocol: udp
+        targetPort: 7777
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            GAME_ID: "897590"
+            GAME_PARAMS: ""
+            MULTIHOME: ""
+            PASSWRD: ""
+            USERNAME: ""
+            VALIDATE: "false"
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false

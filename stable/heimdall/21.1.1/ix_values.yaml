@@ -1,0 +1,31 @@
+image:
+  repository: lscr.io/linuxserver/heimdall
+  tag: 2021.11.28@sha256:759b6be5b2649442f0f2817f5d210c14c2a55d5bab5e1eeae58e285663743ea5
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        port: 10014
+        targetPort: 80
+persistence:
+  config:
+    enabled: true
+    mountPath: "/config"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            startup:
+              enabled: true
