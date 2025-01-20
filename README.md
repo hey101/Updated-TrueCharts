@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.01.20 @ 01:31 PM EST:
+		- Stable:
+			- jackett: v0.22.1286 --> v0.22.1289
 	- 2025.01.20 @ 01:43 AM EST:
 		- Stable:
 			- airdcpp-webclient: v2.13.2 --> v2.13.3
