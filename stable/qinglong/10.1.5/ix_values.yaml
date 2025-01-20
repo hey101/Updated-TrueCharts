@@ -1,0 +1,23 @@
+image:
+  repository: docker.io/whyour/qinglong
+  pullPolicy: IfNotPresent
+  tag: 2.18.1@sha256:5bf708adee179c33a0ed192d54ba18183bb6bb054b637fb99973a8a239cbb250
+service:
+  main:
+    ports:
+      main:
+        targetPort: 5700
+        port: 10176
+persistence:
+  data:
+    enabled: true
+    mountPath: "/ql/data"
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
