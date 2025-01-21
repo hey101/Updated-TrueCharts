@@ -1,0 +1,36 @@
+image:
+  repository: ghcr.io/linuxserver/ddclient
+  pullPolicy: IfNotPresent
+  tag: 4.0.0@sha256:5a47dd8125abe31b8c0b7648eae0c11596cc66fbc5063d725fd9ff20b42fcba3
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    enabled: false
+    ports:
+      main:
+        enabled: false
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              enabled: false
+            readiness:
+              enabled: false
+            startup:
+              enabled: false
+          env: {}
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: false
