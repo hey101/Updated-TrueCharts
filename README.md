@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.01.21 @ 05:30 PM EST:
+		- Stable:
+			- audiobookshelf: v2.18.0 --> v2.18.1
+			- changedetection-io: v0.48.06 --> v0.49.0
+			- code-server: v4.96.2 --> v4.96.4
+			- crafty-4: v4.4.4 --> v4.4.7
+			- ddclient: v3.11.2 --> v4.0.0
+			- emby: v4.9.0.35 --> v4.9.0.36
+			- jackett: v0.22.1289 --> v0.22.1292
+			- jenkins: v2.493 --> v2.494
+			- mysql-workbench: v8.0.40 --> v8.0.41
+			- portainer: v2.26.0 --> v2.26.1
+			- tauticord: v5.10.0 --> v5.11.0
 	- 2025.01.20 @ 01:31 PM EST:
 		- Stable:
 			- jackett: v0.22.1286 --> v0.22.1289
