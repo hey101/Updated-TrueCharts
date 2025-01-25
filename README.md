@@ -31,6 +31,39 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.01.24 @ 07:06 PM EST:
+		- Stable:
+			- adguard-home: v0.107.55 --> v0.107.56
+			- clamav: v1.4.1 --> v1.4.2
+			- collabora: v24.04.11.3 --> v24.04.12.1
+			- ddns-go: v6.8.0 --> v6.8.1
+			- drawio: v26.0.6 --> v26.0.7
+			- emby: v4.9.0.36 --> v4.9.0.37
+			- fileflows: v24.12 --> v25.01
+			- game-server-watcher: v3.1.21 --> v3.1.22
+			- grocy: v4.3.0 --> v4.4.0
+			- ispy-agent-dvr: v5.8.4.0 --> v6.0.3.0
+			- jackett: v0.22.1292 --> v0.22.1305
+			- jellyfin: v10.10.3 --> v10.10.4
+			- kopia: v0.18.2 --> v0.19.0
+			- matomo: v5.2.1 --> v5.2.2
+			- mealie: v2.4.2 --> v2.5.0
+			- metabase: v0.52.6 --> v0.52.7
+			- netdata: v2.1.1 --> v2.2.0
+			- nexus-oss: v3.76.0 --> v3.76.1
+			- pasta: v1.6.2 --> v1.6.4
+			- phpmyadmin: v5.2.1 --> v5.2.2
+			- pocketmine-mp: v5.23.2 --> v5.24.0
+			- prowlarr: v1.30.1.492 --> v1.30.2.493
+			- satisfactory: v1.9.1 --> v1.9.4
+			- solr: v9.7.0 --> v9.8.0
+			- sourcegraph: v5.11.5234 --> v5.11.6271
+			- tasmoadmin: v4.2.1 --> v4.2.2
+			- tdarr: v2.27.02 --> v2.28.01
+			- tdarr-node: v2.27.02 --> v2.28.01
+			- whoogle: v0.9.2 --> v0.9.3
+		- Premium:
+			- traefik: v3.3.1 --> v3.3.2
 	- 2025.01.21 @ 05:30 PM EST:
 		- Stable:
 			- audiobookshelf: v2.18.0 --> v2.18.1
