@@ -31,6 +31,65 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.01 @ 04:27 AM EST:
+		- Stable:
+			- adguard-home: v0.107.55 --> v0.107.56
+			- authentik: v2024.12.2 --> v2024.12.3
+			- autobrr: v1.57.0 --> v1.58.0
+			- clamav: v1.4.1 --> v1.4.2
+			- cloudflared: v2025.1.0 --> v2025.1.1
+			- collabora: v24.04.11.3 --> v24.04.12.2
+			- ddns-go: v6.8.0 --> v6.8.1
+			- docker: v27.5.0 --> v27.5.1
+			- drawio: v26.0.6 --> v26.0.9
+			- emby: v4.9.0.36 --> v4.9.0.37
+			- filebrowser: v2.31.2 --> v2.32.0
+			- fileflows: v24.12 --> v25.01
+			- flexget: v3.13.17 --> v3.13.26
+			- flood: v4.9.0 --> v4.9.3
+			- game-server-watcher: v3.1.21 --> v3.1.22
+			- gaseous-server: v1.7.7 --> v1.7.9
+			- grocy: v4.3.0 --> v4.4.1
+			- ipfs: v0.32.1 --> v0.33.0
+			- ispy-agent-dvr: v5.8.4.0 --> v6.0.6.0
+			- jackett: v0.22.1292 --> v0.22.1345
+			- jellyfin: v10.10.3 --> v10.10.5
+			- jenkins: v2.494 --> v2.495
+			- komga: v1.18.0 --> v1.19.0
+			- kopia: v0.18.2 --> v0.19.0
+			- linkding: v1.36.0 --> v1.37.0
+			- matomo: v5.2.1 --> v5.2.2
+			- mealie: v2.4.2 --> v2.5.0
+			- metabase: v0.52.6 --> v0.52.8
+			- muse: v2.10.0 --> v2.10.1
+			- netdata: v2.1.1 --> v2.2.3
+			- nexus-oss: v3.76.0 --> v3.76.1
+			- openvscode-server: v1.96.0 --> v1.96.4
+			- pasta: v1.6.2 --> v1.6.4
+			- phpmyadmin: v5.2.1 --> v5.2.2
+			- plextraktsync: v0.33.0 --> v0.34.1
+			- pocketmine-mp: v5.23.2 --> v5.24.0
+			- prowlarr: v1.30.1.492 --> v1.30.2.493
+			- radicale: v3.4.0.0 --> v3.4.1.0
+			- rdtclient: v2.0.95 --> v2.0.96
+			- readarr: v0.4.9.2730 --> v0.4.10.273
+			- redisinsight: v2.64.1 --> v2.66.0
+			- satisfactory: v1.9.1 --> v1.9.5
+			- solr: v9.7.0 --> v9.8.0
+			- sourcegraph: v5.11.5234 --> v5.11.6271
+			- tasmoadmin: v4.2.1 --> v4.2.2
+			- tdarr: v2.27.02 --> v2.30.01
+			- tdarr-node: v2.27.02 --> v2.30.01
+			- tinymediamanager: v5.0.13 --> v5.1.1
+			- wallos: v2.45.0 --> v2.45.1
+			- watcharr: v1.44.2 --> v2.0.0
+			- whoogle: v0.9.2 --> v0.9.3
+			- xen-orchestra: v5.168.1 --> v5.169.1
+			- zwavejs2mqtt: v9.29.1 --> v9.30.1
+		- Premium:
+			- grafana: v11.4.0 --> v11.5.0
+			- traefik: v3.3.1 --> v3.3.2
+			- vaultwarden: v1.32.7 --> v1.33.0
 	- 2025.01.21 @ 05:31 PM EST:
 		- Stable:
 			- audiobookshelf: v2.18.0 --> v2.18.1
