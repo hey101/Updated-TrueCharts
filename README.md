@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.01 @ 12:40 PM EST:
+		- Stable:
+			- jackett: v0.22.1345 --> v0.22.1355
 	- 2025.02.01 @ 04:27 AM EST:
 		- Stable:
 			- adguard-home: v0.107.55 --> v0.107.56
