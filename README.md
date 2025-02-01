@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.01 @ 12:39 PM EST:
+		- Stable:
+			- jackett: v0.22.1345 --> v0.22.1355
 	- 2025.02.01 @ 04:25 AM EST:
 		- Stable:
 			- authentik: v2024.12.2 --> v2024.12.3
