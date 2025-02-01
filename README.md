@@ -31,6 +31,46 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.01 @ 04:25 AM EST:
+		- Stable:
+			- authentik: v2024.12.2 --> v2024.12.3
+			- autobrr: v1.57.0 --> v1.58.0
+			- cloudflared: v2025.1.0 --> v2025.1.1
+			- collabora: v24.04.12.1 --> v24.04.12.2
+			- docker: v27.5.0 --> v27.5.1
+			- drawio: v26.0.7 --> v26.0.9
+			- filebrowser: v2.31.2 --> v2.32.0
+			- flexget: v3.13.17 --> v3.13.26
+			- flood: v4.9.0 --> v4.9.3
+			- gaseous-server: v1.7.7 --> v1.7.9
+			- grocy: v4.4.0 --> v4.4.1
+			- ipfs: v0.32.1 --> v0.33.0
+			- ispy-agent-dvr: v6.0.3.0 --> v6.0.6.0
+			- jackett: v0.22.1305 --> v0.22.1345
+			- jellyfin: v10.10.4 --> v10.10.5
+			- jenkins: v2.494 --> v2.495
+			- komga: v1.18.0 --> v1.19.0
+			- linkding: v1.36.0 --> v1.37.0
+			- metabase: v0.52.7 --> v0.52.8
+			- muse: v2.10.0 --> v2.10.1
+			- netdata: v2.2.0 --> v2.2.3
+			- openvscode-server: v1.96.0 --> v1.96.4
+			- plextraktsync: v0.33.0 --> v0.34.1
+			- radicale: v3.4.0.0 --> v3.4.1.0
+			- rdtclient: v2.0.95 --> v2.0.96
+			- readarr: v0.4.9.2730 --> v0.4.10.273
+			- redisinsight: v2.64.1 --> v2.66.0
+			- satisfactory: v1.9.4 --> v1.9.5
+			- tdarr: v2.28.01 --> v2.30.01
+			- tdarr-node: v2.28.01 --> v2.30.01
+			- tinymediamanager: v5.0.13 --> v5.1.1
+			- wallos: v2.45.0 --> v2.45.1
+			- watcharr: v1.44.2 --> v2.0.0
+			- xen-orchestra: v5.168.1 --> v5.169.1
+			- zwavejs2mqtt: v9.29.1 --> v9.30.1
+		- Premium:
+			- grafana: v11.4.0 --> v11.5.0
+			- vaultwarden: v1.32.7 --> v1.33.0
 	- 2025.01.24 @ 07:06 PM EST:
 		- Stable:
 			- adguard-home: v0.107.55 --> v0.107.56
