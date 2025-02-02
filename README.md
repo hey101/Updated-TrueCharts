@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.02 @ 02:53 PM EST:
+		- Stable:
+			- jackett: v0.22.1355 --> v0.22.1359
+			- memcached: v1.6.34 --> v1.6.35
+			- minecraft-java: v2025.1.0 --> v2025.2.0
+			- netbootxyz: v0.7.3 --> v0.7.4
+			- zigbee2mqtt: v2.0.0 --> v2.1.0
+		- Premium:
+			- traefik: v3.3.2 --> v3.3.3
 	- 2025.02.01 @ 12:40 PM EST:
 		- Stable:
 			- jackett: v0.22.1345 --> v0.22.1355
