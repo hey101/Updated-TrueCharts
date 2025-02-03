@@ -31,6 +31,22 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.03 @ 01:24 PM EST:
+		- Stable:
+			- audiobookshelf: v2.18.1 --> v2.19.0
+			- automatic-ripping-machine: v2.10.3 --> v2.10.5
+			- discordgsm: v2.17.0 --> v2.18.0
+			- ispy-agent-dvr: v6.0.6.0 --> v6.0.8.0
+			- jackett: v0.22.1359 --> v0.22.1363
+			- komga: v1.19.0 --> v1.19.1
+			- lidarr: v2.8.2.4493 --> v2.9.6.4552
+			- metabase: v0.52.8 --> v0.52.9
+			- qbitmanage: v4.1.15 --> v4.1.16
+			- qbitrr: v4.10.10 --> v4.10.11
+			- radarr: v5.17.2.958 --> v5.18.4.967
+		- Premium:
+			- grafana: v11.5.0 --> v11.5.1
+			- vaultwarden: v1.33.0 --> v1.33.1
 	- 2025.02.02 @ 02:53 PM EST:
 		- Stable:
 			- jackett: v0.22.1355 --> v0.22.1359
