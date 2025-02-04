@@ -31,6 +31,23 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.04 @ 02:27 PM EST:
+		- Stable:
+			- calibre-web: v0.6.23 --> v0.6.24
+			- clickhouse: v24.12.3.47 --> v25.1.3.23
+			- homebridge: v2023-12 --> v2025-01
+			- homer: v24.12.1 --> v25.02.1
+			- jackett: v0.22.1363 --> v0.22.1368
+			- jenkins: v2.495 --> v2.496
+			- metube: v2024-10 --> v2024-12
+			- mylar: v0.8.0 --> v0.8.1
+			- nexus-oss: v3.76.1 --> v3.77.0
+			- oscam: v11856 --> v11868
+			- peanut: v4.4.4 --> v5.1.0
+			- rss-bridge: v2024-02 --> v2025-01
+			- sourcegraph: v5.11.6271 --> v6.0.0
+			- transmission: v4.0.5 --> v4.0.6
+			- wekan: v7.61 --> v7.80
 	- 2025.02.04 @ 01:52 AM EST:
 		- Stable:
 			- tailscale: v1.78.3 --> v1.80.0
