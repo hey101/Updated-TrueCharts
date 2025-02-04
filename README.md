@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.04 @ 01:53 AM EST:
+		- Stable:
+			- tailscale: v1.78.3 --> v1.80.0
+			- tdarr: v2.30.01 --> v2.31.01
+			- tdarr-node: v2.30.01 --> v2.31.01
 	- 2025.02.03 @ 01:24 PM EST:
 		- Stable:
 			- audiobookshelf: v2.18.1 --> v2.19.0
