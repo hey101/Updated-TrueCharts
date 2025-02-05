@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.05 @ 01:59 PM EST:
+		- Stable:
+			- cloudflared: v2025.1.1 --> v2025.2.0
+			- ipfs: v0.33.0 --> v0.33.1
+			- jackett: v0.22.1368 --> v0.22.1372
+			- lanraragi: v.0.9.21 --> v0.9.30
+			- maintainerr: v2.8.0 --> v2.9.0
+			- memcached: v1.6.35 --> v1.6.36
+			- metube: v2024-12 --> v2025-01
+			- netdata: v2.2.3 --> v2.2.4
+			- pasta: v1.6.4 --> v1.6.6
+			- transmission: v4.0.6 --> v2021.11.18
+			- wallos: v2.45.1 --> v2.45.2
 	- 2025.02.04 @ 02:27 PM EST:
 		- Stable:
 			- calibre-web: v0.6.23 --> v0.6.24
