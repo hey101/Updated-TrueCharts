@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.06 @ 01:54 PM EST:
+		- Stable:
+			- actualserver: v25.1.0 --> v25.2.0
+			- gaseous-server: v1.7.9 --> v1.7.10
+			- ispy-agent-dvr: v6.0.8.0 --> v6.1.3.0
+			- jackett: v0.22.1372 --> v0.22.1377
+			- mealie: v2.5.0 --> v2.6.0
+			- nginx-proxy-manager: v2.12.2 --> v2.12.3
+			- tdarr: v2.31.01 --> v2.31.02
+			- tdarr-node: v2.31.01 --> v2.31.02
 	- 2025.02.05 @ 01:59 PM EST:
 		- Stable:
 			- cloudflared: v2025.1.1 --> v2025.2.0
