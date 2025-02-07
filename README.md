@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.07 @ 05:00 PM EST:
+		- Stable:
+			- actualserver: v25.2.0 --> v25.2.1
+			- calibre: v7.24.0 --> v7.25.0
+			- jackett: v0.22.1377 --> v0.22.1381
+			- metabase: v0.52.9 --> v0.53.1
+			- metube: v2025-01 --> v2025-02
+			- nexus-oss: v3.77.0 --> v3.77.1
+			- peanut: v5.1.0 --> v5.1.1
+			- sftpgo: v2.6.4 --> v2.6.5
+			- wekan: v7.80 --> v7.81
+			- zigbee2mqtt: v2.1.0 --> v2.1.1
 	- 2025.02.06 @ 01:55 PM EST:
 		- Stable:
 			- actualserver: v25.1.0 --> v25.2.0
