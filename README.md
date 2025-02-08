@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.08 @ 12:16 PM EST:
+		- Stable:
+			- changedetection-io: v0.49.0 --> v0.49.1
+			- emby: v4.9.0.37 --> v4.9.0.38
+			- flexget: v3.13.26 --> v3.14.4
+			- fluidd: v1.31.4 --> v1.32.1
+			- jackett: v0.22.1381 --> v0.22.1382
+			- xen-orchestra: v5.169.1 --> v5.170.0
 	- 2025.02.07 @ 04:59 PM EST:
 		- Stable:
 			- actualserver: v25.2.0 --> v25.2.1
