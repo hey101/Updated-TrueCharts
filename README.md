@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.09 @ 11:37 AM EST:
+		- Stable:
+			- frigate: v0.14.1 --> v0.15.0
+			- jackett: v0.22.1382 --> v0.22.1391
+			- linkding: v1.37.0 --> v1.38.0
+			- prowlarr: v1.30.2.493 --> v1.31.0.494
 	- 2025.02.08 @ 12:16 PM EST:
 		- Stable:
 			- changedetection-io: v0.49.0 --> v0.49.1
