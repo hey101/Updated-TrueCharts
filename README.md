@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.10 @ 12:23 PM EST:
+		- Stable:
+			- jackett: v0.22.1391 --> v0.22.1393
 	- 2025.02.09 @ 11:38 AM EST:
 		- Stable:
 			- frigate: v0.14.1 --> v0.15.0
