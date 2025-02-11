@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.11 @ 01:15 PM EST:
+		- Stable:
+			- collabora: v24.04.12.2 --> v24.04.12.3
+			- jackett: v0.22.1393 --> v0.22.1404
+			- ollama: v0.5.7 --> v0.5.8
+			- smtp-relay: v0.7.1 --> v0.7.2
+			- static-web-server: v2.35.0 --> v2.36.0
+			- unifi: v9.0.108 --> v9.0.114
 	- 2025.02.10 @ 12:23 PM EST:
 		- Stable:
 			- jackett: v0.22.1391 --> v0.22.1393
