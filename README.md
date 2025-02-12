@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.12 @ 11:43 AM EST:
+		- Stable:
+			- audiobookshelf: v2.19.0 --> v2.19.1
+			- fluidd: v1.32.1 --> v1.32.2
+			- gravity: v0.26.1 --> v0.26.5
+			- jackett: v0.22.1404 --> v0.22.1411
+			- jenkins: v2.496 --> v2.497
+			- metabase: v0.53.1 --> v0.53.2
+			- neko: v2.8.12 --> v2.8.13
+			- sonarr: v4.0.12.282 --> v4.0.13.293
 	- 2025.02.11 @ 01:14 PM EST:
 		- Stable:
 			- collabora: v24.04.12.2 --> v24.04.12.3
