@@ -31,6 +31,38 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.13 @ 10:28 PM EST:
+		- Stable:
+			- audiobookshelf: v2.19.1 --> v2.19.2
+			- avidemux: v24.12.1 --> v25.02.1
+			- czkawka: v24.12.1 --> v25.02.1
+			- filebot: v24.12.1 --> v25.02.1
+			- handbrake: v24.12.1 --> v25.02.2
+			- ispy-agent-dvr: v6.1.3.0 --> v6.1.6.0
+			- jackett: v0.22.1411 --> v0.22.1421
+			- jdownloader2: v24.12.1 --> v25.02.1
+			- makemkv: v24.12.1 --> v25.02.2
+			- mediainfo: v24.12.1 --> v25.02.1
+			- mkvcleaver: v24.12.1 --> v25.02.1
+			- mkvtoolnix: v24.12.2 --> v25.02.1
+			- netdata: v2.2.4 --> v2.2.5
+			- nzbhydra: v7.2.3 --> v7.12.3
+			- ollama: v0.5.8 --> v0.5.9
+			- peanut: v5.1.1 --> v5.2.1
+			- pgadmin: v8.14 --> v9.0
+			- plex: v1.41.3.931 --> v1.41.4.946
+			- prowlarr: v1.31.0.494 --> v1.31.1.495
+			- putty: v24.12.1 --> v25.02.1
+			- qbitmanage: v4.1.16 --> v4.1.17
+			- qdirstat: v24.12.1 --> v25.02.1
+			- sourcegraph: v6.0.0 --> v6.0.2687
+			- tasmoadmin: v4.2.2 --> v4.2.3
+			- tdarr: v2.31.02 --> v2.32.01
+			- tdarr-node: v2.31.02 --> v2.32.01
+			- tsmuxer: v24.12.1 --> v25.02.1
+			- wordpress: v6.7.1 --> v6.7.2
+		- Premium:
+			- vaultwarden: v1.33.1 --> v1.33.2
 	- 2025.02.12 @ 11:45 AM EST:
 		- Stable:
 			- audiobookshelf: v2.19.0 --> v2.19.1
