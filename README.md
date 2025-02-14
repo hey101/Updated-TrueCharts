@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.14 @ 11:57 AM EST:
+		- Stable:
+			- calibre: v7.25.0 --> v7.26.0
+			- clickhouse: v25.1.3.23 --> v25.1.4.53
+			- ipfs: v0.33.1 --> v0.33.2
+			- jackett: v0.22.1421 --> v0.22.1425
+			- ollama: v0.5.9 --> v0.5.11
+			- tinymediamanager: v5.1.1 --> v5.1.2
+			- watcharr: v2.0.0 --> v2.0.1
 	- 2025.02.13 @ 10:28 PM EST:
 		- Stable:
 			- audiobookshelf: v2.19.1 --> v2.19.2
