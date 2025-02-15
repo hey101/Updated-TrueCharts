@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.15 @ 12:01 PM EST:
+		- Stable:
+			- ariang: v1.3.9 --> v1.3.10
+			- external-service: v3.21.2 --> v3.21.3
+			- flexget: v3.14.4 --> v3.15.6
+			- homebridge: v2025-01 --> v2025-02
+			- jackett: v0.22.1425 --> v0.22.1428
+			- node-red: v4.0.8 --> v4.0.9
+			- peanut: v5.2.1 --> v5.3.0
 	- 2025.02.14 @ 11:57 AM EST:
 		- Stable:
 			- calibre: v7.25.0 --> v7.26.0
