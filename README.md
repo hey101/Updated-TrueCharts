@@ -31,6 +31,22 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.16 @ 05:57 PM EST:
+		- Stable:
+			- anonaddy: v1.3.0 --> v1.3.1
+			- ispy-agent-dvr: v6.1.6.0 --> v6.1.8.0
+			- jackett: v0.22.1428 --> v0.22.1433
+			- local-ai: v2.25.0 --> v2.26.0
+			- mymediaforalexa: v1.3.152.0 --> v1.3.152.1
+			- netbootxyz: v0.7.4 --> v0.7.5
+			- plextraktsync: v0.34.1 --> v0.34.2
+			- protonmail-bridge: v3.12.0 --> v3.16.0
+			- rdtclient: v2.0.96 --> v2.0.97
+			- recyclarr: v7.4.0 --> v7.4.1
+			- smtp-relay: v0.7.2 --> v0.7.3
+			- tauticord: v5.11.0 --> v5.12.0
+		- Premium:
+			- authelia: v4.38.18 --> v4.38.19
 	- 2025.02.15 @ 12:01 PM EST:
 		- Stable:
 			- ariang: v1.3.9 --> v1.3.10
