@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.17 @ 11:35 AM EST:
+		- Stable:
+			- audiobookshelf: v2.19.2 --> v2.19.3
+			- jackett: v0.22.1433 --> v0.22.1437
+			- jellyfin: v10.10.5 --> v10.10.6
+			- pocketmine-mp: v5.24.0 --> v5.25.0
+			- watcharr: v2.0.1 --> v2.0.2
 	- 2025.02.16 @ 05:55 PM EST:
 		- Stable:
 			- anonaddy: v1.3.0 --> v1.3.1
