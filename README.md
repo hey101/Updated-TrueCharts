@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.18 @ 01:43 PM EST:
+		- Stable:
+			- fileflows: v25.01 --> v25.02
+			- jackett: v0.22.1437 --> v0.22.1438
+			- jenkins: v2.497 --> v2.498
+			- metabase: v0.53.2 --> v0.53.3
+			- qbittorrent: v5.0.3 --> v5.0.4
+			- sourcegraph: v6.0.2687 --> v6.1.0
 	- 2025.02.17 @ 11:36 AM EST:
 		- Stable:
 			- audiobookshelf: v2.19.2 --> v2.19.3
