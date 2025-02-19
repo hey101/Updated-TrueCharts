@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.19 @ 12:54 PM EST:
+		- Stable:
+			- borg-server: v2.6.6 --> v2.6.7
+			- clickhouse: v25.1.4.53 --> v25.1.5.31
+			- jackett: v0.22.1438 --> v0.22.1443
+			- komga: v1.19.1 --> v1.20.0
 	- 2025.02.18 @ 10:59 PM EST:
 		- Stable:
 			- code-server: v4.96.4 --> v4.97.2
