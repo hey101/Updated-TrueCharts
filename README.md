@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.18 @ 10:59 PM EST:
+		- Stable:
+			- code-server: v4.96.4 --> v4.97.2
+			- fluidd: v1.32.2 --> v1.32.3
+		- Premium:
+			- grafana: v11.5.1 --> v11.5.2
 	- 2025.02.18 @ 01:42 PM EST:
 		- Stable:
 			- fileflows: v25.01 --> v25.02

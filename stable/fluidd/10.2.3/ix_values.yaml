@@ -1,0 +1,35 @@
+image:
+  repository: ghcr.io/fluidd-core/fluidd
+  tag: v1.32.3@sha256:5fb822875240bcb9e4367d8b10c14330ca0aad194acd6dce8b4f1369aaf8e978
+  pullPolicy: IfNotPresent
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+service:
+  main:
+    ports:
+      main:
+        port: 10224
+        targetPort: 80
+portal:
+  open:
+    enabled: true
