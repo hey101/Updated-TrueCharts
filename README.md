@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.20 @ 11:43 AM EST:
+		- Stable:
+			- ctfd: v3.7.5 --> v3.7.6
+			- jackett: v0.22.1443 --> v0.22.1445
 	- 2025.02.20 @ 12:41 AM EST:
 		- Stable:
 			- audiobookshelf: v2.19.3 --> v2.19.4
