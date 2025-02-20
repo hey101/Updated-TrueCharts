@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.20 @ 12:40 AM EST:
+		- Stable:
+			- audiobookshelf: v2.19.3 --> v2.19.4
+			- changedetection-io: v0.49.1 --> v0.49.2
+			- maintainerr: v2.9.0 --> v2.10.0
+			- oscam: v11868 --> v11869
+			- portainer: v2.26.1 --> v2.27.0
+			- protonmail-bridge: v3.16.0 --> v3.17.0
+			- sourcegraph: v6.1.0 --> v6.1.376
 	- 2025.02.19 @ 12:54 PM EST:
 		- Stable:
 			- borg-server: v2.6.6 --> v2.6.7
