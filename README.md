@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.20 @ 12:00 PM EST:
+		- Stable:
+			- adguard-home: v0.107.56 --> v0.107.57
 	- 2025.02.20 @ 11:42 AM EST:
 		- Stable:
 			- ctfd: v3.7.5 --> v3.7.6
