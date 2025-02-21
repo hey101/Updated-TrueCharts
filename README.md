@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.21 @ 01:50 PM EST:
+		- Stable:
+			- collabora: v24.04.12.3 --> v24.04.12.4
+			- deconz: v2.29.1 --> v2.29.2
+			- openhab: v4.3.2 --> v4.3.3
 	- 2025.02.20 @ 12:01 PM EST:
 		- Stable:
 			- adguard-home: v0.107.56 --> v0.107.57
