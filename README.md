@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.23 @ 04:33 PM EST:
+		- Stable:
+			- freshrss: v1.25.0 --> v1.26.0
 	- 2025.02.21 @ 01:49 PM EST:
 		- Stable:
 			- collabora: v24.04.12.3 --> v24.04.12.4
