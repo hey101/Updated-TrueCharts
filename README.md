@@ -31,6 +31,32 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.01 @ 07:49 AM EST:
+		- Stable:
+			- adguardhome-sync: v0.6.17 --> v0.7.1
+			- authentik: v2024.12.3 --> v2025.2.1
+			- babybuddy: v2.7.0 --> v2.7.1
+			- bookstack: v24.12.2024 --> v25.02.2025
+			- changedetection-io: v0.49.2 --> v0.49.3
+			- docker: v27.5.1 --> v28.0.1
+			- esphome: v2024.12.4 --> v2025.2.1
+			- flexget: v3.15.6 --> v3.15.17
+			- homer: v25.02.2 --> v25.03.1
+			- jackett: v0.22.1445 --> v0.22.1463
+			- linkding: v1.38.0 --> v1.38.1
+			- memcached: v1.6.36 --> v1.6.37
+			- navidrome: v0.54.4 --> v0.54.5
+			- neko: v2.8.13 --> v2.9.0
+			- netdata: v2.2.5 --> v2.2.6
+			- ollama: v0.5.11 --> v0.5.12
+			- piwigo: v15.3.0 --> v15.4.0
+			- plextraktsync: v0.34.2 --> v0.34.3
+			- prowlarr: v1.31.1.495 --> v1.31.2.497
+			- qbitmanage: v4.1.18 --> v4.2.0
+			- smtp-relay: v0.7.3 --> v0.7.4
+			- wallos: v2.45.2 --> v2.46.0
+			- whisper-asr-webservice: v1.7.1 --> v1.8.2
+			- xen-orchestra: v5.170.0 --> v5.173.0
 	- 2025.02.28 @ 11:53 PM EST:
 		- Stable:
 			- actualserver: v25.2.1 --> v25.3.0
