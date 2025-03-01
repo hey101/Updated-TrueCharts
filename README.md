@@ -31,6 +31,46 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.02.28 @ 11:55 PM EST:
+		- Stable:
+			- actualserver: v25.2.1 --> v25.3.0
+			- audiobookshelf: v2.19.4 --> v2.19.5
+			- cloudflared: v2025.2.0 --> v2025.2.1
+			- emby: v4.9.0.38 --> v4.9.0.40
+			- grocy: v4.4.1 --> v4.4.2
+			- handbrake: v25.02.2 --> v25.02.3
+			- homer: v25.02.1 --> v25.02.2
+			- ispy-agent-dvr: v6.1.8.0 --> v6.2.1.0
+			- jenkins: v2.498 --> v2.499
+			- makemkv: v25.02.2 --> v25.02.3
+			- mariadb: v11.6.2 --> v11.7.2
+			- meshcentral: v1.1.38 --> v1.1.39
+			- metabase: v0.53.3 --> v0.53.4
+			- minecraft-java: v2025.2.0 --> v2025.2.1
+			- nexus-oss: v3.77.1 --> v3.77.2
+			- nzbget: v24.5 --> v24.6
+			- openvscode-server: v1.96.4 --> v1.97.2
+			- oscam: v11869 --> v11870
+			- peanut: v5.3.0 --> v5.5.0
+			- pgadmin: v9.0 --> v9.1
+			- pocketmine-mp: v5.25.0 --> v5.25.1
+			- portainer: v2.27.0 --> v2.27.1
+			- qbitmanage: v4.1.17 --> v4.1.18
+			- qbitrr: v4.10.11 --> v4.10.13
+			- qinglong: v2.18.1 --> v2.18.2
+			- radarr: v5.18.4.967 --> v5.19.3.973
+			- rstudio: v4.4.2 --> v4.4.3
+			- sftpgo: v2.6.5 --> v2.6.6
+			- sourcegraph: v6.1.376 --> v6.1.1295
+			- tauticord: v5.12.0 --> v5.12.1
+			- tdarr: v2.32.01 --> v2.35.02
+			- tdarr-node: v2.32.01 --> v2.35.02
+			- tinymediamanager: v5.1.2 --> v5.1.3
+			- vocechat-server: v0.4.0 --> v0.4.1
+			- wekan: v7.81 --> v7.82
+			- zwavejs2mqtt: v9.30.1 --> v9.31.0
+		- Premium:
+			- traefik: v3.3.3 --> v3.3.4
 	- 2025.02.23 @ 04:34 PM EST:
 		- Stable:
 			- freshrss: v1.25.0 --> v1.26.0
