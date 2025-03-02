@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.02 @ 11:17 AM EST:
+		- Stable:
+			- jackett: v0.22.1463 --> v0.22.1466
+			- zigbee2mqtt: v2.1.1 --> v2.1.3
 	- 2025.03.01 @ 07:50 AM EST:
 		- Stable:
 			- adguardhome-sync: v0.6.17 --> v0.7.1
