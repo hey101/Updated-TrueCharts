@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.02 @ 05:04 PM EST:
+		- Stable:
+			- radicale: v3.4.1.0 --> v3.4.1.1
+			- readarr: v0.4.10.273 --> v0.4.11.274
 	- 2025.03.02 @ 11:16 AM EST:
 		- Stable:
 			- jackett: v0.22.1463 --> v0.22.1466
