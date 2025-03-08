@@ -31,6 +31,45 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.07 @ 07:07 PM EST:
+		- Stable:
+			- actualserver: v25.3.0 --> v25.3.1
+			- autobrr: v1.58.0 --> v1.59.0
+			- clickhouse: v25.1.5.31 --> v25.2.1.308
+			- ddns-go: v6.8.1 --> v6.9.0
+			- drawio: v26.0.9 --> v26.1.0
+			- emby: v4.9.0.40 --> v4.9.0.41
+			- esphome: v2025.2.1 --> v2025.2.2
+			- fluidd: v1.32.3 --> v1.32.6
+			- homebox: v0.17.2 --> v0.18.0
+			- homer: v25.03.1 --> v25.03.2
+			- ispy-agent-dvr: v6.2.1.0 --> v6.2.5.0
+			- jackett: v0.22.1466 --> v0.22.1524
+			- jenkins: v2.499 --> v2.500
+			- komga: v1.20.0 --> v1.21.1
+			- linkding: v1.38.1 --> v1.39.1
+			- mealie: v2.6.0 --> v2.7.1
+			- meshcentral: v1.1.39 --> v1.1.42
+			- metabase: v0.53.4 --> v0.53.5
+			- metube: v2025-02 --> v2025-03
+			- mongodb: v8.0.4 --> v8.0.5
+			- mosquitto: v2.0.20 --> v2.0.21
+			- nexus-oss: v3.77.2 --> v3.78.0
+			- nzbget: v24.6 --> v24.7
+			- ollama: v0.5.12 --> v0.5.13
+			- oscam: v11870 --> v11871
+			- piaware: v9.0 --> v10.0
+			- plextraktsync: v0.34.3 --> v0.34.4
+			- pocketmine-mp: v5.25.1 --> v5.25.2
+			- protonmail-bridge: v3.17.0 --> v3.18.0
+			- qbitrr: v4.10.13 --> v4.10.15
+			- seafile: v11.0.13 --> v12.0.10
+			- sourcegraph: v6.1.1295 --> v6.1.2889
+			- tailscale: v1.80.0 --> v1.80.3
+			- tinymediamanager: v5.1.3 --> v5.1.4
+			- wallos: v2.46.0 --> v2.46.1
+		- System:
+			- volsync: v0.11.0 --> v0.12.0
 	- 2025.03.02 @ 05:05 PM EST:
 		- Stable:
 			- radicale: v3.4.1.0 --> v3.4.1.1
