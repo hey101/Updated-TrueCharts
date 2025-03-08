@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.08 @ 10:38 AM EST:
+		- Stable:
+			- cops: v3.5.4 --> v3.5.7
+			- flexget: v3.15.17 --> v3.15.22
+			- ispy-agent-dvr: v6.2.5.0 --> v6.2.6.0
+			- jackett: v0.22.1524 --> v0.22.1556
+			- kavita: v0.8.4 --> v0.8.5
+			- nexus-oss: v3.78.0 --> v3.78.1
+			- pihole: v2024.07.0 --> v2025.03.0
+			- rdtclient: v2.0.97 --> v2.0.102
+			- xen-orchestra: v5.173.0 --> v5.174.0
 	- 2025.03.07 @ 07:07 PM EST:
 		- Stable:
 			- actualserver: v25.3.0 --> v25.3.1
