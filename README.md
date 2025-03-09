@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.09 @ 11:54 AM EDT:
+		- Stable:
+			- jackett: v0.22.1556 --> v0.22.1564
+			- peanut: v5.5.0 --> v5.6.0
+			- plextraktsync: v0.34.4 --> v0.34.5
+			- prowlarr: v1.31.2.497 --> v1.32.1.498
+			- readarr: v0.4.11.274 --> v0.4.12.275
+			- wekan: v7.82 --> v7.83
 	- 2025.03.08 @ 10:38 AM EST:
 		- Stable:
 			- cops: v3.5.4 --> v3.5.7
