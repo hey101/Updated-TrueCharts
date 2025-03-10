@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.09 @ 08:35 PM EDT:
+		- Stable:
+			- ddns-go: v6.9.0 --> v6.9.1
+			- openvscode-server: v1.97.2 --> v1.98.0
 	- 2025.03.09 @ 11:54 AM EDT:
 		- Stable:
 			- jackett: v0.22.1556 --> v0.22.1564
