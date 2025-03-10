@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.10 @ 12:01 PM EDT:
+		- Stable:
+			- ispy-agent-dvr: v6.2.6.0 --> v6.2.7.0
+			- jackett: v0.22.1564 --> v0.22.1570
+			- navidrome: v0.54.5 --> v0.55.0
 	- 2025.03.09 @ 08:35 PM EDT:
 		- Stable:
 			- ddns-go: v6.9.0 --> v6.9.1
