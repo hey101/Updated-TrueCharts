@@ -31,6 +31,43 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.15 @ 03:11 PM EDT:
+		- Stable:
+			- adguardhome-sync: v0.7.1 --> v0.7.2
+			- automatic-ripping-machine: v2.10.5 --> v2.11.0
+			- changedetection-io: v0.49.3 --> v0.49.4
+			- clickhouse: v25.2.1.308 --> v25.2.2.39
+			- code-server: v4.97.2 --> v4.98.2
+			- czkawka: v25.02.1 --> v25.03.1
+			- emby: v4.9.0.41 --> v4.9.0.42
+			- external-dns: v0.15.1 --> v0.16.0
+			- flexget: v3.15.22 --> v3.15.26
+			- freshrss: v1.26.0 --> v1.26.1
+			- gaseous-server: v1.7.10 --> v1.7.11
+			- jackett: v0.22.1570 --> v0.22.1625
+			- jellyseerr: v2.3.0 --> v2.5.0
+			- jenkins: v2.500 --> v2.501
+			- komga: v1.21.1 --> v1.21.2
+			- maintainerr: v2.10.0 --> v2.11.0
+			- matomo: v5.2.2 --> v5.3.0
+			- metabase: v0.53.5 --> v0.53.6
+			- minecraft-java: v2025.2.1 --> v2025.3.0
+			- mylar: v0.8.1 --> v0.8.2
+			- navidrome: v0.55.0 --> v0.55.1
+			- ollama: v0.5.13 --> v0.6.1
+			- piwigo: v15.4.0 --> v15.5.0
+			- plex: v1.41.4.946 --> v1.41.5.952
+			- qbitrr: v4.10.15 --> v4.10.20
+			- qinglong: v2.18.2 --> v2.18.3
+			- resilio-sync: v3.0.0 --> v3.0.3
+			- romm: v3.7 --> v3.8
+			- servas: v0.4.1 --> v0.5.0
+			- solr: v9.8.0 --> v9.8.1
+			- sourcegraph: v6.1.2889 --> v6.1.4020
+			- syncthing: v1.29.2 --> v1.29.3
+			- truecommand: v3.0.2 --> v3.1.0
+			- webgrabplus: v5.3.0 --> v5.3.1
+			- zwavejs2mqtt: v9.31.0 --> v9.33.0
 	- 2025.03.10 @ 12:01 PM EDT:
 		- Stable:
 			- ispy-agent-dvr: v6.2.6.0 --> v6.2.7.0
