@@ -1,0 +1,36 @@
+image:
+  repository: ghcr.io/elfhosted/emby
+  pullPolicy: IfNotPresent
+  tag: 4.9.0.42@sha256:556d5372e7f2a8283d7dd3c9a256dfba8f36d6ffa14ed556b2bc19a79fe5b43b
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+service:
+  main:
+    ports:
+      main:
+        port: 10079
+        targetPort: 8096
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+portal:
+  open:
+    enabled: true
