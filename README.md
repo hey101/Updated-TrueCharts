@@ -31,6 +31,52 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.21 @ 11:29 PM EDT:
+		- Stable:
+			- adguard-home: v0.107.57 --> v0.107.59
+			- audiobookshelf: v2.19.5 --> v2.20.0
+			- authentik: v2025.2.1 --> v2025.2.2
+			- autobrr: v1.59.0 --> v1.60.0
+			- borg-server: v2.6.7 --> v2.6.8
+			- clickhouse: v25.2.2.39 --> v25.3.1.270
+			- dashdot: v5.9.0 --> v5.9.2
+			- digikam: v8.5.0 --> v8.6.0
+			- docker: v28.0.1 --> v28.0.2
+			- drawio: v26.1.0 --> v26.1.1
+			- esphome: v2025.2.2 --> v2025.3.0
+			- external-dns: v0.16.0 --> v0.16.1
+			- flexget: v3.15.26 --> v3.15.29
+			- fluidd: v1.32.6 --> v1.33.0
+			- homepage: v0.10.9 --> v1.0.4
+			- homer: v25.03.2 --> v25.03.3
+			- ipfs: v0.33.2 --> v0.34.0
+			- jackett: v0.22.1625 --> v0.22.1672
+			- jellyseerr: v2.5.0 --> v2.5.1
+			- jenkins: v2.501 --> v2.502
+			- matomo: v5.3.0 --> v5.3.1
+			- mc-router: v1.25.1 --> v1.26.0
+			- memcached: v1.6.37 --> v1.6.38
+			- metabase: v0.53.6 --> v0.53.7
+			- mongodb: v8.0.5 --> v8.0.6
+			- netdata: v2.2.6 --> v2.3.0
+			- nexus-oss: v3.78.1 --> v3.78.2
+			- nzbget: v24.7 --> v24.8
+			- ollama: v0.6.1 --> v0.6.2
+			- oscam: v11871 --> v11877
+			- portainer: v2.27.1 --> v2.28.1
+			- prowlarr: v1.32.1.498 --> v1.32.2.498
+			- qbitmanage: v4.2.0 --> v4.2.1
+			- radarr: v5.19.3.973 --> v5.20.1.977
+			- radicale: v3.4.1.1 --> v3.5.0.1
+			- soft-serve: v0.8.2 --> v0.8.4
+			- sonarr: v4.0.13.293 --> v4.0.14.293
+			- sourcegraph: v6.1.4020 --> v6.1.5633
+			- stash: v0.27.2 --> v0.28.1
+			- vocechat-server: v0.4.1 --> v0.4.2
+			- wallos: v2.46.1 --> v2.48.0
+			- zwavejs2mqtt: v9.33.0 --> v9.33.1
+		- Premium:
+			- authelia: v4.38.19 --> v4.39.1
 	- 2025.03.15 @ 03:11 PM EDT:
 		- Stable:
 			- adguardhome-sync: v0.7.1 --> v0.7.2
