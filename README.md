@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.22 @ 12:54 PM EDT:
+		- Stable:
+			- automatic-ripping-machine: v2.11.0 --> v2.12.0
+			- jackett: v0.22.1672 --> v0.22.1675
 	- 2025.03.21 @ 11:29 PM EDT:
 		- Stable:
 			- adguard-home: v0.107.57 --> v0.107.59
