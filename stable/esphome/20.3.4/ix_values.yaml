@@ -1,0 +1,51 @@
+image:
+  repository: docker.io/esphome/esphome
+  pullPolicy: IfNotPresent
+  tag: 2025.3.1@sha256:a5a08f57e5a7340eefa358674d100264e08c8305d807304385119ac80b79c9af
+securityContext:
+  container:
+    runAsNonRoot: false
+    readOnlyRootFilesystem: false
+    privileged: true
+    allowPrivilegeEscalation: true
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 6052
+        targetPort: 6052
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env:
+            ESPHOME_DASHBOARD_USE_PING: false
+            ESPHOME_DASHBOARD_RELATIVE_URL: /
+            # ESPHOME_QUICKWIZARD:
+            # ESPHOME_IS_HASSIO:
+            # DISABLE_HA_AUTHENTICATION:
+            # USERNAME:
+            # PASSWORD:
+persistence:
+  config:
+    enabled: true
+    mountPath: /config
+  platformio:
+    enabled: true
+    mountPath: /.platformio
+portal:
+  open:
+    enabled: true

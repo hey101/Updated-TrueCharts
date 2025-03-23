@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.23 @ 12:20 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.4 --> v0.49.6
+			- esphome: v2025.3.0 --> v2025.3.1
+			- jackett: v0.22.1675 --> v0.22.1680
+			- lidarr: v2.9.6.4552 --> v2.10.3.460
+			- maintainerr: v2.11.0 --> v2.12.0
+			- mkvtoolnix: v25.02.1 --> v25.03.1
+			- pocketmine-mp: v5.25.2 --> v5.26.0
 	- 2025.03.22 @ 12:54 PM EDT:
 		- Stable:
 			- automatic-ripping-machine: v2.11.0 --> v2.12.0
