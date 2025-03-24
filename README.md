@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.24 @ 02:53 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.6 --> v0.49.7
+			- jackett: v0.22.1680 --> v0.22.1685
+			- meshcentral: v1.1.42 --> v1.1.43
+			- wekan: v7.83 --> v7.84
 	- 2025.03.23 @ 12:20 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.4 --> v0.49.6
