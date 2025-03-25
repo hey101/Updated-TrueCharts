@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.25 @ 02:06 PM EDT:
+		- Stable:
+			- jackett: v0.22.1685 --> v0.22.1691
+			- netdata: v2.3.0 --> v2.3.1
+			- oscam: v11877 --> v11878
+			- tdarr: v2.35.02 --> v2.36.01
+			- tdarr-node: v2.35.02 --> v2.36.01
+		- Premium:
+			- grafana: v11.5.2 --> v11.5.3
 	- 2025.03.24 @ 02:53 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.6 --> v0.49.7
