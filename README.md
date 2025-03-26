@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.26 @ 04:41 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.7 --> v0.49.8
+			- docker: v28.0.2 --> v28.0.4
+			- esphome: v2025.3.1 --> v2025.3.2
+			- ipfs: v0.34.0 --> v0.34.1
+			- jackett: v0.22.1691 --> v0.22.1695
+			- jenkins: v2.502 --> v2.503
+			- metabase: v0.53.7 --> v0.53.8
+			- overseerr: v1.33.2 --> v1.34.0
+			- soft-serve: v0.8.4 --> v0.8.5
+		- Premium:
+			- grafana: v11.5.3 --> v11.6.0
 	- 2025.03.25 @ 02:05 PM EDT:
 		- Stable:
 			- jackett: v0.22.1685 --> v0.22.1691
