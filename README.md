@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.26 @ 04:47 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.8 --> v0.49.9
+			- humhub: v1.16.2 --> v1.17.1
+		- System:
+			- volsync: v0.12.0 --> v0.12.1
 	- 2025.03.26 @ 04:42 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.7 --> v0.49.8
