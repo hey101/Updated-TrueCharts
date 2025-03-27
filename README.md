@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.27 @ 03:15 PM EDT:
+		- Stable:
+			- clickhouse: v25.3.1.270 --> v25.3.2.39
+			- jackett: v0.22.1695 --> v0.22.1699
+			- servas: v0.5.0 --> v0.5.1
 	- 2025.03.26 @ 04:46 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.8 --> v0.49.9
