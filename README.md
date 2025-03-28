@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.28 @ 11:44 AM EDT:
+		- Stable:
+			- homepage: v1.0.4 --> v1.1.1
+			- jackett: v0.22.1699 --> v0.22.1702
+			- ollama: v0.6.2 --> v0.6.3
+			- pocketmine-mp: v5.26.0 --> v5.27.0
+			- tdarr: v2.36.01 --> v2.37.01
+			- tdarr-node: v2.36.01 --> v2.37.01
+			- twofauth: v5.4.3 --> v5.5.0
+			- vocechat-server: v0.4.2 --> v0.4.3
+			- wallos: v2.48.0 --> v2.48.1
 	- 2025.03.27 @ 03:16 PM EDT:
 		- Stable:
 			- clickhouse: v25.3.1.270 --> v25.3.2.39
