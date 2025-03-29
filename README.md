@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.29 @ 12:46 PM EDT:
+		- Stable:
+			- authentik: v2025.2.2 --> v2025.2.3
+			- automatic-ripping-machine: v2.12.0 --> v2.12.1
+			- flexget: v3.15.29 --> v3.15.30
+			- grocy: v4.4.2 --> v4.5.0
+			- jackett: v0.22.1702 --> v0.22.1705
+			- peanut: v5.6.0 --> v5.6.1
+			- xen-orchestra: v5.174.0 --> v5.175.0
 	- 2025.03.28 @ 11:43 AM EDT:
 		- Stable:
 			- homepage: v1.0.4 --> v1.1.1
