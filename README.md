@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.30 @ 05:31 PM EDT:
+		- Stable:
+			- openhab: v4.3.3 --> v4.3.4
+			- pihole: v2025.03.0 --> v2025.03.1
 	- 2025.03.30 @ 12:01 PM EDT:
 		- Stable:
 			- jackett: v0.22.1705 --> v0.22.1709
