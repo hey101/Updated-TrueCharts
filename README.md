@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.03.30 @ 12:00 PM EDT:
+		- Stable:
+			- jackett: v0.22.1705 --> v0.22.1709
+			- readarr: v0.4.12.275 --> v0.4.13.276
 	- 2025.03.29 @ 12:46 PM EDT:
 		- Stable:
 			- authentik: v2025.2.2 --> v2025.2.3
