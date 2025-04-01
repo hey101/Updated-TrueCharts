@@ -31,6 +31,24 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.01 @ 03:36 PM EDT:
+		- Stable:
+			- drawio: v26.1.1 --> v26.2.2
+			- emby: v4.9.0.42 --> v4.9.0.43
+			- esphome: v2025.3.2 --> v2025.3.3
+			- fileflows: v25.02 --> v25.04
+			- jackett: v0.22.1709 --> v0.22.1714
+			- kometa: v2.1.0 --> v2.2.0
+			- local-ai: v2.26.0 --> v2.27.0
+			- metabase: v0.53.8 --> v0.53.9
+			- metube: v2025-03 --> v2025-04
+			- muse: v2.10.1 --> v2.11.0
+			- openvscode-server: v1.98.0 --> v1.98.2
+			- satisfactory: v1.9.5 --> v1.9.6
+			- syncthing: v1.29.3 --> v1.29.4
+			- tailscale: v1.80.3 --> v1.82.0
+		- Premium:
+			- traefik: v3.3.4 --> v3.3.5
 	- 2025.03.30 @ 05:31 PM EDT:
 		- Stable:
 			- openhab: v4.3.3 --> v4.3.4
