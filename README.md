@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.02 @ 11:18 AM EDT:
+		- Stable:
+			- jackett: v0.22.1714 --> v0.22.1719
+			- maintainerr: v2.12.0 --> v2.13.0
+			- nexus-oss: v3.78.2 --> v3.79.0
+			- plextraktsync: v0.34.5 --> v0.34.6
+			- protonmail-bridge: v3.18.0 --> v3.19.0
+			- satisfactory: v1.9.6 --> v1.9.7
+			- static-web-server: v2.36.0 --> v2.36.1
+			- zigbee2mqtt: v2.1.3 --> v2.2.0
 	- 2025.04.01 @ 03:34 PM EDT:
 		- Stable:
 			- drawio: v26.1.1 --> v26.2.2
