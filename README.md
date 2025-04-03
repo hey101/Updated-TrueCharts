@@ -31,6 +31,23 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.03 @ 01:24 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.9 --> v0.49.10
+			- cloudflared: v2025.2.1 --> v2025.4.0
+			- discordgsm: v2.18.0 --> v2.19.0
+			- jackett: v0.22.1719 --> v0.22.1722
+			- jenkins: v2.503 --> v2.504
+			- maintainerr: v2.13.0 --> v2.13.1
+			- metabase: v0.53.9 --> v0.54.1
+			- minecraft-bungeecord: v2025.1.0 --> v2025.4.0
+			- minecraft-java: v2025.3.0 --> v2025.4.0
+			- mymediaforalexa: v1.3.152.1 --> v1.3.152.2
+			- netdata: v2.3.1 --> v2.3.2
+			- ollama: v0.6.3 --> v0.6.4
+			- pgadmin: v9.1 --> v9.2
+			- redisinsight: v2.66.0 --> v2.68.0
+			- sourcegraph: v6.1.5633 --> v6.2.0
 	- 2025.04.02 @ 11:19 AM EDT:
 		- Stable:
 			- jackett: v0.22.1714 --> v0.22.1719
