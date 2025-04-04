@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.03 @ 08:01 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.10 --> v0.49.11
+			- jellyseerr: v2.5.1 --> v2.5.2
+			- plextraktsync: v0.34.6 --> v0.34.7
 	- 2025.04.03 @ 01:24 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.9 --> v0.49.10
