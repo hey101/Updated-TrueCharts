@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.04 @ 12:02 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.11 --> v0.49.12
+			- jackett: v0.22.1722 --> v0.22.1726
 	- 2025.04.03 @ 08:01 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.10 --> v0.49.11
