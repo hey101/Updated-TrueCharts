@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.05 @ 12:02 PM EDT:
+		- Stable:
+			- actualserver: v25.3.1 --> v25.4.0
+			- drawio: v26.2.2 --> v26.2.7
+			- jackett: v0.22.1726 --> v0.22.1730
+			- navidrome: v0.55.1 --> v0.55.2
 	- 2025.04.04 @ 09:26 PM EDT:
 		- Stable:
 			- flexget: v3.15.30 --> v3.15.31
