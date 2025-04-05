@@ -1,0 +1,43 @@
+image:
+  repository: ghcr.io/actualbudget/actual-server
+  pullPolicy: IfNotPresent
+  tag: 25.4.0@sha256:491ea85340b01c6018f044352b97fadcc950761f4639338a65b4c7528b7acfc7
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsGroup: 0
+    runAsUser: 0
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+service:
+  main:
+    ports:
+      main:
+        port: 10293
+        protocol: http
+        targetPort: 5006
+persistence:
+  server-files:
+    enabled: true
+    mountPath: /data/server-files
+  user-files:
+    enabled: true
+    mountPath: /data/user-files
+portal:
+  open:
+    enabled: true
