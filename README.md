@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.04 @ 09:26 PM EDT:
+		- Stable:
+			- flexget: v3.15.30 --> v3.15.31
+			- pihole: v2025.03.1 --> v2025.04.0
+			- zigbee2mqtt: v2.2.0 --> v2.2.1
 	- 2025.04.04 @ 12:02 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.11 --> v0.49.12
