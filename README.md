@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.06 @ 10:48 AM EDT:
+		- Stable:
+			- drawio: v26.2.7 --> v26.2.8
+			- fluidd: v1.33.0 --> v1.34.1
+			- homer: v25.03.3 --> v25.04.1
+			- jackett: v0.22.1730 --> v0.22.1733
+			- jellyfin: v10.10.6 --> v10.10.7
+			- pocketmine-mp: v5.27.0 --> v5.27.1
 	- 2025.04.05 @ 12:00 PM EDT:
 		- Stable:
 			- actualserver: v25.3.1 --> v25.4.0
