@@ -31,6 +31,38 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.20 @ 12:41 PM EDT:
+		- Stable:
+			- atuin: v18.4.0 --> v18.5.0
+			- authentik: v2025.2.3 --> v2025.2.4
+			- calibre: v7.26.0 --> v8.2.100
+			- changedetection-io: v0.49.12 --> v0.49.13
+			- code-server: v4.98.2 --> v4.99.2
+			- cops: v3.5.7 --> v3.6.1
+			- dashdot: v5.9.2 --> v6.0.0
+			- deconz: v2.29.2 --> v2.29.3
+			- dockerregistry: v2 --> v3
+			- emby: v4.9.0.43 --> v4.9.0.46
+			- fireshare: v1.2.20 --> v1.2.21
+			- ispy-agent-dvr: v6.2.7.0 --> v6.2.9.0
+			- jackett: v0.22.1733 --> v0.22.1760
+			- jenkins: v2.504 --> v2.505
+			- makemkv: v25.02.3 --> v25.04.1
+			- metabase: v0.54.1 --> v0.54.2
+			- monero-node: v0.18.3.4 --> v0.18.4.0
+			- muse: v2.11.0 --> v2.11.1
+			- mymediaforalexa: v1.3.152.2 --> v1.3.152.3
+			- neko: v2.9.0 --> v3.0.3
+			- nexus-oss: v3.79.0 --> v3.79.1
+			- ollama: v0.6.4 --> v0.6.5
+			- peanut: v5.6.1 --> v5.7.1
+			- radicale: v3.5.0.1 --> v3.5.1.0
+			- reg: v2 --> v3
+			- smtp-relay: v0.7.4 --> v0.7.7
+			- sourcegraph: v6.2.0 --> v6.2.1106
+			- zwavejs2mqtt: v9.33.1 --> v10.1.5
+		- Premium:
+			- nextcloud: v30.0.0 --> v31.0.2
 	- 2025.04.06 @ 10:49 AM EDT:
 		- Stable:
 			- drawio: v26.2.7 --> v26.2.8
