@@ -31,6 +31,52 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.21 @ 08:35 AM EDT:
+		- Stable:
+			- adguard-home: v0.107.59 --> v0.107.60
+			- adguardhome-sync: v0.7.2 --> v0.7.3
+			- autobrr: v1.60.0 --> v1.61.0
+			- borg-server: v2.6.8 --> v2.6.11
+			- changedetection-io: v0.49.13 --> v0.49.15
+			- code-server: v4.99.2 --> v4.99.3
+			- ctfd: v3.7.6 --> v3.7.7
+			- czkawka: v25.03.1 --> v25.04.1
+			- deconz: v2.29.3 --> v2.29.5
+			- esphome: v2025.3.3 --> v2025.4.0
+			- flexget: v3.15.31 --> v3.15.34
+			- frigate: v0.15.0 --> v0.15.1
+			- ispy-agent-dvr: v6.2.9.0 --> v6.3.4.0
+			- jackett: v0.22.1760 --> v0.22.1800
+			- jenkins: v2.505 --> v2.506
+			- kavita: v0.8.5 --> v0.8.6
+			- local-ai: v2.27.0 --> v2.28.0
+			- maintainerr: v2.13.1 --> v2.14.0
+			- mc-router: v1.26.0 --> v1.26.2
+			- metabase: v0.54.2 --> v0.54.3
+			- mongodb: v8.0.6 --> v8.0.8
+			- mysql-workbench: v8.0.41 --> v8.0.42
+			- neko: v3.0.3 --> v3.0.4
+			- netdata: v2.3.2 --> v2.4.0
+			- nvidia-gpu-exporter: v1.3.0 --> v1.3.1
+			- ollama: v0.6.5 --> v0.6.6
+			- peanut: v5.7.1 --> v5.7.2
+			- portainer: v2.28.1 --> v2.29.0
+			- rdtclient: v2.0.102 --> v2.0.108
+			- readarr: v0.4.13.276 --> v0.4.15.278
+			- rstudio: v4.4.3 --> v4.5.0
+			- shlink-web-client: v4.3.0 --> v4.4.0
+			- sourcegraph: v6.2.1106 --> v6.2.2553
+			- syncthing: v1.29.4 --> v1.29.5
+			- tautulli: v2.15.1 --> v2.15.2
+			- tdarr: v2.37.01 --> v2.40.01
+			- tdarr-node: v2.37.01 --> v2.40.01
+			- tinymediamanager: v5.1.4 --> v5.1.5
+			- twofauth: v5.5.0 --> v5.5.2
+			- wallos: v2.48.1 --> v2.52.0
+			- xen-orchestra: v5.175.0 --> v5.176.0
+			- zwavejs2mqtt: v10.1.5 --> v10.2.0
+		- Premium:
+			- traefik: v3.3.5 --> v3.3.6
 	- 2025.04.20 @ 12:41 PM EDT:
 		- Stable:
 			- atuin: v18.4.0 --> v18.5.0
