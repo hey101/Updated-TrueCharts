@@ -31,6 +31,40 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.26 @ 02:22 PM EDT:
+		- Stable:
+			- adguard-home: v0.107.60 --> v0.107.61
+			- adguardhome-sync: v0.7.3 --> v0.7.5
+			- automatic-ripping-machine: v2.12.1 --> v2.13.0
+			- calibre: v8.2.100 --> v8.3.0
+			- clickhouse: v25.3.2.39 --> v25.4.1.293
+			- docker: v28.0.4 --> v28.1.1
+			- emby: v4.9.0.46 --> v4.9.0.50
+			- flexget: v3.15.34 --> v3.15.37
+			- jackett: v0.22.1800 --> v0.22.1826
+			- jenkins: v2.506 --> v2.507
+			- mc-router: v1.26.2 --> v1.27.2
+			- meshcentral: v1.1.43 --> v1.1.44
+			- metabase: v0.54.3 --> v0.54.4
+			- octoprint: v1.10.3 --> v1.11.0
+			- oscam: v11878 --> v11882
+			- portainer: v2.29.0 --> v2.29.2
+			- qbitrr: v4.10.20 --> v4.10.21
+			- rdtclient: v2.0.108 --> v2.0.110
+			- redis: v7.4.2 --> v7.4.3
+			- smartctl-exporter: v0.13.0 --> v0.14.0
+			- sourcegraph: v6.2.2553 --> v6.2.3841
+			- tasmoadmin: v4.2.3 --> v4.3.0
+			- tsmuxer: v25.02.1 --> v25.04.1
+			- unifi: v9.0.114 --> v9.1.120
+			- wallos: v2.52.0 --> v2.52.2
+			- wekan: v7.84 --> v7.88
+			- wordpress: v6.7.2 --> v6.8.0
+			- xen-orchestra: v5.176.0 --> v5.176.1
+			- zwavejs2mqtt: v10.2.0 --> v10.3.1
+		- Premium:
+			- grafana: v11.6.0 --> v11.6.1
+			- nextcloud: v31.0.2 --> v31.0.4
 	- 2025.04.21 @ 08:33 AM EDT:
 		- Stable:
 			- adguard-home: v0.107.59 --> v0.107.60
