@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.27 @ 11:20 AM EDT:
+		- Stable:
+			- drawio: v26.2.8 --> v26.2.15
+			- jackett: v0.22.1826 --> v0.22.1828
+			- mc-router: v1.27.2 --> v1.28.2
+			- openhab: v4.3.4 --> v4.3.5
+			- romm: v3.8 --> v3.9
+			- traggo: v0.6.1 --> v0.7.0
+			- zwavejs2mqtt: v10.3.1 --> v10.3.3
 	- 2025.04.26 @ 02:22 PM EDT:
 		- Stable:
 			- adguard-home: v0.107.60 --> v0.107.61
