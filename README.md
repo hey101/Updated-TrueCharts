@@ -31,6 +31,23 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.04.30 @ 11:38 AM EDT:
+		- Stable:
+			- audiobookshelf: v2.20.0 --> v2.21.0
+			- emby: v4.9.0.50 --> v4.9.0.51
+			- esphome: v2025.4.0 --> v2025.4.1
+			- homepage: v1.1.1 --> v1.1.2
+			- jackett: v0.22.1828 --> v0.22.1831
+			- jenkins: v2.507 --> v2.508
+			- lidarr: v2.10.3.460 --> v2.11.2.462
+			- metabase: v0.54.4 --> v0.54.5
+			- nzbhydra: v7.12.3 --> v7.13.0
+			- pgadmin: v9.2 --> v9.3
+			- plextraktsync: v0.34.7 --> v0.34.8
+			- qbitmanage: v4.2.1 --> v4.2.2
+			- traggo: v0.7.0 --> v0.7.1
+		- Premium:
+			- prometheus: v3.0.1 --> v3.3.0
 	- 2025.04.27 @ 11:20 AM EDT:
 		- Stable:
 			- drawio: v26.2.8 --> v26.2.15
