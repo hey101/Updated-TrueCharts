@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.01 @ 12:02 PM EDT:
+		- Stable:
+			- clickhouse: v25.4.1.293 --> v25.4.2.31
+			- mediainfo: v25.02.1 --> v25.05.1
 	- 2025.05.01 @ 10:51 AM EDT:
 		- Stable:
 			- authentik: v2025.2.4 --> v2025.4.0
