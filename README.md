@@ -31,6 +31,20 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.01 @ 10:49 AM EDT:
+		- Stable:
+			- authentik: v2025.2.4 --> v2025.4.0
+			- cloudflared: v2025.4.0 --> v2025.4.2
+			- deconz: v2.29.5 --> v2.30.0
+			- homepage: v1.1.2 --> v1.2.0
+			- jackett: v0.22.1836 --> v0.22.1837
+			- metube: v2025-04 --> v2025-05
+			- minecraft-java: v2025.4.0 --> v2025.4.2
+			- radicale: v3.5.1.0 --> v3.5.2.0
+			- sourcegraph: v6.2.3841 --> v6.3.0
+			- unpoller: v2.14.1 --> v2.15.3
+			- wallos: v2.52.2 --> v3.0.1
+			- wordpress: v6.8.0 --> v6.8.1
 	- 2025.04.30 @ 12:00 PM EDT:
 		- Stable:
 			- jackett: v0.22.1831 --> v0.22.1836
