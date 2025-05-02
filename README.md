@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.01 @ 11:33 PM EDT:
+		- Stable:
+			- mongodb: v8.0.8 --> v8.0.9
+			- ollama: v0.6.6 --> v0.6.7
+			- zigbee2mqtt: v2.2.1 --> v2.3.0
 	- 2025.05.01 @ 12:02 PM EDT:
 		- Stable:
 			- clickhouse: v25.4.1.293 --> v25.4.2.31
