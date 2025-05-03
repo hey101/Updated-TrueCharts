@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.03 @ 12:01 PM EDT:
+		- Stable:
+			- deluge: v2.1.1 --> v2.2.0
+			- flexget: v3.15.37 --> v3.15.38
+			- game-server-watcher: v3.1.22 --> v3.1.23
+			- jackett: v0.22.1846 --> v0.22.1857
+			- linkwallet: v0.0.36 --> v0.1.0
+			- matomo: v5.3.1 --> v5.3.2
+			- mc-router: v1.28.2 --> v1.29.0
+			- peanut: v5.7.3 --> v5.7.4
+			- wallos: v3.0.1 --> v3.0.2
+			- xen-orchestra: v5.176.1 --> v5.177.0
 	- 2025.05.02 @ 10:27 PM EDT:
 		- Stable:
 			- code-server: v4.99.3 --> v4.99.4
