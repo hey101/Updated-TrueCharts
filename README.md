@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.02 @ 10:28 PM EDT:
+		- Stable:
+			- code-server: v4.99.3 --> v4.99.4
+			- jackett: v0.22.1837 --> v0.22.1846
+			- mkvtoolnix: v25.03.1 --> v25.05.1
+			- peanut: v5.7.2 --> v5.7.3
+		- Premium:
+			- prometheus: v3.3.0 --> v3.3.1
 	- 2025.05.01 @ 11:33 PM EDT:
 		- Stable:
 			- mongodb: v8.0.8 --> v8.0.9
