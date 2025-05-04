@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.04 @ 12:02 PM EDT:
+		- Stable:
+			- jackett: v0.22.1857 --> v0.22.1863
+			- linkwallet: v0.1.0 --> v0.1.1
 	- 2025.05.03 @ 09:22 PM EDT:
 		- Stable:
 			- actualserver: v25.4.0 --> v25.5.0
