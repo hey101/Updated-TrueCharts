@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.03 @ 09:21 PM EDT:
+		- Stable:
+			- actualserver: v25.4.0 --> v25.5.0
+			- changedetection-io: v0.49.15 --> v0.49.16
+			- freshrss: v1.26.1 --> v1.26.2
+			- owncast: v0.2.1 --> v0.2.2
+			- rdtclient: v2.0.110 --> v2.0.111
+			- satisfactory: v1.9.7 --> v1.9.8
 	- 2025.05.03 @ 12:01 PM EDT:
 		- Stable:
 			- deluge: v2.1.1 --> v2.2.0
