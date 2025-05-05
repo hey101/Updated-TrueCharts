@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.05 @ 12:02 PM EDT:
+		- Stable:
+			- fileflows: v25.04 --> v25.05
+			- homer: v25.04.1 --> v25.05.1
+			- jackett: v0.22.1863 --> v0.22.1865
+			- lanraragi: v0.9.30 --> v0.9.40
+			- ollama: v0.6.7 --> v0.6.8
+			- oscam: v11882 --> v11883
 	- 2025.05.04 @ 12:01 PM EDT:
 		- Stable:
 			- jackett: v0.22.1857 --> v0.22.1863
