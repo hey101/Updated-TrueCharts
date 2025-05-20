@@ -31,6 +31,77 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.20 @ 01:36 PM EDT:
+		- Stable:
+			- adguardhome-sync: v0.7.5 --> v0.7.6
+			- atuin: v18.5.0 --> v18.6.1
+			- audiobookshelf: v2.21.0 --> v2.23.0
+			- authentik: v2025.4.0 --> v2025.4.1
+			- autobrr: v1.61.0 --> v1.62.0
+			- calibre: v8.3.0 --> v8.4.0
+			- changedetection-io: v0.49.16 --> v0.49.17
+			- clickhouse: v25.4.2.31 --> v25.4.5.24
+			- cloudflared: v2025.4.2 --> v2025.5.0
+			- code-server: v4.99.4 --> v4.100.2
+			- cops: v3.6.1 --> v3.6.5
+			- crafty-4: v4.4.7 --> v4.4.9
+			- ddns-go: v6.9.1 --> v6.9.3
+			- deconz: v2.30.0 --> v2.30.2
+			- domoticz: v2024.7 --> v2025.1
+			- emby: v4.9.0.51 --> v4.9.0.59
+			- esphome: v2025.4.1 --> v2025.4.2
+			- external-dns: v0.16.1 --> v0.17.0
+			- fireshare: v1.2.21 --> v1.2.25
+			- flexget: v3.15.38 --> v3.15.42
+			- fluidd: v1.34.1 --> v1.34.2
+			- gravity: v0.26.5 --> v0.27.0
+			- healthchecks: v3.9.202512 --> v3.10.20250
+			- homebox: v0.18.0 --> v0.19.0
+			- homebridge: v2025-02 --> v2025-05
+			- homer: v25.05.1 --> v25.05.2
+			- jackett: v0.22.1865 --> v0.22.1930
+			- jenkins: v2.508 --> v2.511
+			- komga: v1.21.2 --> v1.21.3
+			- linkding: v1.39.1 --> v1.40.0
+			- local-ai: v2.28.0 --> v2.29.0
+			- mc-router: v1.29.0 --> v1.31.0
+			- metabase: v0.54.5 --> v0.54.9
+			- neko: v3.0.4 --> v3.0.5
+			- netdata: v2.4.0 --> v2.5.1
+			- nexus-oss: v3.79.1 --> v3.80.0
+			- nvidia-gpu-exporter: v1.3.1 --> v1.3.2
+			- octoprint: v1.11.0 --> v1.11.1
+			- ollama: v0.6.8 --> v0.7.0
+			- openvscode-server: v1.98.2 --> v1.99.3
+			- oscam: v11883 --> v11884
+			- owncast: v0.2.2 --> v0.2.3
+			- peanut: v5.7.4 --> v5.7.5
+			- plextraktsync: v0.34.8 --> v0.34.10
+			- pocketmine-mp: v5.27.1 --> v5.28.2
+			- portainer: v2.29.2 --> v2.30.1
+			- qbitmanage: v4.2.2 --> v4.3.0
+			- qinglong: v2.18.3 --> v2.19.0
+			- rdtclient: v2.0.111 --> v2.0.112
+			- readarr: v0.4.15.278 --> v0.4.16.279
+			- redis: v7.4.3 --> v8.0.1
+			- ring-mqtt: v5.8.0 --> v5.8.1
+			- sourcegraph: v6.3.0 --> v6.3.2692
+			- syncthing: v1.29.5 --> v1.29.6
+			- syslog-ng: v4.8.0 --> v4.8.3
+			- tailscale: v1.82.0 --> v1.82.5
+			- tauticord: v5.12.1 --> v5.13.1
+			- tinymediamanager: v5.1.5 --> v5.1.6
+			- wallos: v3.0.2 --> v3.1.1
+			- watcharr: v2.0.2 --> v2.1.0
+			- wekan: v7.88 --> v7.90
+			- wyoming-piper: v1.5.0 --> v1.5.4
+			- zwavejs2mqtt: v10.3.3 --> v10.5.1
+		- Premium:
+			- authelia: v4.39.1 --> v4.39.3
+			- grafana: v11.6.1 --> v12.0.0
+			- nextcloud: v31.0.4 --> v31.0.5
+			- prometheus: v3.3.1 --> v3.4.0
+			- traefik: v3.3.6 --> v3.4.0
 	- 2025.05.05 @ 12:04 PM EDT:
 		- Stable:
 			- fileflows: v25.04 --> v25.05
