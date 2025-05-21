@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.21 @ 02:06 PM EDT:
+		- Stable:
+			- esphome: v2025.4.2 --> v2025.5.0
+			- jackett: v0.22.1930 --> v0.22.1933
+			- kopia: v0.19.0 --> v0.20.0
+			- meshcentral: v1.1.44 --> v1.1.45
+		- Premium:
+			- blocky: v0.25 --> v0.26
 	- 2025.05.20 @ 01:34 PM EDT:
 		- Stable:
 			- adguardhome-sync: v0.7.5 --> v0.7.6
