@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.22 @ 09:10 AM EDT:
+		- Stable:
+			- emby: v4.9.0.59 --> v4.9.0.60
+			- ipfs: v0.34.1 --> v0.35.0
+			- jackett: v0.22.1933 --> v0.22.1938
 	- 2025.05.21 @ 02:08 PM EDT:
 		- Stable:
 			- esphome: v2025.4.2 --> v2025.5.0
