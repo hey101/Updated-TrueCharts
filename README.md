@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.23 @ 05:44 PM EDT:
+		- Stable:
+			- clickhouse: v25.4.5.24 --> v25.5.1.278
+			- jackett: v0.22.1938 --> v0.22.1941
+			- netdata: v2.5.1 --> v2.5.2
+			- radicale: v3.5.2.0 --> v3.5.3.1
+			- rdtclient: v2.0.112 --> v2.0.113
+			- sourcegraph: v6.3.2692 --> v6.3.4167
+			- tailscale: v1.82.5 --> v1.84.0
+			- traccar: v6.6 --> v6.7
+		- Premium:
+			- grafana: v12.0.0 --> v12.0.1
 	- 2025.05.22 @ 09:10 AM EDT:
 		- Stable:
 			- emby: v4.9.0.59 --> v4.9.0.60
