@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.24 @ 12:02 PM EDT:
+		- Stable:
+			- flexget: v3.15.42 --> v3.16.0
+			- jackett: v0.22.1941 --> v0.22.1945
+			- minecraft-java: v2025.4.2 --> v2025.5.0
+			- ollama: v0.7.0 --> v0.7.1
+			- qinglong: v2.19.0 --> v2.19.1
+			- xen-orchestra: v5.177.0 --> v5.177.2
 	- 2025.05.23 @ 05:44 PM EDT:
 		- Stable:
 			- clickhouse: v25.4.5.24 --> v25.5.1.278
