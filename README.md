@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.25 @ 01:06 PM EDT:
+		- Stable:
+			- jackett: v0.22.1945 --> v0.22.1947
+			- maintainerr: v2.14.0 --> v2.15.0
+			- makemkv: v25.04.1 --> v25.05.1
+			- wekan: v7.90 --> v7.91
+		- Premium:
+			- authelia: v4.39.3 --> v4.39.4
 	- 2025.05.24 @ 12:02 PM EDT:
 		- Stable:
 			- flexget: v3.15.42 --> v3.16.0
