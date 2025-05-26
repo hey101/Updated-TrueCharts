@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.26 @ 02:59 PM EDT:
+		- Stable:
+			- jackett: v0.22.1947 --> v0.22.1951
+			- kopia: v0.20.0 --> v0.20.1
+			- radicale: v3.5.3.1 --> v3.5.4.0
 	- 2025.05.25 @ 01:06 PM EDT:
 		- Stable:
 			- jackett: v0.22.1945 --> v0.22.1947
