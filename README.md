@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.27 @ 12:02 PM EDT:
+		- Stable:
+			- changedetection-io: v0.49.17 --> v0.49.18
+			- emby: v4.9.0.60 --> v4.9.1.0
+			- jackett: v0.22.1951 --> v0.22.1956
+			- minecraft-java: v2025.5.0 --> v2025.5.1
+		- Premium:
+			- vaultwarden: v1.33.2 --> v1.34.1
 	- 2025.05.26 @ 02:59 PM EDT:
 		- Stable:
 			- jackett: v0.22.1947 --> v0.22.1951
