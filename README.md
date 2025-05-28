@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.28 @ 11:27 AM EDT:
+		- Stable:
+			- jackett: v0.22.1956 --> v0.22.1960
+			- ollama: v0.7.1 --> v0.8.0
+			- redisinsight: v2.68.0 --> v2.70.0
+		- Premium:
+			- custom-app: v0.21.1155 --> v0.21.2943
 	- 2025.05.28 @ 01:13 AM EDT:
 		- Stable:
 			- adguard-home: v0.107.61 --> v0.107.62
