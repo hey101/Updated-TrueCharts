@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.28 @ 01:11 AM EDT:
+		- Stable:
+			- adguard-home: v0.107.61 --> v0.107.62
+			- esphome: v2025.5.0 --> v2025.5.1
+			- jenkins: v2.511 --> v2.512
+			- metabase: v0.54.9 --> v0.54.10
+			- redis: v8.0.1 --> v8.0.2
 	- 2025.05.27 @ 12:01 PM EDT:
 		- Stable:
 			- changedetection-io: v0.49.17 --> v0.49.18
