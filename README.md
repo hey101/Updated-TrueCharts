@@ -31,6 +31,24 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.30 @ 03:46 AM EDT:
+		- Stable:
+			- ddns-go: v6.9.3 --> v6.9.4
+			- docker: v28.1.1 --> v28.2.1
+			- jackett: v0.22.1960 --> v0.22.1967
+			- maintainerr: v2.15.0 --> v2.17.0
+			- navidrome: v0.55.2 --> v0.56.1
+			- neko: v3.0.5 --> v3.0.6
+			- ntfy: v2.11.0 --> v2.12.0
+			- nzbhydra: v7.13.0 --> v7.13.2
+			- ollama: v0.8.0 --> v0.9.0
+			- pgadmin: v9.3 --> v9.4
+			- qbitrr: v4.10.21 --> v4.10.23
+			- sourcegraph: v6.3.4167 --> v6.4.0
+			- tauticord: v5.13.1 --> v5.13.3
+			- zwavejs2mqtt: v10.5.1 --> v10.6.1
+		- Premium:
+			- traefik: v3.4.0 --> v3.4.1
 	- 2025.05.28 @ 11:26 AM EDT:
 		- Stable:
 			- jackett: v0.22.1956 --> v0.22.1960
