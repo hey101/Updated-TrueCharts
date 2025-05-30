@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.30 @ 01:45 PM EDT:
+		- Stable:
+			- jackett: v0.22.1967 --> v0.22.1971
+			- nzbhydra: v7.13.2 --> v7.14.0
 	- 2025.05.30 @ 03:46 AM EDT:
 		- Stable:
 			- ddns-go: v6.9.3 --> v6.9.4
