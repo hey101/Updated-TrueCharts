@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.31 @ 04:14 AM EDT:
+		- Stable:
+			- docker: v28.2.1 --> v28.2.2
+			- external-service: v3.21.3 --> v3.22.0
+			- flexget: v3.16.0 --> v3.16.3
+			- pihole: v2025.04.0 --> v2025.05.0
+			- xen-orchestra: v5.177.2 --> v5.178.1
 	- 2025.05.30 @ 01:45 PM EDT:
 		- Stable:
 			- jackett: v0.22.1967 --> v0.22.1971
