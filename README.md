@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.05.31 @ 10:46 AM EDT:
+		- Stable:
+			- jackett: v0.22.1971 --> v0.22.1974
+			- pihole: v2025.05.0 --> v2025.05.1
 	- 2025.05.31 @ 04:15 AM EDT:
 		- Stable:
 			- docker: v28.2.1 --> v28.2.2
