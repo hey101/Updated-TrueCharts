@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.01 @ 09:47 AM EDT:
+		- Stable:
+			- bookstack: v25.02.2025 --> v25.05.2025
+			- homepage: v1.2.0 --> v1.3.0
+			- jackett: v0.22.1974 --> v0.22.1975
+			- lanraragi: v0.9.40 --> v0.9.41
+			- restic-rest-server: v0.13.0 --> v0.14.0
+			- tdarr: v2.40.01 --> v2.41.02
+			- tdarr-node: v2.40.01 --> v2.41.02
+		- Premium:
+			- prometheus: v3.4.0 --> v3.4.1
 	- 2025.05.31 @ 10:46 AM EDT:
 		- Stable:
 			- jackett: v0.22.1971 --> v0.22.1974
