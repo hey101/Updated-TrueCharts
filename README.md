@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.01 @ 03:16 PM EDT:
+		- Stable:
+			- homepage: v1.3.0 --> v1.3.1
+			- tdarr: v2.41.02 --> v2.42.01
+			- tdarr-node: v2.41.02 --> v2.42.01
 	- 2025.06.01 @ 09:47 AM EDT:
 		- Stable:
 			- bookstack: v25.02.2025 --> v25.05.2025
