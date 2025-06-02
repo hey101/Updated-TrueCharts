@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.02 @ 03:44 AM EDT:
+		- Stable:
+			- audiobookshelf: v2.23.0 --> v2.24.0
+			- homepage: v1.3.1 --> v1.3.2
+			- zigbee2mqtt: v2.3.0 --> v2.4.0
 	- 2025.06.01 @ 03:15 PM EDT:
 		- Stable:
 			- homepage: v1.3.0 --> v1.3.1
