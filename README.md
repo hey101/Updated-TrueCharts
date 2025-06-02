@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.02 @ 12:43 PM EDT:
+		- Stable:
+			- jackett: v0.22.1975 --> v0.22.1978
 	- 2025.06.02 @ 03:44 AM EDT:
 		- Stable:
 			- audiobookshelf: v2.23.0 --> v2.24.0
