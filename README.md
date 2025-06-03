@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.03 @ 03:50 AM EDT:
+		- Stable:
+			- automatic-ripping-machine: v2.13.0 --> v2.15.0
+			- ddns-go: v6.9.4 --> v6.9.5
+			- flaresolverr: v3.3.21 --> v3.3.22
+			- freshrss: v1.26.2 --> v1.26.3
+			- kasm: v1.16.1 --> v1.17.0
+			- metube: v2025-05 --> v2025-06
+			- nzbhydra: v7.14.0 --> v7.14.1
+			- syncthing: v1.29.6 --> v1.29.7
 	- 2025.06.02 @ 12:45 PM EDT:
 		- Stable:
 			- jackett: v0.22.1975 --> v0.22.1978
