@@ -31,6 +31,25 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.04 @ 03:45 AM EDT:
+		- Stable:
+			- actualserver: v25.5.0 --> v25.6.0
+			- changedetection-io: v0.49.18 --> v0.50.2
+			- clickhouse: v25.5.1.278 --> v25.5.2.47
+			- code-server: v4.100.2 --> v4.100.3
+			- esphome: v2025.5.1 --> v2025.5.2
+			- jackett: v0.22.1978 --> v0.22.1984
+			- jenkins: v2.512 --> v2.513
+			- metabase: v0.54.10 --> v0.54.11
+			- mongodb: v8.0.9 --> v8.0.10
+			- plexanisync: v1.4.2 --> v1.4.3
+			- qbitrr: v4.10.23 --> v4.10.24
+			- rss-bridge: v2025-01 --> v2025-06
+			- smokeping: v2.8.2 --> v2.9.0
+			- sourcegraph: v6.4.0 --> v6.4.1203
+			- static-web-server: v2.36.1 --> v2.37.0
+		- Premium:
+			- custom-app: v0.21.2943 --> v0.22.1984
 	- 2025.06.03 @ 03:49 AM EDT:
 		- Stable:
 			- automatic-ripping-machine: v2.13.0 --> v2.15.0
