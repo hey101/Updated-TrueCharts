@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.04 @ 12:44 PM EDT:
+		- Stable:
+			- anonaddy: v1.3.1 --> v1.3.2
+			- jackett: v0.22.1984 --> v0.22.1987
+		- Premium:
+			- custom-app: v0.22.1984 --> v0.22.1987
 	- 2025.06.04 @ 03:47 AM EDT:
 		- Stable:
 			- actualserver: v25.5.0 --> v25.6.0
