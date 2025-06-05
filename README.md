@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.05 @ 12:31 AM EDT:
+		- Stable:
+			- actualserver: v25.6.0 --> v25.6.1
+			- authentik: v2025.4.1 --> v2025.4.2
+			- borg-server: v2.6.11 --> v2.6.12
+			- flaresolverr: v3.3.22 --> v3.3.24
+			- metabase: v0.54.11 --> v0.55.1
+			- romm: v3.9 --> v3.10
 	- 2025.06.04 @ 12:42 PM EDT:
 		- Stable:
 			- anonaddy: v1.3.1 --> v1.3.2
