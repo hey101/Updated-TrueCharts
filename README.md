@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.05 @ 12:00 PM EDT:
+		- Stable:
+			- jackett: v0.22.1987 --> v0.22.1992
+		- Premium:
+			- custom-app: v0.22.1987 --> v0.22.1992
 	- 2025.06.05 @ 12:31 AM EDT:
 		- Stable:
 			- actualserver: v25.6.0 --> v25.6.1
