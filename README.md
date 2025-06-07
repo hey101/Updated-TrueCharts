@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.07 @ 09:02 AM EDT:
+		- Stable:
+			- impostor-server: v1.10.2 --> v1.10.3
+			- jackett: v0.22.1992 --> v0.22.1997
+			- netdata: v2.5.2 --> v2.5.3
+			- pihole: v2025.05.1 --> v2025.06.1
+			- requestrr: v2.1.7 --> v2.1.8
+			- xen-orchestra: v5.178.1 --> v5.178.2
+		- Premium:
+			- custom-app: v0.22.1992 --> v0.22.1997
 	- 2025.06.05 @ 12:00 PM EDT:
 		- Stable:
 			- jackett: v0.22.1987 --> v0.22.1992
