@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.08 @ 12:00 PM EDT:
+		- Stable:
+			- jackett: v0.22.1997 --> v0.22.1999
+			- readarr: v0.4.16.279 --> v0.4.17.280
+		- Premium:
+			- custom-app: v0.22.1997 --> v0.22.1999
 	- 2025.06.07 @ 09:02 AM EDT:
 		- Stable:
 			- impostor-server: v1.10.2 --> v1.10.3
