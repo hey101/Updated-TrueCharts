@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.09 @ 12:02 PM EDT:
+		- Stable:
+			- flood: v4.9.3 --> v4.9.5
+			- jackett: v0.22.1999 --> v0.22.2002
+			- nzbhydra: v7.14.1 --> v7.14.2
+			- plextraktsync: v0.34.10 --> v0.34.11
+			- proxmox-backup-server: v3.3.2 --> v3.4.1
+			- wallos: v3.1.1 --> v3.2.0
+		- Premium:
+			- custom-app: v0.22.1999 --> v0.22.2002
 	- 2025.06.08 @ 12:02 PM EDT:
 		- Stable:
 			- jackett: v0.22.1997 --> v0.22.1999
