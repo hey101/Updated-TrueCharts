@@ -31,6 +31,21 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.10 @ 12:02 PM EDT:
+		- Stable:
+			- ddns-go: v6.9.5 --> v6.10.0
+			- homebridge: v2025-05 --> v2025-06
+			- jackett: v0.22.2002 --> v0.22.2004
+			- jellyseerr: v2.5.2 --> v2.6.0
+			- lidarr: v2.11.2.462 --> v2.12.4.465
+			- metabase: v0.55.1 --> v0.55.2
+			- octoprint: v1.11.1 --> v1.11.2
+			- peanut: v5.7.5 --> v5.8.0
+			- tailscale: v1.84.0 --> v1.84.2
+			- wallos: v3.2.0 --> v3.3.0
+			- znc: v1.9.1 --> v1.10.0
+		- Premium:
+			- custom-app: v0.22.2002 --> v0.22.2004
 	- 2025.06.09 @ 12:02 PM EDT:
 		- Stable:
 			- flood: v4.9.3 --> v4.9.5
