@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.11 @ 12:33 AM EDT:
+		- Stable:
+			- autobrr: v1.62.0 --> v1.63.0
+			- jenkins: v2.513 --> v2.514
+			- nexus-oss: v3.80.0 --> v3.81.0
+			- nzbhydra: v7.14.2 --> v7.14.3
+			- satisfactory: v1.9.8 --> v1.9.9
 	- 2025.06.10 @ 12:02 PM EDT:
 		- Stable:
 			- ddns-go: v6.9.5 --> v6.10.0

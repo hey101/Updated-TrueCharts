@@ -1,0 +1,30 @@
+image:
+  pullPolicy: IfNotPresent
+  repository: docker.io/sonatype/nexus3
+  tag: 3.81.0@sha256:f7486311fcc5488eb948749a62f09d6e4c8dabbf3ca0014fc77d3a1cbed130c4
+persistence:
+  data:
+    enabled: true
+    mountPath: /nexus-data
+portal:
+  open:
+    enabled: true
+securityContext:
+  container:
+    runAsGroup: 200
+    runAsUser: 200
+  pod:
+    fsGroup: 200
+service:
+  main:
+    ports:
+      main:
+        port: 10288
+        targetPort: 8081
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            INSTALL4J_ADD_VM_PARAMS: -Xms2703m -Xmx2703m -XX:MaxDirectMemorySize=2703m -Djava.util.prefs.userRoot=${NEXUS_DATA}/javaprefs
