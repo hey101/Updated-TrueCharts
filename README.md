@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.11 @ 11:05 PM EDT:
+		- Stable:
+			- drawio: v26.2.15 --> v27.0.9
+			- nzbget: v24.8 --> v25.0
+			- observium: v20241206 --> v20250519
 	- 2025.06.11 @ 12:31 AM EDT:
 		- Stable:
 			- autobrr: v1.62.0 --> v1.63.0
