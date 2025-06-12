@@ -31,6 +31,12 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.11 @ 11:06 PM EDT:
+		- Stable:
+			- drawio: v26.2.15 --> v27.0.9
+			- gokapi: v1.9.6 --> v2.0.0
+			- nzbget: v24.8 --> v25.0
+			- observium: v20241206 --> v20250519
 	- 2025.06.11 @ 12:33 AM EDT:
 		- Stable:
 			- autobrr: v1.62.0 --> v1.63.0
