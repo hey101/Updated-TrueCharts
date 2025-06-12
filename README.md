@@ -31,6 +31,27 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.12 @ 05:57 PM EDT:
+		- Stable:
+			- authentik: v2025.4.2 --> v2025.6.1
+			- autobrr: v1.63.0 --> v1.63.1
+			- automatic-ripping-machine: v2.15.0 --> v2.15.1
+			- changedetection-io: v0.50.2 --> v0.50.3
+			- cloudflared: v2025.5.0 --> v2025.6.0
+			- emby: v4.9.1.0 --> v4.9.1.1
+			- gokapi: v1.9.6 --> v2.0.1
+			- jackett: v0.22.2004 --> v0.22.2011
+			- metabase: v0.55.2 --> v0.55.3
+			- minecraft-java: v2025.5.1 --> v2025.6.0
+			- netbootxyz: v0.7.5 --> v0.7.6
+			- nexus-oss: v3.81.0 --> v3.81.1
+			- pihole: v2025.06.1 --> v2025.06.2
+			- portainer: v2.30.1 --> v2.31.0
+			- sourcegraph: v6.4.1203 --> v6.4.2622
+			- tdarr: v2.42.01 --> v2.43.01
+			- tdarr-node: v2.42.01 --> v2.43.01
+		- Premium:
+			- custom-app: v0.22.2004 --> v0.22.2011
 	- 2025.06.11 @ 11:05 PM EDT:
 		- Stable:
 			- drawio: v26.2.15 --> v27.0.9
