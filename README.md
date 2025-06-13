@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.13 @ 12:00 PM EDT:
+		- Stable:
+			- jackett: v0.22.2011 --> v0.22.2015
+			- timetagger: v24.12.2 --> v25.06.1
+			- unifi: v9.1.120 --> v9.2.87
+			- wekan: v7.91 --> v7.92
+			- wizarr: v4.2.0 --> v2025.6.3
+		- Premium:
+			- custom-app: v0.22.2011 --> v0.22.2015
 	- 2025.06.12 @ 05:57 PM EDT:
 		- Stable:
 			- authentik: v2025.4.2 --> v2025.6.1
