@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.14 @ 12:00 PM EDT:
+		- Stable:
+			- flaresolverr: v3.3.24 --> v3.3.25
+			- flexget: v3.16.3 --> v3.16.5
+			- jackett: v0.22.2015 --> v0.22.2016
+			- maintainerr: v2.17.0 --> v2.18.0
+			- nzbhydra: v7.14.3 --> v7.15.0
+			- rstudio: v4.5.0 --> v4.5.1
+		- Premium:
+			- custom-app: v0.22.2015 --> v0.22.2016
 	- 2025.06.13 @ 12:00 PM EDT:
 		- Stable:
 			- jackett: v0.22.2011 --> v0.22.2015
