@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.14 @ 03:37 PM EDT:
+		- Stable:
+			- ollama: v0.9.0 --> v0.9.1
 	- 2025.06.14 @ 12:02 PM EDT:
 		- Stable:
 			- flaresolverr: v3.3.24 --> v3.3.25
