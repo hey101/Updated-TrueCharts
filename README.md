@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.15 @ 12:02 PM EDT:
+		- Stable:
+			- audiobookshelf: v2.24.0 --> v2.25.1
+			- fileflows: v25.05 --> v25.06
+			- jackett: v0.22.2016 --> v0.22.2017
+			- tinymediamanager: v5.1.6 --> v5.1.7
+		- Premium:
+			- custom-app: v0.22.2016 --> v0.22.2017
 	- 2025.06.14 @ 03:36 PM EDT:
 		- Stable:
 			- ollama: v0.9.0 --> v0.9.1
