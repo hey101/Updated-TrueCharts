@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.16 @ 11:06 AM EDT:
+		- Stable:
+			- crafty-4: v4.4.9 --> v4.4.11
+			- fluidd: v1.34.2 --> v1.34.3
+			- jackett: v0.22.2017 --> v0.22.2020
+		- Premium:
+			- custom-app: v0.22.2017 --> v0.22.2020
 	- 2025.06.15 @ 12:02 PM EDT:
 		- Stable:
 			- audiobookshelf: v2.24.0 --> v2.25.1
