@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.17 @ 10:31 AM EDT:
+		- Stable:
+			- authentik: v2025.6.1 --> v2025.6.2
+			- filebrowser: v2.32.0 --> v2.32.1
+			- jackett: v0.22.2020 --> v0.22.2024
+			- nzbhydra: v7.15.0 --> v7.15.1
+			- tdarr: v2.43.01 --> v2.44.01
+			- tdarr-node: v2.43.01 --> v2.44.01
+			- wyoming-whisper: v2.4.0 --> v2.5.0
+		- Premium:
+			- custom-app: v0.22.2020 --> v0.22.2024
 	- 2025.06.16 @ 11:06 AM EDT:
 		- Stable:
 			- crafty-4: v4.4.9 --> v4.4.11
