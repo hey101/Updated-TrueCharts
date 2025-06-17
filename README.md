@@ -31,6 +31,11 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.17 @ 02:33 PM EDT:
+		- Stable:
+			- cloudflared: v2025.6.0 --> v2025.6.1
+			- filebrowser: v2.32.1 --> v2.32.3
+			- jenkins: v2.514 --> v2.515
 	- 2025.06.17 @ 10:31 AM EDT:
 		- Stable:
 			- authentik: v2025.6.1 --> v2025.6.2
