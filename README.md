@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.18 @ 12:01 PM EDT:
+		- Stable:
+			- twofauth: v5.5.2 --> v5.6.0
 	- 2025.06.18 @ 10:34 AM EDT:
 		- Stable:
 			- esphome: v2025.5.2 --> v2025.6.0
