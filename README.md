@@ -31,6 +31,20 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.18 @ 10:34 AM EDT:
+		- Stable:
+			- esphome: v2025.5.2 --> v2025.6.0
+			- ispy-agent-dvr: v6.3.4.0 --> v6.4.8.0
+			- jackett: v0.22.2024 --> v0.22.2026
+			- mc-router: v1.31.0 --> v1.31.1
+			- metabase: v0.55.3 --> v0.55.4
+			- ollama: v0.9.1 --> v0.9.2
+			- pocketmine-mp: v5.28.2 --> v5.29.0
+			- zwavejs2mqtt: v10.6.1 --> v10.7.0
+		- Premium:
+			- custom-app: v0.22.2024 --> v0.22.2026
+			- grafana: v12.0.1 --> v12.0.2
+			- nextcloud: v31.0.5 --> v31.0.6
 	- 2025.06.17 @ 02:33 PM EDT:
 		- Stable:
 			- cloudflared: v2025.6.0 --> v2025.6.1
