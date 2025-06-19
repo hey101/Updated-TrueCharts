@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.19 @ 11:54 AM EDT:
+		- Stable:
+			- clamav: v1.4.2 --> v1.4.3
+			- clickhouse: v25.5.2.47 --> v25.5.3.75
+			- ispy-agent-dvr: v6.4.8.0 --> v6.4.9.0
+			- jackett: v0.22.2026 --> v0.22.2029
+			- pocketmine-mp: v5.29.0 --> v5.30.0
+			- portainer: v2.31.0 --> v2.31.1
+			- wizarr: v2025.6.3 --> v2025.6.4
+		- Premium:
+			- custom-app: v0.22.2026 --> v0.22.2029
 	- 2025.06.18 @ 08:38 PM EDT:
 		- Stable:
 			- filebrowser: v2.32.3 --> v2.33.0
