@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.18 @ 08:38 PM EDT:
+		- Stable:
+			- filebrowser: v2.32.3 --> v2.33.0
+			- sourcegraph: v6.4.2622 --> v6.4.3889
 	- 2025.06.18 @ 12:02 PM EDT:
 		- Stable:
 			- twofauth: v5.5.2 --> v5.6.0
