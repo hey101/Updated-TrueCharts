@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.20 @ 12:01 PM EDT:
+		- Stable:
+			- calibre: v8.4.0 --> v8.5.0
+			- jackett: v0.22.2029 --> v0.22.2032
+			- linkding: v1.40.0 --> v1.41.0
+			- maintainerr: v2.18.0 --> v2.18.1
+			- tdarr: v2.44.01 --> v2.45.01
+			- tdarr-node: v2.44.01 --> v2.45.01
+		- Premium:
+			- custom-app: v0.22.2029 --> v0.22.2032
 	- 2025.06.19 @ 11:53 AM EDT:
 		- Stable:
 			- clamav: v1.4.2 --> v1.4.3
