@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.21 @ 12:30 PM EDT:
+		- Stable:
+			- changedetection-io: v0.50.3 --> v0.50.4
+			- code-server: v4.101.0 --> v4.101.1
+			- czkawka: v25.04.1 --> v25.06.1
+			- filebot: v25.02.1 --> v25.06.1
+			- filebrowser: v2.33.0 --> v2.33.2
+			- jackett: v0.22.2032 --> v0.22.2035
+			- rdtclient: v2.0.113 --> v2.0.114
+		- Premium:
+			- custom-app: v0.22.2032 --> v0.22.2035
 	- 2025.06.20 @ 08:26 PM EDT:
 		- Stable:
 			- avidemux: v25.02.1 --> v25.06.1
