@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.20 @ 08:24 PM EDT:
+		- Stable:
+			- avidemux: v25.02.1 --> v25.06.1
+			- borg-server: v2.6.12 --> v2.6.14
+			- code-server: v4.100.3 --> v4.101.0
+			- drawio: v27.0.9 --> v27.1.6
+			- flexget: v3.16.5 --> v3.16.6
+			- jellyseerr: v2.6.0 --> v2.7.0
+			- mc-router: v1.31.1 --> v1.32.0
 	- 2025.06.20 @ 12:01 PM EDT:
 		- Stable:
 			- calibre: v8.4.0 --> v8.5.0
