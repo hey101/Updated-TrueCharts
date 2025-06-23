@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.06.22 @ 08:41 PM EDT:
+		- Stable:
+			- filebrowser: v2.33.2 --> v2.33.4
+			- jackett: v0.22.2035 --> v0.22.2037
+			- jdownloader2: v25.02.1 --> v25.06.1
+			- makemkv: v25.05.1 --> v25.06.1
+			- mediainfo: v25.05.1 --> v25.06.1
+			- mkvcleaver: v25.02.1 --> v25.06.1
+			- mkvtoolnix: v25.05.1 --> v25.06.1
+			- qbitmanage: v4.3.0 --> v4.4.0
+			- readarr: v0.4.17.280 --> v0.4.18.280
+		- Premium:
+			- custom-app: v0.22.2035 --> v0.22.2037
 	- 2025.06.21 @ 12:30 PM EDT:
 		- Stable:
 			- changedetection-io: v0.50.3 --> v0.50.4
