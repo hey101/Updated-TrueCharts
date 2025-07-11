@@ -31,6 +31,89 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.11 @ 04:51 PM EDT:
+		- Stable:
+			- actualserver: v25.6.1 --> v25.7.1
+			- adguard-home: v0.107.62 --> v0.107.63
+			- authentik: v2025.6.2 --> v2025.6.3
+			- automatic-ripping-machine: v2.15.1 --> v2.17.0
+			- avidemux: v25.06.1 --> v25.06.2
+			- borg-server: v2.6.14 --> v2.6.16
+			- calibre: v8.5.0 --> v8.6.0
+			- changedetection-io: v0.50.4 --> v0.50.5
+			- clickhouse: v25.5.3.75 --> v25.5.6.14
+			- cloudflared: v2025.6.1 --> v2025.7.0
+			- code-server: v4.101.1 --> v4.101.2
+			- czkawka: v25.06.1 --> v25.06.2
+			- dashdot: v6.0.0 --> v6.1.0
+			- ddns-go: v6.10.0 --> v6.11.3
+			- docker: v28.2.2 --> v28.3.1
+			- emby: v4.9.1.1 --> v4.9.1.5
+			- ersatztv: v25.1.0 --> v25.2.0
+			- esphome: v2025.6.0 --> v2025.6.3
+			- filebot: v25.06.1 --> v25.06.2
+			- filebrowser: v2.33.4 --> v2.37.0
+			- fileflows: v25.06 --> v25.07
+			- flexget: v3.16.6 --> v3.16.12
+			- game-server-watcher: v3.1.23 --> v3.1.24
+			- gaseous-server: v1.7.11 --> v1.7.12
+			- gravity: v0.27.0 --> v0.27.1
+			- guacd: v1.5.5 --> v1.6.0
+			- handbrake: v25.02.3 --> v25.07.1
+			- homebox: v0.19.0 --> v0.20.2
+			- ispy-agent-dvr: v6.4.9.0 --> v6.5.4.0
+			- jackett: v0.22.2037 --> v0.22.2145
+			- jdownloader2: v25.06.1 --> v25.06.2
+			- jenkins: v2.515 --> v2.518
+			- kavita: v0.8.6 --> v0.8.7
+			- komga: v1.21.3 --> v1.22.0
+			- local-ai: v2.29.0 --> v3.1.1
+			- makemkv: v25.06.1 --> v25.06.2
+			- mariadb: v11.7.2 --> v11.8.2
+			- mc-router: v1.32.0 --> v1.32.3
+			- mediainfo: v25.06.1 --> v25.06.2
+			- meshcentral: v1.1.45 --> v1.1.46
+			- metabase: v0.55.4 --> v0.55.7
+			- metube: v2025-06 --> v2025-07
+			- minecraft-bungeecord: v2025.4.0 --> v2025.6.0
+			- minecraft-java: v2025.6.0 --> v2025.6.2
+			- mkvcleaver: v25.06.1 --> v25.06.2
+			- mkvtoolnix: v25.06.1 --> v25.06.2
+			- navidrome: v0.56.1 --> v0.57.0
+			- netdata: v2.5.3 --> v2.5.4
+			- nexus-oss: v3.81.1 --> v3.82.0
+			- nginx-proxy-manager: v2.12.3 --> v2.12.6
+			- ntfy: v2.12.0 --> v2.13.0
+			- nzbget: v25.0 --> v25.2
+			- nzbhydra: v7.15.1 --> v7.15.3
+			- ollama: v0.9.2 --> v0.9.6
+			- openvscode-server: v1.99.3 --> v1.101.2
+			- pgadmin: v9.4 --> v9.5
+			- pocketmine-mp: v5.30.0 --> v5.31.0
+			- portainer: v2.31.1 --> v2.31.3
+			- putty: v25.02.1 --> v25.07.1
+			- qdirstat: v25.02.1 --> v25.07.1
+			- qinglong: v2.19.1 --> v2.19.2
+			- redis: v8.0.2 --> v8.0.3
+			- redisinsight: v2.70.0 --> v2.70.1
+			- shlink-web-client: v4.4.0 --> v4.4.1
+			- soft-serve: v0.8.5 --> v0.9.1
+			- sourcegraph: v6.4.3889 --> v6.5.2654
+			- syncthing: v1.29.7 --> v1.30.0
+			- tailscale: v1.84.2 --> v1.84.3
+			- tsmuxer: v25.04.1 --> v25.07.1
+			- unmanic: v0.2.7 --> v0.3.0
+			- whisper-asr-webservice: v1.8.2 --> v1.9.1
+			- wizarr: v2025.6.4 --> v2025.6.5
+			- wyoming-piper: v1.5.4 --> v1.6.2
+			- xen-orchestra: v5.178.2 --> v5.181.0
+			- zigbee2mqtt: v2.4.0 --> v2.5.1
+			- znc: v1.10.0 --> v1.10.1
+			- zwavejs2mqtt: v10.7.0 --> v10.9.0
+		- Premium:
+			- custom-app: v0.22.2037 --> v0.22.2145
+			- prometheus: v3.4.1 --> v3.4.2
+			- traefik: v3.4.1 --> v3.4.3
 	- 2025.06.22 @ 08:41 PM EDT:
 		- Stable:
 			- filebrowser: v2.33.2 --> v2.33.4
