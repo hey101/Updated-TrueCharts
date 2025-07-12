@@ -1,0 +1,35 @@
+image:
+  repository: docker.io/jgraph/drawio
+  tag: 28.0.3@sha256:1a19b4735d34177b083b761df6e1c71ebd34fee8febd988cd33f73ecb31c959b
+  pullPolicy: IfNotPresent
+securityContext:
+  container:
+    readOnlyRootFilesystem: false
+    runAsNonRoot: false
+    runAsUser: 0
+    runAsGroup: 0
+service:
+  main:
+    ports:
+      main:
+        port: 10214
+        targetPort: 8080
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          probes:
+            liveness:
+              type: http
+              path: /
+            readiness:
+              type: http
+              path: /
+            startup:
+              type: http
+              path: /
+          env: {}
+portal:
+  open:
+    enabled: true
