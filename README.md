@@ -31,6 +31,35 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.12 @ 09:42 AM EDT:
+		- Stable:
+			- avidemux: v25.06.2 --> v25.07.1
+			- clickhouse: v25.5.6.14 --> v25.6.3.116
+			- czkawka: v25.06.2 --> v25.07.1
+			- digikam: v8.6.0 --> v8.7.0
+			- drawio: v27.1.6 --> v28.0.3
+			- emby: v4.9.1.5 --> v4.9.1.6
+			- filebot: v25.06.2 --> v25.07.1
+			- filebrowser: v2.37.0 --> v2.38.0
+			- flexget: v3.16.12 --> v3.16.13
+			- frigate: v0.15.1 --> v0.15.2
+			- homebridge: v2025-06 --> v2025-07
+			- jackett: v0.22.2145 --> v0.22.2151
+			- jdownloader2: v25.06.2 --> v25.07.1
+			- makemkv: v25.06.2 --> v25.07.1
+			- mealie: v2.7.1 --> v3.0.0
+			- mediainfo: v25.06.2 --> v25.07.1
+			- mkvcleaver: v25.06.2 --> v25.07.1
+			- mkvtoolnix: v25.06.2 --> v25.07.1
+			- mosquitto: v2.0.21 --> v2.0.22
+			- qbitmanage: v4.4.0 --> v4.5.0
+			- servas: v0.5.1 --> v1.0.0
+			- traccar: v6.7 --> v6.8
+			- wizarr: v2025.6.5 --> v2025.7.3
+		- Premium:
+			- custom-app: v0.22.2145 --> v0.22.2151
+			- nextcloud: v31.0.6 --> v31.0.7
+			- traefik: v3.4.3 --> v3.4.4
 	- 2025.07.11 @ 04:51 PM EDT:
 		- Stable:
 			- actualserver: v25.6.1 --> v25.7.1
