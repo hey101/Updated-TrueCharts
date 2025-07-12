@@ -31,6 +31,9 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.12 @ 12:00 PM EDT:
+		- Stable:
+			- automatic-ripping-machine: v2.17.0 --> v2.17.1
 	- 2025.07.12 @ 09:41 AM EDT:
 		- Stable:
 			- avidemux: v25.06.2 --> v25.07.1
