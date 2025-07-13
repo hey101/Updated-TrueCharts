@@ -31,6 +31,15 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.13 @ 08:46 AM EDT:
+		- Stable:
+			- adguardhome-sync: v0.7.6 --> v0.7.7
+			- filebrowser: v2.38.0 --> v2.39.0
+			- gaseous-server: v1.7.12 --> v1.7.13
+			- jackett: v0.22.2151 --> v0.22.2153
+		- Premium:
+			- authelia: v4.39.4 --> v4.39.5
+			- custom-app: v0.22.2151 --> v0.22.2153
 	- 2025.07.12 @ 10:09 PM EDT:
 		- Stable:
 			- audiobookshelf: v2.25.1 --> v2.26.0
