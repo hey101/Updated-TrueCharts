@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.13 @ 03:33 PM EDT:
+		- Stable:
+			- mc-router: v1.32.3 --> v1.32.4
+			- mealie: v3.0.0 --> v3.0.1
 	- 2025.07.13 @ 08:46 AM EDT:
 		- Stable:
 			- adguardhome-sync: v0.7.6 --> v0.7.7
