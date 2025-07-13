@@ -31,6 +31,13 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.12 @ 10:07 PM EDT:
+		- Stable:
+			- audiobookshelf: v2.25.1 --> v2.26.0
+			- changedetection-io: v0.50.5 --> v0.50.6
+			- drawio: v28.0.3 --> v28.0.4
+			- maintainerr: v2.18.1 --> v2.18.2
+			- wizarr: v2025.7.3 --> v2025.7.4
 	- 2025.07.12 @ 12:00 PM EDT:
 		- Stable:
 			- automatic-ripping-machine: v2.17.0 --> v2.17.1
