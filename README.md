@@ -31,6 +31,52 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.18 @ 03:38 PM EDT:
+		- Stable:
+			- adguardhome-sync: v0.7.7 --> v0.7.8
+			- ariang: v1.3.10 --> v1.3.11
+			- atuin: v18.6.1 --> v18.7.1
+			- audiobookshelf: v2.26.0 --> v2.26.1
+			- automatic-ripping-machine: v2.17.1 --> v2.17.2
+			- calibre: v8.6.0 --> v8.7.0
+			- changedetection-io: v0.50.6 --> v0.50.7
+			- chroma: v0.6.3 --> v1.0.15
+			- clickhouse: v25.6.3.116 --> v25.6.4.12
+			- code-server: v4.101.2 --> v4.102.1
+			- docker: v28.3.1 --> v28.3.2
+			- drawio: v28.0.4 --> v28.0.5
+			- emby: v4.9.1.6 --> v4.9.1.7
+			- esphome: v2025.6.3 --> v2025.7.1
+			- external-dns: v0.17.0 --> v0.18.0
+			- external-service: v3.22.0 --> v3.22.1
+			- filebrowser: v2.39.0 --> v2.40.2
+			- homepage: v1.3.2 --> v1.4.0
+			- ipfs: v0.35.0 --> v0.36.0
+			- jackett: v0.22.2153 --> v0.22.2163
+			- jellyseerr: v2.7.0 --> v2.7.1
+			- jenkins: v2.518 --> v2.519
+			- komga: v1.22.0 --> v1.22.1
+			- meshcentral: v1.1.46 --> v1.1.47
+			- metabase: v0.55.7 --> v0.55.8
+			- mongodb: v8.0.10 --> v8.0.11
+			- netdata: v2.5.4 --> v2.6.0
+			- openhab: v4.3.5 --> v4.3.6
+			- oscam: v11884 --> v11885
+			- peanut: v5.8.0 --> v5.9.3
+			- pihole: v2025.06.2 --> v2025.07.1
+			- plextraktsync: v0.34.11 --> v0.34.12
+			- resilio-sync: v3.0.3 --> v3.1.0
+			- syslog-ng: v4.8.3 --> v4.9.0
+			- unifi: v9.2.87 --> v9.3.43
+			- vocechat-server: v0.4.3 --> v0.5.0
+			- watcharr: v2.1.0 --> v2.1.1
+			- wg-easy: v14 --> v15.1.0
+			- wordpress: v6.8.1 --> v6.8.2
+		- System:
+			- volsync: v0.12.1 --> v0.13.0
+		- Premium:
+			- custom-app: v0.22.2153 --> v0.22.2163
+			- prometheus: v3.4.2 --> v3.5.0
 	- 2025.07.13 @ 03:33 PM EDT:
 		- Stable:
 			- mc-router: v1.32.3 --> v1.32.4
