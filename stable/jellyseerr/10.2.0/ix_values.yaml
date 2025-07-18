@@ -1,0 +1,26 @@
+image:
+  repository: docker.io/fallenbagel/jellyseerr
+  tag: 2.7.1@sha256:c9d751b5a0c1cb8e2e32aee9a983c811a439f0ab13582c6bdd13d93f86a61954
+  pullPolicy: IfNotPresent
+service:
+  main:
+    ports:
+      main:
+        port: 10241
+persistence:
+  config:
+    enabled: true
+    mountPath: "/app/config"
+portal:
+  open:
+    enabled: true
+workload:
+  main:
+    podSpec:
+      containers:
+        main:
+          env:
+            PORT: "{{ .Values.service.main.ports.main.port }}"
+            # User Defined
+            JELLYFIN_TYPE: ""
+            LOG_LEVEL: "info"
