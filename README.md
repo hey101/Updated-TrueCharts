@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.19 @ 09:21 AM EDT:
+		- Stable:
+			- esphome: v2025.7.1 --> v2025.7.2
+			- flexget: v3.16.13 --> v3.16.14
+			- jackett: v0.22.2163 --> v0.22.2165
+			- peanut: v5.9.3 --> v5.9.4
+			- wekan: v7.92 --> v7.93
+			- wizarr: v2025.7.4 --> v2025.7.5
+		- Premium:
+			- custom-app: v0.22.2163 --> v0.22.2165
 	- 2025.07.18 @ 03:38 PM EDT:
 		- Stable:
 			- adguardhome-sync: v0.7.7 --> v0.7.8
