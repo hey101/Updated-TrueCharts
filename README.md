@@ -31,6 +31,10 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.19 @ 12:03 PM EDT:
+		- Stable:
+			- humhub: v1.17.1 --> v1.17.2
+			- qbitmanage: v4.5.0 --> v4.5.1
 	- 2025.07.19 @ 09:21 AM EDT:
 		- Stable:
 			- esphome: v2025.7.1 --> v2025.7.2
