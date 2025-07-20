@@ -31,6 +31,16 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.20 @ 12:02 PM EDT:
+		- Stable:
+			- automatic-ripping-machine: v2.17.2 --> v2.17.3
+			- emby: v4.9.1.7 --> v4.9.1.8
+			- jackett: v0.22.2165 --> v0.22.2174
+			- kopia: v0.20.1 --> v0.21.0
+			- wallos: v3.3.0 --> v3.3.1
+			- wizarr: v2025.7.5 --> v2025.7.6
+		- Premium:
+			- custom-app: v0.22.2165 --> v0.22.2174
 	- 2025.07.19 @ 12:03 PM EDT:
 		- Stable:
 			- humhub: v1.17.1 --> v1.17.2
