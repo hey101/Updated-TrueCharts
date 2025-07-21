@@ -31,6 +31,14 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.21 @ 10:26 AM EDT:
+		- Stable:
+			- jackett: v0.22.2174 --> v0.22.2178
+			- mc-router: v1.32.4 --> v1.33.0
+			- oscam: v11885 --> v11886
+			- tinymediamanager: v5.1.7 --> v5.1.8
+		- Premium:
+			- custom-app: v0.22.2174 --> v0.22.2178
 	- 2025.07.20 @ 12:02 PM EDT:
 		- Stable:
 			- automatic-ripping-machine: v2.17.2 --> v2.17.3
