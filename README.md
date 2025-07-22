@@ -31,6 +31,22 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.22 @ 11:36 AM EDT:
+		- Stable:
+			- audiobookshelf: v2.26.1 --> v2.26.2
+			- authentik: v2025.6.3 --> v2025.6.4
+			- autobrr: v1.63.1 --> v1.64.0
+			- automatic-ripping-machine: v2.17.3 --> v2.17.4
+			- ddns-go: v6.11.3 --> v6.12.0
+			- filebrowser: v2.40.2 --> v2.41.0
+			- jackett: v0.22.2178 --> v0.22.2182
+			- jellyseerr: v2.7.1 --> v2.7.2
+			- kopia: v0.21.0 --> v0.21.1
+			- mealie: v3.0.1 --> v3.0.2
+			- mysql-workbench: v8.0.42 --> v8.0.43
+			- static-web-server: v2.37.0 --> v2.38.0
+		- Premium:
+			- custom-app: v0.22.2178 --> v0.22.2182
 	- 2025.07.21 @ 10:26 AM EDT:
 		- Stable:
 			- jackett: v0.22.2174 --> v0.22.2178
