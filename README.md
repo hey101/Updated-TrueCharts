@@ -31,6 +31,17 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.23 @ 09:52 AM EDT:
+		- Stable:
+			- drawio: v28.0.5 --> v28.0.6
+			- esphome: v2025.7.2 --> v2025.7.3
+			- jackett: v0.22.2182 --> v0.22.2185
+			- jenkins: v2.519 --> v2.520
+			- meshcentral: v1.1.47 --> v1.1.48
+			- metabase: v0.55.8 --> v0.55.9
+			- tasmoadmin: v4.3.0 --> v4.3.1
+		- Premium:
+			- custom-app: v0.22.2182 --> v0.22.2185
 	- 2025.07.22 @ 11:36 AM EDT:
 		- Stable:
 			- audiobookshelf: v2.26.1 --> v2.26.2
