@@ -31,6 +31,19 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.24 @ 10:06 AM EDT:
+		- Stable:
+			- audiobookshelf: v2.26.2 --> v2.26.3
+			- ispy-agent-dvr: v6.5.4.0 --> v6.5.5.0
+			- jackett: v0.22.2185 --> v0.22.2187
+			- mongodb: v8.0.11 --> v8.0.12
+			- openvscode-server: v1.101.2 --> v1.102.2
+			- portainer: v2.31.3 --> v2.32.0
+			- sourcegraph: v6.5.2654 --> v6.6.0
+			- zwavejs2mqtt: v10.9.0 --> v10.10.0
+		- Premium:
+			- custom-app: v0.22.2185 --> v0.22.2187
+			- grafana: v12.0.2 --> v12.0.3
 	- 2025.07.23 @ 09:50 AM EDT:
 		- Stable:
 			- drawio: v28.0.5 --> v28.0.6
