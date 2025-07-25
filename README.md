@@ -31,6 +31,24 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.25 @ 12:05 PM EDT:
+		- Stable:
+			- anonaddy: v1.3.2 --> v1.3.3
+			- avidemux: v25.07.1 --> v25.07.2
+			- clickhouse: v25.6.4.12 --> v25.6.5.41
+			- code-server: v4.102.1 --> v4.102.2
+			- czkawka: v25.07.1 --> v25.07.2
+			- drawio: v28.0.6 --> v28.0.7
+			- ersatztv: v25.2.0 --> v25.3.1
+			- filebot: v25.07.1 --> v25.07.2
+			- jackett: v0.22.2187 --> v0.22.2193
+			- local-ai: v3.1.1 --> v3.2.0
+			- peanut: v5.9.4 --> v5.10.0
+			- pgadmin: v9.5 --> v9.6
+			- solr: v9.8.1 --> v9.9.0
+			- wizarr: v2025.7.6 --> v2025.7.7
+		- Premium:
+			- custom-app: v0.22.2187 --> v0.22.2193
 	- 2025.07.24 @ 10:08 AM EDT:
 		- Stable:
 			- audiobookshelf: v2.26.2 --> v2.26.3
