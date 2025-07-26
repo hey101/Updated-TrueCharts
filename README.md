@@ -31,6 +31,18 @@ Now you should be able to update your applications again.
 
 
 - ### Changelog:
+	- 2025.07.26 @ 11:05 AM EDT:
+		- Stable:
+			- fireshare: v1.2.25 --> v1.2.26
+			- flexget: v3.16.14 --> v3.17.0
+			- jackett: v0.22.2193 --> v0.22.2196
+			- local-ai: v3.2.0 --> v3.2.3
+			- mc-router: v1.33.0 --> v1.34.0
+			- monero-node: v0.18.4.0 --> v0.18.4.1
+			- netdata: v2.6.0 --> v2.6.1
+			- piwigo: v15.5.0 --> v15.6.0
+		- Premium:
+			- custom-app: v0.22.2193 --> v0.22.2196
 	- 2025.07.25 @ 12:02 PM EDT:
 		- Stable:
 			- anonaddy: v1.3.2 --> v1.3.3
